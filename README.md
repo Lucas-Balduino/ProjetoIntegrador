@@ -1,6 +1,6 @@
-## Documento de Alinhamento: Projeto Integrador 1 (PI 1)
+## Projeto Integrador 1 (PI 1)
 
-**Tema:** Plataforma de Conexão para Serviços de Limpeza Residencial
+**Tema:** Trabalho Autonomo ou Informal
 
 ### 1. Nossa Visão e Objetivo no PI 1
 
