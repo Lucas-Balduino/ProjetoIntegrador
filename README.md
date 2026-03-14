@@ -1,8 +1,11 @@
 ## Projeto Integrador 1 (PI 1)
 
+----
+
 **Tema:** Trabalho Autonomo ou Informal
 
 ### 1. Nossa Visão e Objetivo no PI 1
+
 
 O objetivo deste semestre **não é construir o aplicativo ou a solução final**. Nosso foco total é mergulhar no "Espaço do Problema". O mercado está cheio de aplicativos de serviço que falham porque não entendem as reais dores das pessoas. Nossa missão no PI 1 é entregar um **Dashboard de Análise da Problemática**, provando para a banca que existe um problema real, validado por dados, e que vale a pena ser resolvido nos próximos semestres.
 
