@@ -52,3 +52,11 @@ Ao final do semestre, apresentaremos um painel visual que vai cruzar as informa�
 Este estudo tem como objetivo analisar o perfil das pessoas que realizam atividades de cuidado de forma remunerada e compreender as condições e as características deste trabalho. Foram consideradas as ocupações relativas ao cuidado de crianças, idosos, pessoas doentes, pessoas com deficiência e ao trabalho doméstico. A pesquisa, de caráter exploratório, foi conduzida a partir de uma metodologia quantitativa, combinando a aplicação de um questionário online autopreenchido e o uso do método bola de neve virtual e outras estratégias metodológicas. Em síntese, os resultados reafirmam o predominante perfil de mulheres negras nessas ocupações. As disparidades raciais são observadas nas condições de trabalho, renda, nível de escolaridade, tempo de deslocamento para o trabalho, entre outras variáveis. **Embora o uso de plataformas digitais e aplicativos para a obtenção de trabalho ainda seja limitado, observou-se um interesse potencial dos trabalhadores por esses recursos.**
 
 Fonte de validação de projeto e problemática.
+
+**IPEA** -> https://www.ipea.gov.br/portal/busca-geral?q=economia+gig
+
+**IBGE** -> https://www.ibge.gov.br/estatisticas/sociais/saude/17270-pnad-continua.html
+
+**SEBRAE** -> https://sebrae.com.br/sites/PortalSebrae/empreendedorismofeminino
+
+**FENATRAD** -> https://fenatrad.org.br/institucional/
