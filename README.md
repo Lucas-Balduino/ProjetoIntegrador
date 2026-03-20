@@ -33,7 +33,7 @@ Para que nosso projeto tenha relevância acadêmica e social, ele será ancorado
 Para construir nosso Dashboard, cruzaremos dados oficiais de mercado (Macro) com a realidade local da nossa pesquisa de campo (Micro).
 
 | Frente de Pesquisa | Objetivo Principal | Fontes e Ferramentas |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **Primária (Clientes)** | Mapear frequência, medos, critérios de confiança e dores ao contratar. | Google Forms e Entrevistas com contratantes. |
 | **Primária (Diaristas)** | Entender ociosidade, calotes, medos e relação com tecnologia. | Conversas de WhatsApp, indicações, grupos de Facebook. |
 | **Secundária (Mercado)** | Provar o tamanho do mercado e a taxa de informalidade/vulnerabilidade. | **IBGE (PNAD)**, **IPEA**, **Sebrae**. |
