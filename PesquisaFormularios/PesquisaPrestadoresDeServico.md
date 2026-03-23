@@ -26,6 +26,10 @@ Uso de roteiro não apenas como um formulário online, mas como um **guia para c
 11. **Se existisse um aplicativo no celular que te arrumasse clientes nos dias que você está sem agenda, qual seria a sua MAIOR PREOCUPAÇÃO ao usar ele?** *(Múltipla escolha: Ter que pagar uma taxa alta para o aplicativo, Medo de ir na casa de gente estranha/perigosa, O cliente do app não pagar direito, Não saber usar o aplicativo direito, Outro)*
 12. **O que faria você confiar em um cliente que você nunca viu na vida?** *(Pergunta Aberta - Ex: "Saber que ele já foi avaliado por outras diaristas", "Ter o documento dele", etc).*
 
+#### Bloco 5: Formalização e Proteção (Foco ODS 8)
+*Objetivo: Provar com dados o nível de precarização e falta de rede de apoio das profissionais.*
+13. **Você possui o MEI (Microempreendedor Individual) ativo hoje e paga a guia (DAS) mensalmente?**(Múltipla escolha: Sim, pago em dia e tenho os benefícios / Não, nunca abri um MEI / Não, eu abri mas parei de pagar).
+14. **(Se a resposta anterior for "Não") Qual é o principal motivo para você não contribuir com o MEI hoje?** (Múltipla escolha: O dinheiro da faxina não sobra para pagar o boleto / Acho o processo muito complicado / Não vejo vantagem em pagar).
 ---
 
 * **Gráfico de Ociosidade vs. Demanda:** Gráfico dos clientes (ex: *70% acham difícil achar alguém de última hora*). Gráfico das diaristas (ex: *60% têm dias livres na semana e queriam estar trabalhando*). 
@@ -35,3 +39,5 @@ Uso de roteiro não apenas como um formulário online, mas como um **guia para c
 * **Nuvem de Palavras dos Medos:** Pegar as respostas da pergunta 7 (dificuldade com clientes novos) e da pergunta 12 (confiança). Palavras como "calote", "medo", "segurança", "tamanho da casa", "ônibus" vão aparecer muito.
 
 Uso para Mapa da Empatia, Bloco 1 Bloco 3
+
+https://docs.google.com/forms/d/e/1FAIpQLSfef20fndtWskcReESThBPoXWfYg-gMcjoKkx5OO2XcT63LVw/viewform?usp=publish-editor

@@ -31,3 +31,5 @@
 * **Nuvem de Palavras:** Pegue as respostas da pergunta 7 (sobre frustrações) e coloque num gerador de nuvem de palavras. Palavras como "Confiança", "Atraso", "Falta", "Preço" provavelmente vão se destacar. Isso é visualmente impactante para uma banca de faculdade!
 
 Formação de Mapa da Empatia a partir de Respostas, Bloco 2 e 3
+
+https://docs.google.com/forms/d/e/1FAIpQLSclRdcMpeLnnIRYE-lLavfXCGyhbxpWfzOJQBcLHNZEHe_e9A/viewform?usp=publish-editor
