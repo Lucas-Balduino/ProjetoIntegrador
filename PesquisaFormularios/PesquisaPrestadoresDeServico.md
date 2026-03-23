@@ -40,4 +40,9 @@ Uso de roteiro não apenas como um formulário online, mas como um **guia para c
 
 Uso para Mapa da Empatia, Bloco 1 Bloco 3
 
-https://docs.google.com/forms/d/e/1FAIpQLSfef20fndtWskcReESThBPoXWfYg-gMcjoKkx5OO2XcT63LVw/viewform?usp=publish-editor
+*Oi, pessoal! Com licença! 🙏 Somos estudantes da faculdade de Tecnologia e estamos fazendo um projeto para tentar ajudar e valorizar o trabalho das diaristas.
+
+Queremos entender as maiores dificuldades de vocês no dia a dia (cancelamentos, segurança, calotes), para pensar em soluções justas. Vocês poderiam nos ajudar respondendo a essa pesquisa rápida? 🧹✨
+
+🔒 É 100% anônimo (não pede nome nem número) e leva só 3 minutinhos. Ajuda muito a gente a passar de semestre! Muito obrigado!
+👉 https://docs.google.com/forms/d/e/1FAIpQLSfef20fndtWskcReESThBPoXWfYg-gMcjoKkx5OO2XcT63LVw/viewform?usp=publish-editor*
