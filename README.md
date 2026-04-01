@@ -60,3 +60,5 @@ Fonte de validação de projeto e problemática.
 **SEBRAE** -> https://sebrae.com.br/sites/PortalSebrae/empreendedorismofeminino
 
 **FENATRAD** -> https://fenatrad.org.br/institucional/
+
+**ILO/OIT** -> https://www.ilo.org/sites/default/files/2025-05/trabalhadoras_domesticas_remuneradas.pdf
