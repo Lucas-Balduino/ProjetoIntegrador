@@ -66,3 +66,39 @@ Fonte de validação de projeto e problemática.
 **IBGE/eSocial** -> https://www.gov.br/esocial/pt-br/empregador-domestico/manual-do-empregador-domestico#:~:text=O%20acesso%20ao%20sistema%20deve%20ser%20feito%20atrav%C3%A9s%20do%20endere%C3%A7o%20eletr%C3%B4nico%20https://login.esocial.gov.br.
 
 Manual do Empregador Domestico
+
+---
+
+### 8. Estrutura do Repositório
+
+```text
+ProjetoIntegrador/
+├── Data/
+│   └── DataIPEA-IBGE/
+│       ├── DataPopulacaoEmTD(S,R,L).xlsx
+│       ├── DataTDR-RendimentoMedio.xlsx
+│       ├── DataTDR-ResidenciasTrabalhadas.xlsx
+│       ├── DataTDRcomCLT.xlsx
+│       ├── DataTDRcomPrevi.xlsx
+│       └── Descricao.md
+├── docs/
+│   ├── Entregaveis/
+│   │   ├── Unidade1/
+│   │   │   ├── Mapa da Empatia/
+│   │   │   │   ├── Mapa da Empatia - Projeto Integrador I.pdf
+│   │   │   │   ├── MapaDaEmpatiaCliente.png
+│   │   │   │   └── MapaDaEmpatiaDiarista.png
+│   │   │   ├── Registro de ideias (brainstorming).jpg
+│   │   │   └── Relatorio de Imersao - Projeto Integrador I.pdf
+│   │   └── Unidade2/
+│   │       ├── Backlog - Projeto Integrador I.pdf
+│   │       ├── Documento de Escopo - Projeto Integrador I.pdf
+│   │       └── Prototipos/
+│   ├── TERMO DE ABERTURA DO PROJETO - Projeto Integrador I.pdf
+│   ├── VISÃO GERAL DO PROJETO - Projeto Integrador I.pdf
+│   └── VisaoGeralETAP-ProjetoIntegrador(Slide).pdf
+├── PesquisaFormularios/
+│   ├── PesquisaCliente.md
+│   └── PesquisaPrestadoresDeServico.md
+└── README.md
+```
