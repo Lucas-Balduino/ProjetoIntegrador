@@ -1,0 +1,27 @@
+{
+  "interacao_id": "uuid-v4-identificador-unico",
+  "metadados_sistema": {
+    "dispositivo": "Mobile/Desktop",
+    "navegador": "Chrome/Firefox/Safari",
+    "ip_regiao": "Brasília, DF"
+  },
+  "perfil_contexto": {
+    "escolaridade": "Ensino Médio",
+    "formalizada_mei": false,
+    "anos_profissao": 10
+  },
+  "evento_interacao": {
+    "filtros_dashboard": ["DF", "Faixa Etária 30-40"],
+    "tempo_sessao_segundos": 320,
+    "cliques_kpi": ["Renda Média", "Mapa de Calor"]
+  },
+  "feedback_usuario": {
+    "nota_utilidade": 5,
+    "principais_dores": [
+      "Falta de aposentadoria",
+      "Instabilidade de renda"
+    ],
+    "comentario": "Texto descritivo do feedback.",
+    "consentimento_lgpd": true
+  }
+}
