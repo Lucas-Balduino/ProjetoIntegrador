@@ -1,0 +1,251 @@
+fonte:
+  trimestral: https://sidra.ibge.gov.br/pesquisa/pnadct/tabelas
+  mensal: https://sidra.ibge.gov.br/pesquisa/pnadcm
+  api_descritor: https://apisidra.ibge.gov.br/DescritoresTabela/t/{T}
+  api_valores: https://apisidra.ibge.gov.br/values/t/{T}/n{N}/all/p/{P}/v/{V}/c{Ci}/{cats}/f/u
+
+blocos_tematicos:
+  - diaristas
+  - informalidade
+  - rendimento
+  - horas
+  - mercado_geral
+  - recortes_equidade
+  - outros
+
+categorias_ped:
+  PIA: Pessoas com 14 anos ou mais (População em Idade Ativa)
+  PEA: Ocupados + desocupados (na força de trabalho)
+  Ocupado: Pessoas ocupadas na semana de referência
+  Desocupado: Pessoas desocupadas na semana de referência (desemprego aberto)
+  Inativo: Fora da força de trabalho
+  Subutilizacao: Subutilizada / desalentada (proxy de desemprego oculto da PED)
+  Rendimento: Rendimento médio mensal real
+  Horas: Horas habituais/efetivamente trabalhadas
+  Informalidade: Situação de informalidade no trabalho principal
+
+tabelas:
+  - numero: 4092
+    nome: "Pessoas de 14 anos ou mais de idade, por condição em relação à força de trabalho e condição de ocupação"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral]
+    prioridade: alta
+    palavras_chave: [PIA, PEA, ocupados, desocupados, fora_da_forca]
+    categorias_ped: [PIA, PEA, Ocupado, Desocupado, Inativo]
+
+  - numero: 4093
+    nome: "Pessoas de 14+ - total, na força de trabalho, ocupadas, desocupadas, fora da força, em informalidade - por sexo"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral, informalidade, recortes_equidade]
+    prioridade: alta
+    palavras_chave: [informalidade, sexo]
+    categorias_ped: [Ocupado, Desocupado, Inativo, Informalidade]
+
+  - numero: 4094
+    nome: "Pessoas de 14+ - condições de força de trabalho e informalidade, por grupo de idade"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral, informalidade, recortes_equidade]
+    prioridade: media
+    palavras_chave: [informalidade, idade]
+    categorias_ped: [Ocupado, Desocupado, Informalidade]
+
+  - numero: 4095
+    nome: "Pessoas de 14+ - condições de força de trabalho e informalidade, por nível de instrução"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral, informalidade, recortes_equidade]
+    prioridade: media
+    palavras_chave: [informalidade, instrucao, escolaridade]
+    categorias_ped: [Ocupado, Desocupado, Informalidade]
+
+  - numero: 4097
+    nome: "Pessoas de 14+ ocupadas na semana de referência, por posição na ocupação e categoria do emprego no trabalho principal"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [diaristas, mercado_geral]
+    prioridade: alta
+    palavras_chave: [trabalhador_domestico, carteira_assinada, posicao_ocupacao]
+    categorias_ped: [Ocupado]
+    observacao: "Tabela central do projeto - contém Trabalhador doméstico (com/sem carteira)"
+
+  - numero: 4099
+    nome: "Taxas de desocupação e de subutilização da força de trabalho - 14+"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [taxa_desocupacao, subutilizacao]
+    categorias_ped: [Desocupado, Subutilizacao]
+
+  - numero: 4100
+    nome: "Pessoas de 14+, por tipo de medida de subutilização da força de trabalho"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [subutilizacao, desalento, subocupacao]
+    categorias_ped: [Subutilizacao]
+
+  - numero: 6318
+    nome: "Pessoas de 14+ - condição em relação à força de trabalho e ocupação (mensal/trimestres móveis)"
+    pesquisa: PNADC/M
+    periodo: "jan-fev-mar 2012 até a divulgação mais recente"
+    territorios: "BR"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [mensal, forca_de_trabalho]
+    categorias_ped: [PIA, PEA, Ocupado, Desocupado, Inativo]
+
+  - numero: 6374
+    nome: "Média de horas habitualmente e efetivamente trabalhadas, por posição na ocupação"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente (com hiato 2020-2022)"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [horas, diaristas]
+    prioridade: alta
+    palavras_chave: [horas_trabalhadas, posicao_ocupacao, trabalhador_domestico]
+    categorias_ped: [Horas]
+
+  - numero: 6383
+    nome: "Pessoas de 14+ ocupadas como trabalhadores domésticos, por número de domicílios em que trabalhavam"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 a 1º trim 2020 + 2º trim 2022 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [diaristas]
+    prioridade: alta
+    palavras_chave: [trabalhador_domestico, n_domicilios, diarista, mensalista]
+    categorias_ped: [Ocupado]
+    observacao: "Proxy direta para distinguir diarista (vários domicílios) de mensalista (1 domicílio)"
+
+  - numero: 6385
+    nome: "Pessoas de 14+ ocupadas, por tempo de permanência no trabalho principal"
+    pesquisa: PNADC/T
+    periodo: "com hiato 2020-2022"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [diaristas, mercado_geral]
+    prioridade: media
+    palavras_chave: [permanencia, vinculo]
+    categorias_ped: [Ocupado]
+
+  - numero: 6386
+    nome: "Pessoas de 14+ ocupadas, por número de trabalhos"
+    pesquisa: PNADC/T
+    periodo: "com hiato 2020-2022"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [diaristas, mercado_geral]
+    prioridade: media
+    palavras_chave: [multi_emprego, n_trabalhos]
+    categorias_ped: [Ocupado]
+
+  - numero: 6391
+    nome: "Rendimento médio real habitual no trabalho principal, por grupamento de atividade (mensal)"
+    pesquisa: PNADC/M
+    periodo: "jan-fev-mar 2012 até a divulgação mais recente"
+    territorios: "BR"
+    blocos_tematicos: [rendimento]
+    prioridade: media
+    palavras_chave: [rendimento, atividade, mensal]
+    categorias_ped: [Rendimento]
+
+  - numero: 6402
+    nome: "Pessoas de 14+ - condições de força de trabalho e informalidade, por cor ou raça"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral, informalidade, recortes_equidade]
+    prioridade: alta
+    palavras_chave: [informalidade, cor_raca, equidade]
+    categorias_ped: [Ocupado, Desocupado, Informalidade]
+    observacao: "Eixo de equidade racial alinhado ao estudo IPEA sobre cuidado remunerado"
+
+  - numero: 6461
+    nome: "Taxa de participação na força de trabalho - 14+ (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [taxa_participacao]
+    categorias_ped: [PEA]
+
+  - numero: 6468
+    nome: "Taxa de desocupação - 14+ (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [taxa_desocupacao]
+    categorias_ped: [Desocupado]
+
+  - numero: 5440
+    nome: "Rendimento médio mensal real no trabalho principal, por posição na ocupação e categoria do emprego"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [rendimento, diaristas]
+    prioridade: alta
+    palavras_chave: [rendimento, trabalhador_domestico, carteira_assinada]
+    categorias_ped: [Rendimento]
+    observacao: "Permite comparar rendimento do trabalhador doméstico com e sem carteira"
+
+  - numero: 5947
+    nome: "Pessoas de 14+ ocupadas, por contribuição para instituto de previdência em qualquer trabalho"
+    pesquisa: PNADC/T
+    periodo: "com hiato 2020-2022"
+    territorios: "BR, GR, UF, RM, RD, MU"
+    blocos_tematicos: [informalidade]
+    prioridade: media
+    palavras_chave: [previdencia, formalidade]
+    categorias_ped: [Informalidade]
+
+  - numero: 6460
+    nome: "Percentual de contribuintes de instituto de previdência (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [informalidade]
+    prioridade: media
+    palavras_chave: [previdencia, contribuicao]
+    categorias_ped: [Informalidade]
+
+  - numero: 6813
+    nome: "Percentual de pessoas desalentadas (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [mercado_geral]
+    prioridade: media
+    palavras_chave: [desalento, desemprego_oculto]
+    categorias_ped: [Subutilizacao]
+    observacao: "Usado como aproximação do desemprego oculto pelo desalento da PED"
+
+  - numero: 8517
+    nome: "Pessoas de 14+ ocupadas - por situação de informalidade no trabalho principal (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "1º trim 2012 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [informalidade]
+    prioridade: alta
+    palavras_chave: [informalidade, formal, informal]
+    categorias_ped: [Informalidade]
+
+  - numero: 8529
+    nome: "Taxa de informalidade - 14+ ocupadas (estatístico)"
+    pesquisa: PNADC/T
+    periodo: "4º trim 2015 até a divulgação mais recente"
+    territorios: "BR, GR, UF"
+    blocos_tematicos: [informalidade]
+    prioridade: alta
+    palavras_chave: [taxa_informalidade]
+    categorias_ped: [Informalidade]

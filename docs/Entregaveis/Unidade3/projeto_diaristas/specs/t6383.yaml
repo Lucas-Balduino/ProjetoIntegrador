@@ -1,0 +1,40 @@
+tabela: 6383
+nome: Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência como trabalhadores
+  domésticos no trabalho principal, por número de domicílios em que trabalhavam
+fonte: https://apisidra.ibge.gov.br/DescritoresTabela/t/6383
+variaveis:
+- id: '8336'
+  nome: Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência como
+    trabalhadores domésticos no trabalho principal
+  unidade: ''
+  prioridade: true
+- id: '8337'
+  nome: Coeficiente de variação - Pessoas de 14 anos ou mais de idade, ocupadas na
+    semana de referência como trabalhadores domésticos no trabalho principal
+  unidade: ''
+  prioridade: true
+- id: '8338'
+  nome: Distribuição percentual das pessoas de 14 anos ou mais de idade, ocupadas
+    na semana de referência como trabalhadores domésticos no trabalho principal
+  unidade: ''
+  prioridade: true
+- id: '8339'
+  nome: Coeficiente de variação - Distribuição percentual das pessoas de 14 anos ou
+    mais de idade, ocupadas na semana de referência como trabalhadores domésticos
+    no trabalho principal
+  unidade: ''
+  prioridade: true
+classificacoes:
+- id: '785'
+  nome: Número de domicílios em que trabalhavam
+  categorias_prioritarias: []
+  total_categorias: 3
+exemplo_query:
+  tabela: 6383
+  nivel: BR
+  periodos: last 8
+  variaveis: 8336,8337,8338,8339
+  classificacoes:
+    c785: all
+observacoes:
+- Tabela diretamente relacionada ao tema diaristas.

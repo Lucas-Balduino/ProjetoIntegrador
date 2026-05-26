@@ -1,0 +1,60 @@
+tabela: 4097
+nome: Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por posição
+  na ocupação e categoria do emprego no trabalho principal
+fonte: https://apisidra.ibge.gov.br/DescritoresTabela/t/4097
+variaveis:
+- id: '4090'
+  nome: Pessoas de 14 anos ou mais de idade ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+- id: '4091'
+  nome: Coeficiente de variação - Pessoas de 14 anos ou mais de idade ocupadas na
+    semana de referência
+  unidade: ''
+  prioridade: true
+- id: '4108'
+  nome: Distribuição percentual das pessoas de 14 anos ou mais de idade ocupadas na
+    semana de referência
+  unidade: ''
+  prioridade: true
+- id: '4109'
+  nome: Coeficiente de variação - Distribuição percentual das pessoas de 14 anos ou
+    mais de idade ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+classificacoes:
+- id: '11913'
+  nome: Posição na ocupação e categoria do emprego no trabalho principal
+  categorias_prioritarias:
+  - id: '31721'
+    nome: Empregado no setor privado, exclusive trabalhador doméstico
+  - id: '31722'
+    nome: Empregado no setor privado, exclusive trabalhador doméstico - com carteira
+      de trabalho assinada
+  - id: '31723'
+    nome: Empregado no setor privado, exclusive trabalhador doméstico - sem carteira
+      de trabalho assinada
+  - id: '31724'
+    nome: Trabalhador doméstico
+  - id: '31725'
+    nome: Trabalhador doméstico - com carteira de trabalho assinada
+  - id: '31726'
+    nome: Trabalhador doméstico - sem carteira de trabalho assinada
+  - id: '31728'
+    nome: Empregado no setor público, exclusive militar e funcionário público estatutário
+      - com carteira de trabalho assinada
+  - id: '31729'
+    nome: Empregado no setor público, exclusive militar e funcionário público estatutário
+      - sem carteira de trabalho assinada
+  - id: '96171'
+    nome: Conta própria
+  total_categorias: 14
+exemplo_query:
+  tabela: 4097
+  nivel: BR
+  periodos: last 8
+  variaveis: 4090,4091,4108,4109
+  classificacoes:
+    c11913: 31721,31722,31723,31724,31725,31726,31728,31729,96171
+observacoes:
+- Sem heurísticas específicas — revisar manualmente.
