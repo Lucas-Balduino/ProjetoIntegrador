@@ -6,9 +6,7 @@ Faz parte do **Projeto Integrador I (PI 1)** — tema "Trabalho Autônomo ou Inf
 
 Entregue como parte de `docs/Entregaveis/Unidade3/`.
 
-## Correção de escopo
-
-O link originalmente compartilhado para o trabalho era `https://sidra.ibge.gov.br/home/primpec/brasil`, que aponta para **Primeiras Estimativas da Pecuária** (bovinos, leite, ovos) — não tem relação com diaristas. As fontes corretas no SIDRA são:
+As fontes corretas no SIDRA são:
 
 - Trimestral: <https://sidra.ibge.gov.br/pesquisa/pnadct/tabelas>
 - Mensal: <https://sidra.ibge.gov.br/pesquisa/pnadcm>
