@@ -1,0 +1,1472 @@
+sk_respondente,sk_pergunta,publico,bloco,pergunta_slug,valor_texto,valor_numerico,carimbo,fonte
+1,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-23 16:36:16.600,pesquisa_primaria
+2,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-23 16:52:14.776,pesquisa_primaria
+3,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-23 22:22:57.824,pesquisa_primaria
+4,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 07:06:47.496,pesquisa_primaria
+5,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 14:12:11.902,pesquisa_primaria
+6,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 14:51:16.640,pesquisa_primaria
+7,1,contratante,perfil,faixa_etaria,18 a 24 anos,18.0,2026-03-24 16:08:02.275,pesquisa_primaria
+8,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 18:02:41.390,pesquisa_primaria
+9,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 18:03:19.611,pesquisa_primaria
+10,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:03:56.180,pesquisa_primaria
+11,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:05:29.471,pesquisa_primaria
+12,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:06:17.115,pesquisa_primaria
+13,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 18:06:53.372,pesquisa_primaria
+14,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 18:19:46.080,pesquisa_primaria
+15,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:20:34.264,pesquisa_primaria
+16,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 18:21:39.067,pesquisa_primaria
+17,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:27:27.517,pesquisa_primaria
+18,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 18:43:07.909,pesquisa_primaria
+19,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 18:52:43.021,pesquisa_primaria
+20,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 19:10:38.159,pesquisa_primaria
+21,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 19:15:06.376,pesquisa_primaria
+22,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-24 19:19:15.991,pesquisa_primaria
+23,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 19:24:55.289,pesquisa_primaria
+24,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:37:26.345,pesquisa_primaria
+25,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 19:39:36.488,pesquisa_primaria
+26,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:40:24.807,pesquisa_primaria
+27,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-24 19:42:12.918,pesquisa_primaria
+28,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 19:44:37.119,pesquisa_primaria
+29,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 19:44:38.104,pesquisa_primaria
+30,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 19:44:49.352,pesquisa_primaria
+31,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:54:25.663,pesquisa_primaria
+32,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:55:31.781,pesquisa_primaria
+33,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 20:04:40.320,pesquisa_primaria
+34,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 20:07:36.926,pesquisa_primaria
+35,1,contratante,perfil,faixa_etaria,18 a 24 anos,18.0,2026-03-24 20:11:31.036,pesquisa_primaria
+36,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 20:15:48.225,pesquisa_primaria
+37,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 20:21:42.700,pesquisa_primaria
+38,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 20:31:54.097,pesquisa_primaria
+39,1,contratante,perfil,faixa_etaria,18 a 24 anos,18.0,2026-03-24 20:36:21.798,pesquisa_primaria
+40,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 20:39:51.722,pesquisa_primaria
+41,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 20:39:52.888,pesquisa_primaria
+42,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 20:56:23.429,pesquisa_primaria
+43,1,contratante,perfil,faixa_etaria,18 a 24 anos,18.0,2026-03-24 20:58:17.125,pesquisa_primaria
+44,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 21:10:23.739,pesquisa_primaria
+45,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-24 21:50:44.954,pesquisa_primaria
+46,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 22:34:36.412,pesquisa_primaria
+47,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 07:04:23.770,pesquisa_primaria
+48,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 07:32:02.170,pesquisa_primaria
+49,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 10:07:51.270,pesquisa_primaria
+50,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 11:12:21.040,pesquisa_primaria
+51,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 11:16:16.533,pesquisa_primaria
+52,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 12:00:25.404,pesquisa_primaria
+53,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 12:02:52.345,pesquisa_primaria
+54,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 12:02:58.257,pesquisa_primaria
+55,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-25 12:05:48.745,pesquisa_primaria
+56,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 12:07:22.699,pesquisa_primaria
+57,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 12:09:36.234,pesquisa_primaria
+58,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 14:28:02.528,pesquisa_primaria
+59,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 14:29:55.644,pesquisa_primaria
+60,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 14:30:02.648,pesquisa_primaria
+61,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-25 14:31:27.290,pesquisa_primaria
+62,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 14:32:02.864,pesquisa_primaria
+63,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 14:33:02.846,pesquisa_primaria
+64,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 14:35:50.118,pesquisa_primaria
+65,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 14:37:25.286,pesquisa_primaria
+66,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 14:39:04.595,pesquisa_primaria
+67,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 14:56:47.032,pesquisa_primaria
+68,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 15:03:59.150,pesquisa_primaria
+69,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 15:07:37.987,pesquisa_primaria
+70,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 15:14:08.945,pesquisa_primaria
+71,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 15:27:57.886,pesquisa_primaria
+72,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 15:30:24.891,pesquisa_primaria
+73,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-25 16:26:56.616,pesquisa_primaria
+74,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 16:31:10.726,pesquisa_primaria
+75,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 17:11:01.770,pesquisa_primaria
+76,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 20:13:04.614,pesquisa_primaria
+77,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 21:04:08.540,pesquisa_primaria
+78,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 21:48:56.259,pesquisa_primaria
+79,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-25 22:38:28.375,pesquisa_primaria
+80,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-25 23:07:09.681,pesquisa_primaria
+81,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 00:35:02.800,pesquisa_primaria
+82,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-26 07:14:02.312,pesquisa_primaria
+83,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 07:23:32.605,pesquisa_primaria
+84,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-26 08:27:09.513,pesquisa_primaria
+85,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 09:05:18.008,pesquisa_primaria
+86,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-26 09:17:41.568,pesquisa_primaria
+87,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 09:59:48.158,pesquisa_primaria
+88,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 10:06:46.324,pesquisa_primaria
+89,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 11:45:11.218,pesquisa_primaria
+90,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 11:55:05.102,pesquisa_primaria
+91,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-26 12:11:19.281,pesquisa_primaria
+92,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-26 12:38:34.758,pesquisa_primaria
+93,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 12:54:53.135,pesquisa_primaria
+94,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 13:06:54.424,pesquisa_primaria
+95,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 13:53:06.043,pesquisa_primaria
+96,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-27 07:26:35.537,pesquisa_primaria
+97,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-27 07:33:30.311,pesquisa_primaria
+98,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-27 08:33:34.182,pesquisa_primaria
+99,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-27 13:12:56.690,pesquisa_primaria
+100,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-27 15:50:37.724,pesquisa_primaria
+101,1,contratante,perfil,faixa_etaria,18 a 24 anos,18.0,2026-03-27 15:58:33.219,pesquisa_primaria
+102,1,contratante,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-27 16:23:54.250,pesquisa_primaria
+103,1,contratante,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-27 17:29:04.885,pesquisa_primaria
+104,1,contratante,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-27 21:15:29.831,pesquisa_primaria
+105,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-29 18:47:48.660,pesquisa_primaria
+106,1,contratante,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-30 13:16:11.572,pesquisa_primaria
+1,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-23 16:36:16.600,pesquisa_primaria
+2,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-23 22:22:57.824,pesquisa_primaria
+4,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 07:06:47.496,pesquisa_primaria
+5,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 14:12:11.902,pesquisa_primaria
+6,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 14:51:16.640,pesquisa_primaria
+7,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:02:41.390,pesquisa_primaria
+9,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:03:56.180,pesquisa_primaria
+11,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:05:29.471,pesquisa_primaria
+12,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:06:17.115,pesquisa_primaria
+13,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:06:53.372,pesquisa_primaria
+14,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:20:34.264,pesquisa_primaria
+16,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:27:27.517,pesquisa_primaria
+18,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:43:07.909,pesquisa_primaria
+19,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 18:52:43.021,pesquisa_primaria
+20,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-24 19:10:38.159,pesquisa_primaria
+21,2,contratante,perfil,arranjo_moradia,Moro sozinho(a).,,2026-03-24 19:15:06.376,pesquisa_primaria
+22,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-24 19:19:15.991,pesquisa_primaria
+23,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:24:55.289,pesquisa_primaria
+24,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:39:36.488,pesquisa_primaria
+26,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-24 19:42:12.918,pesquisa_primaria
+28,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:44:37.119,pesquisa_primaria
+29,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:44:38.104,pesquisa_primaria
+30,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:44:49.352,pesquisa_primaria
+31,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:54:25.663,pesquisa_primaria
+32,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 19:55:31.781,pesquisa_primaria
+33,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:04:40.320,pesquisa_primaria
+34,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:07:36.926,pesquisa_primaria
+35,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:11:31.036,pesquisa_primaria
+36,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:21:42.700,pesquisa_primaria
+38,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:31:54.097,pesquisa_primaria
+39,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:39:51.722,pesquisa_primaria
+41,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:39:52.888,pesquisa_primaria
+42,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:56:23.429,pesquisa_primaria
+43,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 20:58:17.125,pesquisa_primaria
+44,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 21:10:23.739,pesquisa_primaria
+45,2,contratante,perfil,arranjo_moradia,Moro sozinho(a).,,2026-03-24 21:50:44.954,pesquisa_primaria
+46,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-24 22:34:36.412,pesquisa_primaria
+47,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 07:04:23.770,pesquisa_primaria
+48,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 10:07:51.270,pesquisa_primaria
+50,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 11:12:21.040,pesquisa_primaria
+51,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 11:16:16.533,pesquisa_primaria
+52,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 12:00:25.404,pesquisa_primaria
+53,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-25 12:02:52.345,pesquisa_primaria
+54,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 12:02:58.257,pesquisa_primaria
+55,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 12:05:48.745,pesquisa_primaria
+56,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 12:07:22.699,pesquisa_primaria
+57,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 12:09:36.234,pesquisa_primaria
+58,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:28:02.528,pesquisa_primaria
+59,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-25 14:29:55.644,pesquisa_primaria
+60,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:30:02.648,pesquisa_primaria
+61,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:31:27.290,pesquisa_primaria
+62,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:32:02.864,pesquisa_primaria
+63,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-25 14:33:02.846,pesquisa_primaria
+64,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:35:50.118,pesquisa_primaria
+65,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:39:04.595,pesquisa_primaria
+67,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 14:56:47.032,pesquisa_primaria
+68,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 15:03:59.150,pesquisa_primaria
+69,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 15:07:37.987,pesquisa_primaria
+70,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 15:27:57.886,pesquisa_primaria
+72,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 15:30:24.891,pesquisa_primaria
+73,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-25 16:26:56.616,pesquisa_primaria
+74,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 16:31:10.726,pesquisa_primaria
+75,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-25 17:11:01.770,pesquisa_primaria
+76,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 20:13:04.614,pesquisa_primaria
+77,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 21:04:08.540,pesquisa_primaria
+78,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-25 23:07:09.681,pesquisa_primaria
+81,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 00:35:02.800,pesquisa_primaria
+82,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 07:14:02.312,pesquisa_primaria
+83,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 09:05:18.008,pesquisa_primaria
+86,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 09:17:41.568,pesquisa_primaria
+87,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-26 09:59:48.158,pesquisa_primaria
+88,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 10:06:46.324,pesquisa_primaria
+89,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 11:45:11.218,pesquisa_primaria
+90,2,contratante,perfil,arranjo_moradia,Moro sozinho(a).,,2026-03-26 11:55:05.102,pesquisa_primaria
+91,2,contratante,perfil,arranjo_moradia,Moro sozinho(a).,,2026-03-26 12:11:19.281,pesquisa_primaria
+92,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 12:54:53.135,pesquisa_primaria
+94,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 13:06:54.424,pesquisa_primaria
+95,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-26 13:53:06.043,pesquisa_primaria
+96,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-27 07:26:35.537,pesquisa_primaria
+97,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-27 07:33:30.311,pesquisa_primaria
+98,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-27 08:33:34.182,pesquisa_primaria
+99,2,contratante,perfil,arranjo_moradia,Moro sozinho(a).,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-27 15:58:33.219,pesquisa_primaria
+102,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,2,contratante,perfil,arranjo_moradia,Moro com o(a) parceiro(a) (sem filhos).,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-27 21:15:29.831,pesquisa_primaria
+105,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,2,contratante,perfil,arranjo_moradia,Moro com família/filhos.,,2026-03-30 13:16:11.572,pesquisa_primaria
+1,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-23 16:36:16.600,pesquisa_primaria
+2,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-23 16:52:14.776,pesquisa_primaria
+3,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-23 22:22:57.824,pesquisa_primaria
+4,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 07:06:47.496,pesquisa_primaria
+5,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 14:12:11.902,pesquisa_primaria
+6,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 14:51:16.640,pesquisa_primaria
+7,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 16:08:02.275,pesquisa_primaria
+8,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 18:02:41.390,pesquisa_primaria
+9,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:03:19.611,pesquisa_primaria
+10,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:03:56.180,pesquisa_primaria
+11,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:05:29.471,pesquisa_primaria
+12,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:06:17.115,pesquisa_primaria
+13,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:06:53.372,pesquisa_primaria
+14,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:19:46.080,pesquisa_primaria
+15,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 18:20:34.264,pesquisa_primaria
+16,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 18:21:39.067,pesquisa_primaria
+17,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 18:27:27.517,pesquisa_primaria
+18,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 18:43:07.909,pesquisa_primaria
+19,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 18:52:43.021,pesquisa_primaria
+20,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 19:10:38.159,pesquisa_primaria
+21,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:15:06.376,pesquisa_primaria
+22,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 19:19:15.991,pesquisa_primaria
+23,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 19:24:55.289,pesquisa_primaria
+24,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:37:26.345,pesquisa_primaria
+25,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:39:36.488,pesquisa_primaria
+26,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:40:24.807,pesquisa_primaria
+27,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:42:12.918,pesquisa_primaria
+28,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:44:37.119,pesquisa_primaria
+29,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 19:44:38.104,pesquisa_primaria
+30,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 19:44:49.352,pesquisa_primaria
+31,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 19:54:25.663,pesquisa_primaria
+32,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 19:55:31.781,pesquisa_primaria
+33,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:04:40.320,pesquisa_primaria
+34,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:07:36.926,pesquisa_primaria
+35,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:11:31.036,pesquisa_primaria
+36,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:15:48.225,pesquisa_primaria
+37,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:21:42.700,pesquisa_primaria
+38,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 20:31:54.097,pesquisa_primaria
+39,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 20:36:21.798,pesquisa_primaria
+40,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:39:51.722,pesquisa_primaria
+41,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:39:52.888,pesquisa_primaria
+42,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 20:56:23.429,pesquisa_primaria
+43,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 20:58:17.125,pesquisa_primaria
+44,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-24 21:10:23.739,pesquisa_primaria
+45,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-24 21:50:44.954,pesquisa_primaria
+46,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-24 22:34:36.412,pesquisa_primaria
+47,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 07:04:23.770,pesquisa_primaria
+48,3,contratante,perfil,tamanho_residencia,,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 10:07:51.270,pesquisa_primaria
+50,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 11:12:21.040,pesquisa_primaria
+51,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 11:16:16.533,pesquisa_primaria
+52,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 12:00:25.404,pesquisa_primaria
+53,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 12:02:52.345,pesquisa_primaria
+54,3,contratante,perfil,tamanho_residencia,Até 50m² (Apartamento pequeno/Estúdio),50.0,2026-03-25 12:02:58.257,pesquisa_primaria
+55,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 12:05:48.745,pesquisa_primaria
+56,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 12:07:22.699,pesquisa_primaria
+57,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 12:09:36.234,pesquisa_primaria
+58,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 14:28:02.528,pesquisa_primaria
+59,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 14:29:55.644,pesquisa_primaria
+60,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 14:30:02.648,pesquisa_primaria
+61,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 14:31:27.290,pesquisa_primaria
+62,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 14:32:02.864,pesquisa_primaria
+63,3,contratante,perfil,tamanho_residencia,Até 50m² (Apartamento pequeno/Estúdio),50.0,2026-03-25 14:33:02.846,pesquisa_primaria
+64,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 14:35:50.118,pesquisa_primaria
+65,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 14:37:25.286,pesquisa_primaria
+66,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 14:39:04.595,pesquisa_primaria
+67,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 14:56:47.032,pesquisa_primaria
+68,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 15:03:59.150,pesquisa_primaria
+69,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 15:07:37.987,pesquisa_primaria
+70,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 15:14:08.945,pesquisa_primaria
+71,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 15:27:57.886,pesquisa_primaria
+72,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 15:30:24.891,pesquisa_primaria
+73,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 16:26:56.616,pesquisa_primaria
+74,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 16:31:10.726,pesquisa_primaria
+75,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-25 17:11:01.770,pesquisa_primaria
+76,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 20:13:04.614,pesquisa_primaria
+77,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 21:04:08.540,pesquisa_primaria
+78,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-25 21:48:56.259,pesquisa_primaria
+79,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 22:38:28.375,pesquisa_primaria
+80,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-25 23:07:09.681,pesquisa_primaria
+81,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-26 00:35:02.800,pesquisa_primaria
+82,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-26 07:14:02.312,pesquisa_primaria
+83,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 07:23:32.605,pesquisa_primaria
+84,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 08:27:09.513,pesquisa_primaria
+85,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-26 09:05:18.008,pesquisa_primaria
+86,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-26 09:17:41.568,pesquisa_primaria
+87,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 09:59:48.158,pesquisa_primaria
+88,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 10:06:46.324,pesquisa_primaria
+89,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-26 11:45:11.218,pesquisa_primaria
+90,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-26 11:55:05.102,pesquisa_primaria
+91,3,contratante,perfil,tamanho_residencia,Até 50m² (Apartamento pequeno/Estúdio),50.0,2026-03-26 12:11:19.281,pesquisa_primaria
+92,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 12:38:34.758,pesquisa_primaria
+93,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-26 12:54:53.135,pesquisa_primaria
+94,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 13:06:54.424,pesquisa_primaria
+95,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-26 13:53:06.043,pesquisa_primaria
+96,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-27 07:26:35.537,pesquisa_primaria
+97,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-27 07:33:30.311,pesquisa_primaria
+98,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-27 08:33:34.182,pesquisa_primaria
+99,3,contratante,perfil,tamanho_residencia,Mais de 150m²,150.0,2026-03-27 13:12:56.690,pesquisa_primaria
+100,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-27 15:50:37.724,pesquisa_primaria
+101,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-27 15:58:33.219,pesquisa_primaria
+102,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-27 16:23:54.250,pesquisa_primaria
+103,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-27 17:29:04.885,pesquisa_primaria
+104,3,contratante,perfil,tamanho_residencia,91 a 150m² (Apartamento/Casa grande),91.0,2026-03-27 21:15:29.831,pesquisa_primaria
+105,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-29 18:47:48.660,pesquisa_primaria
+106,3,contratante,perfil,tamanho_residencia,51 a 90m² (Apartamento/Casa média),51.0,2026-03-30 13:16:11.572,pesquisa_primaria
+1,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-23 16:36:16.600,pesquisa_primaria
+2,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-23 22:22:57.824,pesquisa_primaria
+4,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 07:06:47.496,pesquisa_primaria
+5,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 14:12:11.902,pesquisa_primaria
+6,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 14:51:16.640,pesquisa_primaria
+7,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 18:02:41.390,pesquisa_primaria
+9,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 18:03:56.180,pesquisa_primaria
+11,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 18:05:29.471,pesquisa_primaria
+12,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 18:06:17.115,pesquisa_primaria
+13,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-24 18:06:53.372,pesquisa_primaria
+14,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 18:20:34.264,pesquisa_primaria
+16,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 18:27:27.517,pesquisa_primaria
+18,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 18:43:07.909,pesquisa_primaria
+19,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 18:52:43.021,pesquisa_primaria
+20,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 19:10:38.159,pesquisa_primaria
+21,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 19:15:06.376,pesquisa_primaria
+22,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-24 19:19:15.991,pesquisa_primaria
+23,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 19:24:55.289,pesquisa_primaria
+24,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 19:39:36.488,pesquisa_primaria
+26,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 19:42:12.918,pesquisa_primaria
+28,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 19:44:37.119,pesquisa_primaria
+29,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-24 19:44:38.104,pesquisa_primaria
+30,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 19:44:49.352,pesquisa_primaria
+31,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-24 19:54:25.663,pesquisa_primaria
+32,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 19:55:31.781,pesquisa_primaria
+33,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:04:40.320,pesquisa_primaria
+34,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:07:36.926,pesquisa_primaria
+35,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:11:31.036,pesquisa_primaria
+36,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:21:42.700,pesquisa_primaria
+38,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-24 20:31:54.097,pesquisa_primaria
+39,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:39:51.722,pesquisa_primaria
+41,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-24 20:39:52.888,pesquisa_primaria
+42,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 20:56:23.429,pesquisa_primaria
+43,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-24 20:58:17.125,pesquisa_primaria
+44,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 21:10:23.739,pesquisa_primaria
+45,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 21:50:44.954,pesquisa_primaria
+46,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-24 22:34:36.412,pesquisa_primaria
+47,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 07:04:23.770,pesquisa_primaria
+48,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 10:07:51.270,pesquisa_primaria
+50,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 11:12:21.040,pesquisa_primaria
+51,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 11:16:16.533,pesquisa_primaria
+52,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 12:00:25.404,pesquisa_primaria
+53,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 12:02:52.345,pesquisa_primaria
+54,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 12:02:58.257,pesquisa_primaria
+55,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 12:05:48.745,pesquisa_primaria
+56,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 12:07:22.699,pesquisa_primaria
+57,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 12:09:36.234,pesquisa_primaria
+58,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-25 14:28:02.528,pesquisa_primaria
+59,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 14:29:55.644,pesquisa_primaria
+60,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 14:30:02.648,pesquisa_primaria
+61,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-25 14:31:27.290,pesquisa_primaria
+62,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-25 14:32:02.864,pesquisa_primaria
+63,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-25 14:33:02.846,pesquisa_primaria
+64,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-25 14:35:50.118,pesquisa_primaria
+65,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 14:39:04.595,pesquisa_primaria
+67,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-25 14:56:47.032,pesquisa_primaria
+68,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 15:03:59.150,pesquisa_primaria
+69,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 15:07:37.987,pesquisa_primaria
+70,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 15:27:57.886,pesquisa_primaria
+72,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 15:30:24.891,pesquisa_primaria
+73,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 16:26:56.616,pesquisa_primaria
+74,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 16:31:10.726,pesquisa_primaria
+75,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 17:11:01.770,pesquisa_primaria
+76,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 20:13:04.614,pesquisa_primaria
+77,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-25 21:04:08.540,pesquisa_primaria
+78,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-25 23:07:09.681,pesquisa_primaria
+81,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 00:35:02.800,pesquisa_primaria
+82,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 07:14:02.312,pesquisa_primaria
+83,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-26 09:05:18.008,pesquisa_primaria
+86,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 09:17:41.568,pesquisa_primaria
+87,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 09:59:48.158,pesquisa_primaria
+88,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 10:06:46.324,pesquisa_primaria
+89,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-26 11:45:11.218,pesquisa_primaria
+90,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-26 11:55:05.102,pesquisa_primaria
+91,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-26 12:11:19.281,pesquisa_primaria
+92,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-26 12:54:53.135,pesquisa_primaria
+94,4,contratante,habitos,frequencia_contratacao,Semanalmente.,,2026-03-26 13:06:54.424,pesquisa_primaria
+95,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-26 13:53:06.043,pesquisa_primaria
+96,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-27 07:26:35.537,pesquisa_primaria
+97,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-27 07:33:30.311,pesquisa_primaria
+98,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-27 08:33:34.182,pesquisa_primaria
+99,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,4,contratante,habitos,frequencia_contratacao,Nunca contratei,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,4,contratante,habitos,frequencia_contratacao,Mensalmente.,,2026-03-27 15:58:33.219,pesquisa_primaria
+102,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,4,contratante,habitos,frequencia_contratacao,Apenas em ocasiões muito esporádicas.,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-27 21:15:29.831,pesquisa_primaria
+105,4,contratante,habitos,frequencia_contratacao,Quinzenalmente.,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,4,contratante,habitos,frequencia_contratacao,Mais de uma vez por semana.,,2026-03-30 13:16:11.572,pesquisa_primaria
+1,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-23 16:36:16.600,pesquisa_primaria
+2,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-23 22:22:57.824,pesquisa_primaria
+4,5,contratante,habitos,canal_contratacao,Agências especializadas de limpeza.,,2026-03-24 07:06:47.496,pesquisa_primaria
+5,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 14:12:11.902,pesquisa_primaria
+6,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 14:51:16.640,pesquisa_primaria
+7,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 18:02:41.390,pesquisa_primaria
+9,5,contratante,habitos,canal_contratacao,Outro.,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 18:03:56.180,pesquisa_primaria
+11,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:05:29.471,pesquisa_primaria
+12,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:06:17.115,pesquisa_primaria
+13,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:06:53.372,pesquisa_primaria
+14,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 18:20:34.264,pesquisa_primaria
+16,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:27:27.517,pesquisa_primaria
+18,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 18:43:07.909,pesquisa_primaria
+19,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 18:52:43.021,pesquisa_primaria
+20,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:10:38.159,pesquisa_primaria
+21,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:15:06.376,pesquisa_primaria
+22,5,contratante,habitos,canal_contratacao,Agências especializadas de limpeza.,,2026-03-24 19:19:15.991,pesquisa_primaria
+23,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:24:55.289,pesquisa_primaria
+24,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 19:39:36.488,pesquisa_primaria
+26,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 19:42:12.918,pesquisa_primaria
+28,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:44:37.119,pesquisa_primaria
+29,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 19:44:38.104,pesquisa_primaria
+30,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:44:49.352,pesquisa_primaria
+31,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 19:54:25.663,pesquisa_primaria
+32,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 19:55:31.781,pesquisa_primaria
+33,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:04:40.320,pesquisa_primaria
+34,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:07:36.926,pesquisa_primaria
+35,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:11:31.036,pesquisa_primaria
+36,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:21:42.700,pesquisa_primaria
+38,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:31:54.097,pesquisa_primaria
+39,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:39:51.722,pesquisa_primaria
+41,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-24 20:39:52.888,pesquisa_primaria
+42,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-24 20:56:23.429,pesquisa_primaria
+43,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 20:58:17.125,pesquisa_primaria
+44,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-24 21:10:23.739,pesquisa_primaria
+45,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 21:50:44.954,pesquisa_primaria
+46,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-24 22:34:36.412,pesquisa_primaria
+47,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-25 07:04:23.770,pesquisa_primaria
+48,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 10:07:51.270,pesquisa_primaria
+50,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 11:12:21.040,pesquisa_primaria
+51,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 11:16:16.533,pesquisa_primaria
+52,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 12:00:25.404,pesquisa_primaria
+53,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 12:02:52.345,pesquisa_primaria
+54,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 12:02:58.257,pesquisa_primaria
+55,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-25 12:05:48.745,pesquisa_primaria
+56,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-25 12:07:22.699,pesquisa_primaria
+57,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 12:09:36.234,pesquisa_primaria
+58,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:28:02.528,pesquisa_primaria
+59,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:29:55.644,pesquisa_primaria
+60,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:30:02.648,pesquisa_primaria
+61,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:31:27.290,pesquisa_primaria
+62,5,contratante,habitos,canal_contratacao,Outro.,,2026-03-25 14:32:02.864,pesquisa_primaria
+63,5,contratante,habitos,canal_contratacao,Agências especializadas de limpeza.,,2026-03-25 14:33:02.846,pesquisa_primaria
+64,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:35:50.118,pesquisa_primaria
+65,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 14:39:04.595,pesquisa_primaria
+67,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-25 14:56:47.032,pesquisa_primaria
+68,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 15:03:59.150,pesquisa_primaria
+69,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 15:07:37.987,pesquisa_primaria
+70,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 15:27:57.886,pesquisa_primaria
+72,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 15:30:24.891,pesquisa_primaria
+73,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-25 16:26:56.616,pesquisa_primaria
+74,5,contratante,habitos,canal_contratacao,Agências especializadas de limpeza.,,2026-03-25 16:31:10.726,pesquisa_primaria
+75,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-25 17:11:01.770,pesquisa_primaria
+76,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 20:13:04.614,pesquisa_primaria
+77,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 21:04:08.540,pesquisa_primaria
+78,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,5,contratante,habitos,canal_contratacao,Outro.,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-25 23:07:09.681,pesquisa_primaria
+81,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-26 00:35:02.800,pesquisa_primaria
+82,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-26 07:14:02.312,pesquisa_primaria
+83,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 09:05:18.008,pesquisa_primaria
+86,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 09:17:41.568,pesquisa_primaria
+87,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-26 09:59:48.158,pesquisa_primaria
+88,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 10:06:46.324,pesquisa_primaria
+89,5,contratante,habitos,canal_contratacao,Outro.,,2026-03-26 11:45:11.218,pesquisa_primaria
+90,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 11:55:05.102,pesquisa_primaria
+91,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 12:11:19.281,pesquisa_primaria
+92,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 12:54:53.135,pesquisa_primaria
+94,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 13:06:54.424,pesquisa_primaria
+95,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-26 13:53:06.043,pesquisa_primaria
+96,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-27 07:26:35.537,pesquisa_primaria
+97,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-27 07:33:30.311,pesquisa_primaria
+98,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-27 08:33:34.182,pesquisa_primaria
+99,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,5,contratante,habitos,canal_contratacao,Outro.,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-27 15:58:33.219,pesquisa_primaria
+102,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,5,contratante,habitos,canal_contratacao,A pessoa já trabalha comigo há muito tempo.,,2026-03-27 21:15:29.831,pesquisa_primaria
+105,5,contratante,habitos,canal_contratacao,Exclusivamente por indicação de amigos/família.,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,5,contratante,habitos,canal_contratacao,Grupos de bairro no Facebook/WhatsApp.,,2026-03-30 13:16:11.572,pesquisa_primaria
+1,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-23 16:36:16.600,pesquisa_primaria
+2,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-23 16:52:14.776,pesquisa_primaria
+3,6,contratante,habitos,valor_diaria_pago,250 a 350 reais ,250.0,2026-03-23 22:22:57.824,pesquisa_primaria
+4,6,contratante,habitos,valor_diaria_pago,120,120.0,2026-03-24 07:06:47.496,pesquisa_primaria
+5,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 14:12:11.902,pesquisa_primaria
+6,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-24 14:51:16.640,pesquisa_primaria
+7,6,contratante,habitos,valor_diaria_pago,1400 reais ,1400.0,2026-03-24 16:08:02.275,pesquisa_primaria
+8,6,contratante,habitos,valor_diaria_pago,250 reais ,250.0,2026-03-24 18:02:41.390,pesquisa_primaria
+9,6,contratante,habitos,valor_diaria_pago,180,180.0,2026-03-24 18:03:19.611,pesquisa_primaria
+10,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 18:03:56.180,pesquisa_primaria
+11,6,contratante,habitos,valor_diaria_pago,100,100.0,2026-03-24 18:05:29.471,pesquisa_primaria
+12,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 18:06:17.115,pesquisa_primaria
+13,6,contratante,habitos,valor_diaria_pago,"R$ 200,00 a R$ 250,00",200.0,2026-03-24 18:06:53.372,pesquisa_primaria
+14,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 18:19:46.080,pesquisa_primaria
+15,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 18:20:34.264,pesquisa_primaria
+16,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 18:21:39.067,pesquisa_primaria
+17,6,contratante,habitos,valor_diaria_pago,"200,00 a 250,00",200.0,2026-03-24 18:27:27.517,pesquisa_primaria
+18,6,contratante,habitos,valor_diaria_pago,250.00,250.0,2026-03-24 18:43:07.909,pesquisa_primaria
+19,6,contratante,habitos,valor_diaria_pago,100,100.0,2026-03-24 18:52:43.021,pesquisa_primaria
+20,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 19:10:38.159,pesquisa_primaria
+21,6,contratante,habitos,valor_diaria_pago,"R$200,00",200.0,2026-03-24 19:15:06.376,pesquisa_primaria
+22,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 19:19:15.991,pesquisa_primaria
+23,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-24 19:24:55.289,pesquisa_primaria
+24,6,contratante,habitos,valor_diaria_pago,"R$ 220,00",220.0,2026-03-24 19:37:26.345,pesquisa_primaria
+25,6,contratante,habitos,valor_diaria_pago,"R$250,00",250.0,2026-03-24 19:39:36.488,pesquisa_primaria
+26,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-24 19:40:24.807,pesquisa_primaria
+27,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 19:42:12.918,pesquisa_primaria
+28,6,contratante,habitos,valor_diaria_pago,225,225.0,2026-03-24 19:44:37.119,pesquisa_primaria
+29,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 19:44:38.104,pesquisa_primaria
+30,6,contratante,habitos,valor_diaria_pago,Na época que contratava 150 reais ,150.0,2026-03-24 19:44:49.352,pesquisa_primaria
+31,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 19:54:25.663,pesquisa_primaria
+32,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-24 19:55:31.781,pesquisa_primaria
+33,6,contratante,habitos,valor_diaria_pago,250 a 300,250.0,2026-03-24 20:04:40.320,pesquisa_primaria
+34,6,contratante,habitos,valor_diaria_pago,"R$230,00",230.0,2026-03-24 20:07:36.926,pesquisa_primaria
+35,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 20:11:31.036,pesquisa_primaria
+36,6,contratante,habitos,valor_diaria_pago,250 dólares,250.0,2026-03-24 20:15:48.225,pesquisa_primaria
+37,6,contratante,habitos,valor_diaria_pago,"R$ 230,00",230.0,2026-03-24 20:21:42.700,pesquisa_primaria
+38,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 20:31:54.097,pesquisa_primaria
+39,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-24 20:36:21.798,pesquisa_primaria
+40,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 20:39:51.722,pesquisa_primaria
+41,6,contratante,habitos,valor_diaria_pago,200 a 230,200.0,2026-03-24 20:39:52.888,pesquisa_primaria
+42,6,contratante,habitos,valor_diaria_pago,"R$ 250,00",250.0,2026-03-24 20:56:23.429,pesquisa_primaria
+43,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 20:58:17.125,pesquisa_primaria
+44,6,contratante,habitos,valor_diaria_pago,"R$ 220,00",220.0,2026-03-24 21:10:23.739,pesquisa_primaria
+45,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-24 21:50:44.954,pesquisa_primaria
+46,6,contratante,habitos,valor_diaria_pago,225,225.0,2026-03-24 22:34:36.412,pesquisa_primaria
+47,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-25 07:04:23.770,pesquisa_primaria
+48,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-25 07:32:02.170,pesquisa_primaria
+49,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-25 10:07:51.270,pesquisa_primaria
+50,6,contratante,habitos,valor_diaria_pago,210,210.0,2026-03-25 11:12:21.040,pesquisa_primaria
+51,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 11:16:16.533,pesquisa_primaria
+52,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 12:00:25.404,pesquisa_primaria
+53,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 12:02:52.345,pesquisa_primaria
+54,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 12:02:58.257,pesquisa_primaria
+55,6,contratante,habitos,valor_diaria_pago,230,230.0,2026-03-25 12:05:48.745,pesquisa_primaria
+56,6,contratante,habitos,valor_diaria_pago,240,240.0,2026-03-25 12:07:22.699,pesquisa_primaria
+57,6,contratante,habitos,valor_diaria_pago,"200 + 14,68 da condução",200.0,2026-03-25 12:09:36.234,pesquisa_primaria
+58,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-25 14:28:02.528,pesquisa_primaria
+59,6,contratante,habitos,valor_diaria_pago,R$200.00,200.0,2026-03-25 14:29:55.644,pesquisa_primaria
+60,6,contratante,habitos,valor_diaria_pago,240,240.0,2026-03-25 14:30:02.648,pesquisa_primaria
+61,6,contratante,habitos,valor_diaria_pago,210,210.0,2026-03-25 14:31:27.290,pesquisa_primaria
+62,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-25 14:32:02.864,pesquisa_primaria
+63,6,contratante,habitos,valor_diaria_pago,180,180.0,2026-03-25 14:33:02.846,pesquisa_primaria
+64,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 14:35:50.118,pesquisa_primaria
+65,6,contratante,habitos,valor_diaria_pago,,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,6,contratante,habitos,valor_diaria_pago,180,180.0,2026-03-25 14:39:04.595,pesquisa_primaria
+67,6,contratante,habitos,valor_diaria_pago,200 a 250,200.0,2026-03-25 14:56:47.032,pesquisa_primaria
+68,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-25 15:03:59.150,pesquisa_primaria
+69,6,contratante,habitos,valor_diaria_pago,"180,00 a 230,00",180.0,2026-03-25 15:07:37.987,pesquisa_primaria
+70,6,contratante,habitos,valor_diaria_pago,200 reais,200.0,2026-03-25 15:14:08.945,pesquisa_primaria
+71,6,contratante,habitos,valor_diaria_pago,"R$ 160,00",160.0,2026-03-25 15:27:57.886,pesquisa_primaria
+72,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-25 15:30:24.891,pesquisa_primaria
+73,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-25 16:26:56.616,pesquisa_primaria
+74,6,contratante,habitos,valor_diaria_pago,De 350 a 400 reais,350.0,2026-03-25 16:31:10.726,pesquisa_primaria
+75,6,contratante,habitos,valor_diaria_pago,"R$220,00(diária + passagens)",220.0,2026-03-25 17:11:01.770,pesquisa_primaria
+76,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-25 20:13:04.614,pesquisa_primaria
+77,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-25 21:04:08.540,pesquisa_primaria
+78,6,contratante,habitos,valor_diaria_pago,230.09,230.09,2026-03-25 21:48:56.259,pesquisa_primaria
+79,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-25 22:38:28.375,pesquisa_primaria
+80,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-25 23:07:09.681,pesquisa_primaria
+81,6,contratante,habitos,valor_diaria_pago,260,260.0,2026-03-26 00:35:02.800,pesquisa_primaria
+82,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-26 07:14:02.312,pesquisa_primaria
+83,6,contratante,habitos,valor_diaria_pago,"R$200,00",200.0,2026-03-26 07:23:32.605,pesquisa_primaria
+84,6,contratante,habitos,valor_diaria_pago,230,230.0,2026-03-26 08:27:09.513,pesquisa_primaria
+85,6,contratante,habitos,valor_diaria_pago,"R$ 220,00",220.0,2026-03-26 09:05:18.008,pesquisa_primaria
+86,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-26 09:17:41.568,pesquisa_primaria
+87,6,contratante,habitos,valor_diaria_pago,180,180.0,2026-03-26 09:59:48.158,pesquisa_primaria
+88,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-26 10:06:46.324,pesquisa_primaria
+89,6,contratante,habitos,valor_diaria_pago,100,100.0,2026-03-26 11:45:11.218,pesquisa_primaria
+90,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-26 11:55:05.102,pesquisa_primaria
+91,6,contratante,habitos,valor_diaria_pago,R$ 220 + 20 de passagem ,220.0,2026-03-26 12:11:19.281,pesquisa_primaria
+92,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-26 12:38:34.758,pesquisa_primaria
+93,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-26 12:54:53.135,pesquisa_primaria
+94,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-26 13:06:54.424,pesquisa_primaria
+95,6,contratante,habitos,valor_diaria_pago,220,220.0,2026-03-26 13:53:06.043,pesquisa_primaria
+96,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-27 07:26:35.537,pesquisa_primaria
+97,6,contratante,habitos,valor_diaria_pago,250,250.0,2026-03-27 07:33:30.311,pesquisa_primaria
+98,6,contratante,habitos,valor_diaria_pago,200,200.0,2026-03-27 08:33:34.182,pesquisa_primaria
+99,6,contratante,habitos,valor_diaria_pago,"R$ 150,00",150.0,2026-03-27 13:12:56.690,pesquisa_primaria
+100,6,contratante,habitos,valor_diaria_pago,ola! sou de baixar Renda quem faz a limpeza e eu minha esposa ,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,6,contratante,habitos,valor_diaria_pago,150,150.0,2026-03-27 15:58:33.219,pesquisa_primaria
+102,6,contratante,habitos,valor_diaria_pago,120,120.0,2026-03-27 16:23:54.250,pesquisa_primaria
+103,6,contratante,habitos,valor_diaria_pago,,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,6,contratante,habitos,valor_diaria_pago,"R$ 170,00 + A passagem de ônibus - R$ 25,00",170.0,2026-03-27 21:15:29.831,pesquisa_primaria
+105,6,contratante,habitos,valor_diaria_pago,150 reais,150.0,2026-03-29 18:47:48.660,pesquisa_primaria
+106,6,contratante,habitos,valor_diaria_pago,230 reais ,230.0,2026-03-30 13:16:11.572,pesquisa_primaria
+1,7,contratante,dores,maior_frustracao_aberta,Ser alguém de confiança ,,2026-03-23 16:36:16.600,pesquisa_primaria
+2,7,contratante,dores,maior_frustracao_aberta,,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,7,contratante,dores,maior_frustracao_aberta,"Preço; não dão conta do serviço; fornecer alimentação,  ficar de olho na pessoa",,2026-03-23 22:22:57.824,pesquisa_primaria
+4,7,contratante,dores,maior_frustracao_aberta,Não limparem direito,,2026-03-24 07:06:47.496,pesquisa_primaria
+5,7,contratante,dores,maior_frustracao_aberta,Confiany,,2026-03-24 14:12:11.902,pesquisa_primaria
+6,7,contratante,dores,maior_frustracao_aberta,Que realmente saiba limpar bem,,2026-03-24 14:51:16.640,pesquisa_primaria
+7,7,contratante,dores,maior_frustracao_aberta,Alguém que atenda a todas as minhas exigências de limpeza e/ou culinária ,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,7,contratante,dores,maior_frustracao_aberta,Comprometimento e proatividade por parte da profissional,,2026-03-24 18:02:41.390,pesquisa_primaria
+9,7,contratante,dores,maior_frustracao_aberta,Valor ,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-24 18:03:56.180,pesquisa_primaria
+11,7,contratante,dores,maior_frustracao_aberta,Ser de confiança ,,2026-03-24 18:05:29.471,pesquisa_primaria
+12,7,contratante,dores,maior_frustracao_aberta,A profissional nao atender aos requisitos solicitados,,2026-03-24 18:06:17.115,pesquisa_primaria
+13,7,contratante,dores,maior_frustracao_aberta,"Atualmente, não consigo encontrar alguém que trabalhe bem e tenha disponibilidade para vir de 15 em 15 dias.",15.0,2026-03-24 18:06:53.372,pesquisa_primaria
+14,7,contratante,dores,maior_frustracao_aberta,Profissionalismo ,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,7,contratante,dores,maior_frustracao_aberta,Não limpa direito e confiável ,,2026-03-24 18:20:34.264,pesquisa_primaria
+16,7,contratante,dores,maior_frustracao_aberta,Serviço mal feito ,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,7,contratante,dores,maior_frustracao_aberta,Falta de qualidade nos serviços ,,2026-03-24 18:27:27.517,pesquisa_primaria
+18,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-24 18:43:07.909,pesquisa_primaria
+19,7,contratante,dores,maior_frustracao_aberta,Uma pessoa que saiba limpar,,2026-03-24 18:52:43.021,pesquisa_primaria
+20,7,contratante,dores,maior_frustracao_aberta,,,2026-03-24 19:10:38.159,pesquisa_primaria
+21,7,contratante,dores,maior_frustracao_aberta,"Se a pessoa é de confiança, é habilitada para o serviço. ",,2026-03-24 19:15:06.376,pesquisa_primaria
+22,7,contratante,dores,maior_frustracao_aberta,"A maior preocupação é saber se é
+Honesto, pois estará dentro da minha casa. ",,2026-03-24 19:19:15.991,pesquisa_primaria
+23,7,contratante,dores,maior_frustracao_aberta,Localizar um qualificado e de confiança. ,,2026-03-24 19:24:55.289,pesquisa_primaria
+24,7,contratante,dores,maior_frustracao_aberta,Falta de noções de higiene ,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,7,contratante,dores,maior_frustracao_aberta,"Ineficácia, despreparo ",,2026-03-24 19:39:36.488,pesquisa_primaria
+26,7,contratante,dores,maior_frustracao_aberta,Não passar roupas,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,7,contratante,dores,maior_frustracao_aberta,Disponibilidade ,,2026-03-24 19:42:12.918,pesquisa_primaria
+28,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-24 19:44:37.119,pesquisa_primaria
+29,7,contratante,dores,maior_frustracao_aberta,Confiança e bom serviço,,2026-03-24 19:44:38.104,pesquisa_primaria
+30,7,contratante,dores,maior_frustracao_aberta,Serviço mal feito ,,2026-03-24 19:44:49.352,pesquisa_primaria
+31,7,contratante,dores,maior_frustracao_aberta,Confiança e qualidade do serviço. ,,2026-03-24 19:54:25.663,pesquisa_primaria
+32,7,contratante,dores,maior_frustracao_aberta,Segurança ,,2026-03-24 19:55:31.781,pesquisa_primaria
+33,7,contratante,dores,maior_frustracao_aberta,Compromisso e serviço bem feito ,,2026-03-24 20:04:40.320,pesquisa_primaria
+34,7,contratante,dores,maior_frustracao_aberta,Compromisso,,2026-03-24 20:07:36.926,pesquisa_primaria
+35,7,contratante,dores,maior_frustracao_aberta,Nunca tive problemas com as que eu contratei,,2026-03-24 20:11:31.036,pesquisa_primaria
+36,7,contratante,dores,maior_frustracao_aberta,profissional competente ,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,7,contratante,dores,maior_frustracao_aberta,São despreparadas e vi em no celular ,,2026-03-24 20:21:42.700,pesquisa_primaria
+38,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-24 20:31:54.097,pesquisa_primaria
+39,7,contratante,dores,maior_frustracao_aberta,,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,7,contratante,dores,maior_frustracao_aberta,"Falta de Confiança, falta de compromisso com o horário, uso excessivo de celular durante o horário de trabalho.",,2026-03-24 20:39:51.722,pesquisa_primaria
+41,7,contratante,dores,maior_frustracao_aberta,Comprometimento,,2026-03-24 20:39:52.888,pesquisa_primaria
+42,7,contratante,dores,maior_frustracao_aberta,Agilidade e confiança ,,2026-03-24 20:56:23.429,pesquisa_primaria
+43,7,contratante,dores,maior_frustracao_aberta,Alguém q não roube minhas coisas,,2026-03-24 20:58:17.125,pesquisa_primaria
+44,7,contratante,dores,maior_frustracao_aberta,Serviços mal prestados e descumprimento de jornada de trabalho ,,2026-03-24 21:10:23.739,pesquisa_primaria
+45,7,contratante,dores,maior_frustracao_aberta,a falta de profissionalismo,,2026-03-24 21:50:44.954,pesquisa_primaria
+46,7,contratante,dores,maior_frustracao_aberta,Achar pessoas qualificadas .,,2026-03-24 22:34:36.412,pesquisa_primaria
+47,7,contratante,dores,maior_frustracao_aberta,Alguém que realmente faça um bom serviço,,2026-03-25 07:04:23.770,pesquisa_primaria
+48,7,contratante,dores,maior_frustracao_aberta,Que execute o serviço direito,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,7,contratante,dores,maior_frustracao_aberta,"Roubar, não limpar a casa direito e faltar o serviço ",,2026-03-25 10:07:51.270,pesquisa_primaria
+50,7,contratante,dores,maior_frustracao_aberta,"Sempre que vão fazer a limpeza eu peço pra não mudar as coisas de lugar e mudam. Destroem muito os móveis! Pessoas que façam tudo: limpeza, comida e passa roupa. Pessoas que entendam a diária como o dia de serviço prestado e não como trabalho específico, tipo só faço limpeza, só passo… não faz as tarefas de direito e querem ser bem remunerada na diária.",,2026-03-25 11:12:21.040,pesquisa_primaria
+51,7,contratante,dores,maior_frustracao_aberta,confiança e serviço bem feito,,2026-03-25 11:16:16.533,pesquisa_primaria
+52,7,contratante,dores,maior_frustracao_aberta,Falta de comprometimento e não sabem fazer o serviço. ,,2026-03-25 12:00:25.404,pesquisa_primaria
+53,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-25 12:02:52.345,pesquisa_primaria
+54,7,contratante,dores,maior_frustracao_aberta,Pontualidade e eficiência no serviço ,,2026-03-25 12:02:58.257,pesquisa_primaria
+55,7,contratante,dores,maior_frustracao_aberta,compromisso e dedicação com a limpeza. ,,2026-03-25 12:05:48.745,pesquisa_primaria
+56,7,contratante,dores,maior_frustracao_aberta,"Encontrar pessoa de confiança, que tenha assiduidade, que faça o serviço sem que eu tenha que ficar pedindo, e que cobre preço justo.",,2026-03-25 12:07:22.699,pesquisa_primaria
+57,7,contratante,dores,maior_frustracao_aberta,Minha maior dificuldade é encontrar profissionais que mantenham constância na qualidade do serviço e que realmente executem a limpeza com capricho e responsabilidade.,,2026-03-25 12:09:36.234,pesquisa_primaria
+58,7,contratante,dores,maior_frustracao_aberta,Não fazer serviços dentro de armários. ,,2026-03-25 14:28:02.528,pesquisa_primaria
+59,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-25 14:29:55.644,pesquisa_primaria
+60,7,contratante,dores,maior_frustracao_aberta,Confiabilidade ,,2026-03-25 14:30:02.648,pesquisa_primaria
+61,7,contratante,dores,maior_frustracao_aberta,Falta de zelo nos detalhes da limpeza,,2026-03-25 14:31:27.290,pesquisa_primaria
+62,7,contratante,dores,maior_frustracao_aberta,A má qualidade na entrega do trabalho.,,2026-03-25 14:32:02.864,pesquisa_primaria
+63,7,contratante,dores,maior_frustracao_aberta,Encontrar uma faxineira boa de serviço ,,2026-03-25 14:33:02.846,pesquisa_primaria
+64,7,contratante,dores,maior_frustracao_aberta,não cumprir o combinado,,2026-03-25 14:35:50.118,pesquisa_primaria
+65,7,contratante,dores,maior_frustracao_aberta,,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,7,contratante,dores,maior_frustracao_aberta,confiança,,2026-03-25 14:39:04.595,pesquisa_primaria
+67,7,contratante,dores,maior_frustracao_aberta,Achar profissional de confiança e que cumpre com o combinado.,,2026-03-25 14:56:47.032,pesquisa_primaria
+68,7,contratante,dores,maior_frustracao_aberta,Muito difícil ter o dia que queremos na agenda.,,2026-03-25 15:03:59.150,pesquisa_primaria
+69,7,contratante,dores,maior_frustracao_aberta,Falta de compromisso. Não limpam direito.,,2026-03-25 15:07:37.987,pesquisa_primaria
+70,7,contratante,dores,maior_frustracao_aberta,Saberem fazer o serviço ,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,7,contratante,dores,maior_frustracao_aberta,confiança,,2026-03-25 15:27:57.886,pesquisa_primaria
+72,7,contratante,dores,maior_frustracao_aberta,Qualidade da limpeza.,,2026-03-25 15:30:24.891,pesquisa_primaria
+73,7,contratante,dores,maior_frustracao_aberta,"Já estou com a mesma diarista há anos e não tenho problemas, foi por indicação no início.",,2026-03-25 16:26:56.616,pesquisa_primaria
+74,7,contratante,dores,maior_frustracao_aberta,Encontrar alguém de confiança e que seja ágil e caprichoso.,,2026-03-25 16:31:10.726,pesquisa_primaria
+75,7,contratante,dores,maior_frustracao_aberta,"Algumas profissionais impõem inúmeras  exigências, às  vezes determinam até  as marcas dos produtos que utilizaram na limpeza. Muitas utilizam os produtos  sem nenhum critério,  chegam a desperdiçar  mesmo. Muitas vezes é  necessário  ficar o tempo inteiro ""fiscalizando"" e orientando a profissional.  ",,2026-03-25 17:11:01.770,pesquisa_primaria
+76,7,contratante,dores,maior_frustracao_aberta,Extravios,,2026-03-25 20:13:04.614,pesquisa_primaria
+77,7,contratante,dores,maior_frustracao_aberta,O tempo de permanência no trabalho ,,2026-03-25 21:04:08.540,pesquisa_primaria
+78,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,7,contratante,dores,maior_frustracao_aberta,,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-25 23:07:09.681,pesquisa_primaria
+81,7,contratante,dores,maior_frustracao_aberta,Confiança,,2026-03-26 00:35:02.800,pesquisa_primaria
+82,7,contratante,dores,maior_frustracao_aberta,Diligência na execução do trabalho,,2026-03-26 07:14:02.312,pesquisa_primaria
+83,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,7,contratante,dores,maior_frustracao_aberta,Falta de confiança ,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,7,contratante,dores,maior_frustracao_aberta,"Fidelidade da colaboradora. Qualquer outra oferta maior ou alguma possível dificuldade, o abandono é imediato, sem aviso prévio. ",,2026-03-26 09:05:18.008,pesquisa_primaria
+86,7,contratante,dores,maior_frustracao_aberta,Não comprometimento com o horário ,,2026-03-26 09:17:41.568,pesquisa_primaria
+87,7,contratante,dores,maior_frustracao_aberta,Falta de experiência na função ,,2026-03-26 09:59:48.158,pesquisa_primaria
+88,7,contratante,dores,maior_frustracao_aberta,Encontrar alguém que faça o trabalho com presteza ,,2026-03-26 10:06:46.324,pesquisa_primaria
+89,7,contratante,dores,maior_frustracao_aberta,Não tenho dificuldade.,,2026-03-26 11:45:11.218,pesquisa_primaria
+90,7,contratante,dores,maior_frustracao_aberta,"Ficar poucas horas, fazer o serviço de qualquer forma, deixar panos utilizados sujos e também aspirador sem limpar, ficar no celular enquanto trabalha, sem ter muito conhecimento em limpeza achar que terei de comprar diversos produtos caros e as vezes que prejudicam a mobília.",,2026-03-26 11:55:05.102,pesquisa_primaria
+91,7,contratante,dores,maior_frustracao_aberta,Ter referências de alguém conhecido ,,2026-03-26 12:11:19.281,pesquisa_primaria
+92,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,7,contratante,dores,maior_frustracao_aberta,Não confiar em estranhos na minha casa!,,2026-03-26 12:54:53.135,pesquisa_primaria
+94,7,contratante,dores,maior_frustracao_aberta,Ver o tamanho da casa e quer aumentar o valor. Sendo que diária é como o nome diz. Inicia cedo até o final do dia.,,2026-03-26 13:06:54.424,pesquisa_primaria
+95,7,contratante,dores,maior_frustracao_aberta,Falta de especialização ,,2026-03-26 13:53:06.043,pesquisa_primaria
+96,7,contratante,dores,maior_frustracao_aberta,Ser de confiança e disponibilidade para cumprir horário zelando pela limpeza completa do local,,2026-03-27 07:26:35.537,pesquisa_primaria
+97,7,contratante,dores,maior_frustracao_aberta,Honestidade e descrição ,,2026-03-27 07:33:30.311,pesquisa_primaria
+98,7,contratante,dores,maior_frustracao_aberta,E um paliativo. Nem sempre fica 100%,100.0,2026-03-27 08:33:34.182,pesquisa_primaria
+99,7,contratante,dores,maior_frustracao_aberta,Entrevista ,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,7,contratante,dores,maior_frustracao_aberta,nao sei responder quem faz limpeza nos mesmo,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,7,contratante,dores,maior_frustracao_aberta,Eficiência ,,2026-03-27 15:58:33.219,pesquisa_primaria
+102,7,contratante,dores,maior_frustracao_aberta,Confiança ,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,7,contratante,dores,maior_frustracao_aberta,É ele fazer exatamente o que se manda,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,7,contratante,dores,maior_frustracao_aberta,Confiar na pessoa que irá à minha casa.,,2026-03-27 21:15:29.831,pesquisa_primaria
+105,7,contratante,dores,maior_frustracao_aberta,Confiança é excelente serviço. ,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,7,contratante,dores,maior_frustracao_aberta,"responsabilidade, qualidade do serviço e confiança ",,2026-03-30 13:16:11.572,pesquisa_primaria
+1,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-23 16:36:16.600,pesquisa_primaria
+2,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-23 16:52:14.776,pesquisa_primaria
+3,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-23 22:22:57.824,pesquisa_primaria
+4,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 07:06:47.496,pesquisa_primaria
+5,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 14:12:11.902,pesquisa_primaria
+6,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 14:51:16.640,pesquisa_primaria
+7,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 16:08:02.275,pesquisa_primaria
+8,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:02:41.390,pesquisa_primaria
+9,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 18:03:19.611,pesquisa_primaria
+10,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:03:56.180,pesquisa_primaria
+11,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 18:05:29.471,pesquisa_primaria
+12,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:06:17.115,pesquisa_primaria
+13,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:06:53.372,pesquisa_primaria
+14,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:19:46.080,pesquisa_primaria
+15,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 18:20:34.264,pesquisa_primaria
+16,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:21:39.067,pesquisa_primaria
+17,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:27:27.517,pesquisa_primaria
+18,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 18:43:07.909,pesquisa_primaria
+19,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 18:52:43.021,pesquisa_primaria
+20,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 19:10:38.159,pesquisa_primaria
+21,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 19:15:06.376,pesquisa_primaria
+22,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 19:19:15.991,pesquisa_primaria
+23,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 19:24:55.289,pesquisa_primaria
+24,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 19:37:26.345,pesquisa_primaria
+25,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 19:39:36.488,pesquisa_primaria
+26,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 19:40:24.807,pesquisa_primaria
+27,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 19:42:12.918,pesquisa_primaria
+28,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 19:44:37.119,pesquisa_primaria
+29,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 19:44:38.104,pesquisa_primaria
+30,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 19:44:49.352,pesquisa_primaria
+31,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 19:54:25.663,pesquisa_primaria
+32,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 19:55:31.781,pesquisa_primaria
+33,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 20:04:40.320,pesquisa_primaria
+34,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-24 20:07:36.926,pesquisa_primaria
+35,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 20:11:31.036,pesquisa_primaria
+36,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 20:15:48.225,pesquisa_primaria
+37,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 20:21:42.700,pesquisa_primaria
+38,8,contratante,dores,dificuldade_ultima_hora_1a5,2,2.0,2026-03-24 20:31:54.097,pesquisa_primaria
+39,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 20:36:21.798,pesquisa_primaria
+40,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 20:39:51.722,pesquisa_primaria
+41,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 20:39:52.888,pesquisa_primaria
+42,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 20:56:23.429,pesquisa_primaria
+43,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 20:58:17.125,pesquisa_primaria
+44,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 21:10:23.739,pesquisa_primaria
+45,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-24 21:50:44.954,pesquisa_primaria
+46,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-24 22:34:36.412,pesquisa_primaria
+47,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 07:04:23.770,pesquisa_primaria
+48,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 07:32:02.170,pesquisa_primaria
+49,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 10:07:51.270,pesquisa_primaria
+50,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 11:12:21.040,pesquisa_primaria
+51,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 11:16:16.533,pesquisa_primaria
+52,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 12:00:25.404,pesquisa_primaria
+53,8,contratante,dores,dificuldade_ultima_hora_1a5,2,2.0,2026-03-25 12:02:52.345,pesquisa_primaria
+54,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 12:02:58.257,pesquisa_primaria
+55,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 12:05:48.745,pesquisa_primaria
+56,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 12:07:22.699,pesquisa_primaria
+57,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 12:09:36.234,pesquisa_primaria
+58,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:28:02.528,pesquisa_primaria
+59,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:29:55.644,pesquisa_primaria
+60,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:30:02.648,pesquisa_primaria
+61,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:31:27.290,pesquisa_primaria
+62,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:32:02.864,pesquisa_primaria
+63,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-25 14:33:02.846,pesquisa_primaria
+64,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:35:50.118,pesquisa_primaria
+65,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:37:25.286,pesquisa_primaria
+66,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:39:04.595,pesquisa_primaria
+67,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 14:56:47.032,pesquisa_primaria
+68,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 15:03:59.150,pesquisa_primaria
+69,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 15:07:37.987,pesquisa_primaria
+70,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 15:14:08.945,pesquisa_primaria
+71,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 15:27:57.886,pesquisa_primaria
+72,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 15:30:24.891,pesquisa_primaria
+73,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 16:26:56.616,pesquisa_primaria
+74,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 16:31:10.726,pesquisa_primaria
+75,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 17:11:01.770,pesquisa_primaria
+76,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 20:13:04.614,pesquisa_primaria
+77,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 21:04:08.540,pesquisa_primaria
+78,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-25 21:48:56.259,pesquisa_primaria
+79,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-25 22:38:28.375,pesquisa_primaria
+80,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-25 23:07:09.681,pesquisa_primaria
+81,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 00:35:02.800,pesquisa_primaria
+82,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 07:14:02.312,pesquisa_primaria
+83,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-26 07:23:32.605,pesquisa_primaria
+84,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 08:27:09.513,pesquisa_primaria
+85,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-26 09:05:18.008,pesquisa_primaria
+86,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 09:17:41.568,pesquisa_primaria
+87,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 09:59:48.158,pesquisa_primaria
+88,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-26 10:06:46.324,pesquisa_primaria
+89,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 11:45:11.218,pesquisa_primaria
+90,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 11:55:05.102,pesquisa_primaria
+91,8,contratante,dores,dificuldade_ultima_hora_1a5,2,2.0,2026-03-26 12:11:19.281,pesquisa_primaria
+92,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 12:38:34.758,pesquisa_primaria
+93,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-26 12:54:53.135,pesquisa_primaria
+94,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-26 13:06:54.424,pesquisa_primaria
+95,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-26 13:53:06.043,pesquisa_primaria
+96,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-27 07:26:35.537,pesquisa_primaria
+97,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-27 07:33:30.311,pesquisa_primaria
+98,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-27 08:33:34.182,pesquisa_primaria
+99,8,contratante,dores,dificuldade_ultima_hora_1a5,2,2.0,2026-03-27 13:12:56.690,pesquisa_primaria
+100,8,contratante,dores,dificuldade_ultima_hora_1a5,3,3.0,2026-03-27 15:50:37.724,pesquisa_primaria
+101,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-27 15:58:33.219,pesquisa_primaria
+102,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-27 16:23:54.250,pesquisa_primaria
+103,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-27 17:29:04.885,pesquisa_primaria
+104,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-27 21:15:29.831,pesquisa_primaria
+105,8,contratante,dores,dificuldade_ultima_hora_1a5,4,4.0,2026-03-29 18:47:48.660,pesquisa_primaria
+106,8,contratante,dores,dificuldade_ultima_hora_1a5,5,5.0,2026-03-30 13:16:11.572,pesquisa_primaria
+1,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-23 16:36:16.600,pesquisa_primaria
+2,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-23 16:52:14.776,pesquisa_primaria
+3,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-23 22:22:57.824,pesquisa_primaria
+4,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 07:06:47.496,pesquisa_primaria
+5,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 14:12:11.902,pesquisa_primaria
+6,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 14:51:16.640,pesquisa_primaria
+7,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 16:08:02.275,pesquisa_primaria
+8,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:02:41.390,pesquisa_primaria
+9,9,contratante,dores,profissional_desmarcou,,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:03:56.180,pesquisa_primaria
+11,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:05:29.471,pesquisa_primaria
+12,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 18:06:17.115,pesquisa_primaria
+13,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 18:06:53.372,pesquisa_primaria
+14,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:19:46.080,pesquisa_primaria
+15,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:20:34.264,pesquisa_primaria
+16,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:21:39.067,pesquisa_primaria
+17,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 18:27:27.517,pesquisa_primaria
+18,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 18:43:07.909,pesquisa_primaria
+19,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 18:52:43.021,pesquisa_primaria
+20,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:10:38.159,pesquisa_primaria
+21,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:15:06.376,pesquisa_primaria
+22,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 19:19:15.991,pesquisa_primaria
+23,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:24:55.289,pesquisa_primaria
+24,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:37:26.345,pesquisa_primaria
+25,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:39:36.488,pesquisa_primaria
+26,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 19:40:24.807,pesquisa_primaria
+27,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:42:12.918,pesquisa_primaria
+28,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:44:37.119,pesquisa_primaria
+29,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 19:44:38.104,pesquisa_primaria
+30,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:44:49.352,pesquisa_primaria
+31,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:54:25.663,pesquisa_primaria
+32,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 19:55:31.781,pesquisa_primaria
+33,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 20:04:40.320,pesquisa_primaria
+34,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 20:07:36.926,pesquisa_primaria
+35,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 20:11:31.036,pesquisa_primaria
+36,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 20:15:48.225,pesquisa_primaria
+37,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 20:21:42.700,pesquisa_primaria
+38,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 20:31:54.097,pesquisa_primaria
+39,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-24 20:36:21.798,pesquisa_primaria
+40,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 20:39:51.722,pesquisa_primaria
+41,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-24 20:39:52.888,pesquisa_primaria
+42,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 20:56:23.429,pesquisa_primaria
+43,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 20:58:17.125,pesquisa_primaria
+44,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 21:10:23.739,pesquisa_primaria
+45,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 21:50:44.954,pesquisa_primaria
+46,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-24 22:34:36.412,pesquisa_primaria
+47,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-25 07:04:23.770,pesquisa_primaria
+48,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 07:32:02.170,pesquisa_primaria
+49,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-25 10:07:51.270,pesquisa_primaria
+50,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 11:12:21.040,pesquisa_primaria
+51,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 11:16:16.533,pesquisa_primaria
+52,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-25 12:00:25.404,pesquisa_primaria
+53,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 12:02:52.345,pesquisa_primaria
+54,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 12:02:58.257,pesquisa_primaria
+55,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-25 12:05:48.745,pesquisa_primaria
+56,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 12:07:22.699,pesquisa_primaria
+57,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 12:09:36.234,pesquisa_primaria
+58,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 14:28:02.528,pesquisa_primaria
+59,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 14:29:55.644,pesquisa_primaria
+60,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 14:30:02.648,pesquisa_primaria
+61,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 14:31:27.290,pesquisa_primaria
+62,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 14:32:02.864,pesquisa_primaria
+63,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 14:33:02.846,pesquisa_primaria
+64,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 14:35:50.118,pesquisa_primaria
+65,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 14:37:25.286,pesquisa_primaria
+66,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 14:39:04.595,pesquisa_primaria
+67,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-25 14:56:47.032,pesquisa_primaria
+68,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 15:03:59.150,pesquisa_primaria
+69,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 15:07:37.987,pesquisa_primaria
+70,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 15:14:08.945,pesquisa_primaria
+71,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 15:27:57.886,pesquisa_primaria
+72,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 15:30:24.891,pesquisa_primaria
+73,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 16:26:56.616,pesquisa_primaria
+74,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 16:31:10.726,pesquisa_primaria
+75,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 17:11:01.770,pesquisa_primaria
+76,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 20:13:04.614,pesquisa_primaria
+77,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 21:04:08.540,pesquisa_primaria
+78,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 21:48:56.259,pesquisa_primaria
+79,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-25 22:38:28.375,pesquisa_primaria
+80,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-25 23:07:09.681,pesquisa_primaria
+81,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 00:35:02.800,pesquisa_primaria
+82,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 07:14:02.312,pesquisa_primaria
+83,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 07:23:32.605,pesquisa_primaria
+84,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 08:27:09.513,pesquisa_primaria
+85,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-26 09:05:18.008,pesquisa_primaria
+86,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 09:17:41.568,pesquisa_primaria
+87,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-26 09:59:48.158,pesquisa_primaria
+88,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 10:06:46.324,pesquisa_primaria
+89,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 11:45:11.218,pesquisa_primaria
+90,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 11:55:05.102,pesquisa_primaria
+91,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 12:11:19.281,pesquisa_primaria
+92,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 12:38:34.758,pesquisa_primaria
+93,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-26 12:54:53.135,pesquisa_primaria
+94,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-26 13:06:54.424,pesquisa_primaria
+95,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-26 13:53:06.043,pesquisa_primaria
+96,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-27 07:26:35.537,pesquisa_primaria
+97,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-27 07:33:30.311,pesquisa_primaria
+98,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-27 08:33:34.182,pesquisa_primaria
+99,9,contratante,dores,profissional_desmarcou,"Sim, acontece frequentemente.",,2026-03-27 13:12:56.690,pesquisa_primaria
+100,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-27 15:50:37.724,pesquisa_primaria
+101,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-27 15:58:33.219,pesquisa_primaria
+102,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-27 16:23:54.250,pesquisa_primaria
+103,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-27 17:29:04.885,pesquisa_primaria
+104,9,contratante,dores,profissional_desmarcou,"Não, os profissionais que contrato são muito pontuais.",,2026-03-27 21:15:29.831,pesquisa_primaria
+105,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-29 18:47:48.660,pesquisa_primaria
+106,9,contratante,dores,profissional_desmarcou,"Sim, já aconteceu algumas vezes.",,2026-03-30 13:16:11.572,pesquisa_primaria
+1,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-23 16:36:16.600,pesquisa_primaria
+2,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-23 22:22:57.824,pesquisa_primaria
+4,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-24 07:06:47.496,pesquisa_primaria
+5,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 14:12:11.902,pesquisa_primaria
+6,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 14:51:16.640,pesquisa_primaria
+7,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 18:02:41.390,pesquisa_primaria
+9,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 18:03:19.611,pesquisa_primaria
+10,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 18:03:56.180,pesquisa_primaria
+11,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 18:05:29.471,pesquisa_primaria
+12,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 18:06:17.115,pesquisa_primaria
+13,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 18:06:53.372,pesquisa_primaria
+14,10,contratante,decisao,fatores_contratacao_novo,Experiência prévia com o tipo de limpeza que eu preciso.,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 18:20:34.264,pesquisa_primaria
+16,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 18:27:27.517,pesquisa_primaria
+18,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 18:43:07.909,pesquisa_primaria
+19,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 18:52:43.021,pesquisa_primaria
+20,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 19:10:38.159,pesquisa_primaria
+21,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 19:15:06.376,pesquisa_primaria
+22,10,contratante,decisao,fatores_contratacao_novo,Experiência prévia com o tipo de limpeza que eu preciso.,,2026-03-24 19:19:15.991,pesquisa_primaria
+23,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 19:24:55.289,pesquisa_primaria
+24,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 19:39:36.488,pesquisa_primaria
+26,10,contratante,decisao,fatores_contratacao_novo,Preço cobrado pela diária.,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte.",,2026-03-24 19:42:12.918,pesquisa_primaria
+28,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 19:44:37.119,pesquisa_primaria
+29,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 19:44:38.104,pesquisa_primaria
+30,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 19:44:49.352,pesquisa_primaria
+31,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 19:54:25.663,pesquisa_primaria
+32,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 19:55:31.781,pesquisa_primaria
+33,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 20:04:40.320,pesquisa_primaria
+34,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 20:07:36.926,pesquisa_primaria
+35,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 20:11:31.036,pesquisa_primaria
+36,10,contratante,decisao,fatores_contratacao_novo,Experiência prévia com o tipo de limpeza que eu preciso.,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 20:21:42.700,pesquisa_primaria
+38,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 20:31:54.097,pesquisa_primaria
+39,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-24 20:39:51.722,pesquisa_primaria
+41,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 20:39:52.888,pesquisa_primaria
+42,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 20:56:23.429,pesquisa_primaria
+43,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 20:58:17.125,pesquisa_primaria
+44,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-24 21:10:23.739,pesquisa_primaria
+45,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-24 21:50:44.954,pesquisa_primaria
+46,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-24 22:34:36.412,pesquisa_primaria
+47,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 07:04:23.770,pesquisa_primaria
+48,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-25 10:07:51.270,pesquisa_primaria
+50,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-25 11:12:21.040,pesquisa_primaria
+51,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 11:16:16.533,pesquisa_primaria
+52,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-25 12:00:25.404,pesquisa_primaria
+53,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 12:02:52.345,pesquisa_primaria
+54,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-25 12:02:58.257,pesquisa_primaria
+55,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-25 12:05:48.745,pesquisa_primaria
+56,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 12:07:22.699,pesquisa_primaria
+57,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-25 12:09:36.234,pesquisa_primaria
+58,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 14:28:02.528,pesquisa_primaria
+59,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 14:29:55.644,pesquisa_primaria
+60,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 14:30:02.648,pesquisa_primaria
+61,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 14:31:27.290,pesquisa_primaria
+62,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 14:32:02.864,pesquisa_primaria
+63,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-25 14:33:02.846,pesquisa_primaria
+64,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-25 14:35:50.118,pesquisa_primaria
+65,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",,2026-03-25 14:39:04.595,pesquisa_primaria
+67,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-25 14:56:47.032,pesquisa_primaria
+68,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 15:03:59.150,pesquisa_primaria
+69,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 15:07:37.987,pesquisa_primaria
+70,10,contratante,decisao,fatores_contratacao_novo,Preço cobrado pela diária.,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-25 15:27:57.886,pesquisa_primaria
+72,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 15:30:24.891,pesquisa_primaria
+73,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-25 16:26:56.616,pesquisa_primaria
+74,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 16:31:10.726,pesquisa_primaria
+75,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-25 17:11:01.770,pesquisa_primaria
+76,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 20:13:04.614,pesquisa_primaria
+77,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-25 21:04:08.540,pesquisa_primaria
+78,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-25 23:07:09.681,pesquisa_primaria
+81,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte.",,2026-03-26 00:35:02.800,pesquisa_primaria
+82,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",,2026-03-26 07:14:02.312,pesquisa_primaria
+83,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 09:05:18.008,pesquisa_primaria
+86,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 09:17:41.568,pesquisa_primaria
+87,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-26 09:59:48.158,pesquisa_primaria
+88,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 10:06:46.324,pesquisa_primaria
+89,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-26 11:45:11.218,pesquisa_primaria
+90,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 11:55:05.102,pesquisa_primaria
+91,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-26 12:11:19.281,pesquisa_primaria
+92,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-26 12:54:53.135,pesquisa_primaria
+94,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 13:06:54.424,pesquisa_primaria
+95,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-26 13:53:06.043,pesquisa_primaria
+96,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-27 07:26:35.537,pesquisa_primaria
+97,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-27 07:33:30.311,pesquisa_primaria
+98,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-27 08:33:34.182,pesquisa_primaria
+99,10,contratante,decisao,fatores_contratacao_novo,Preço cobrado pela diária.,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,10,contratante,decisao,fatores_contratacao_novo,Preço cobrado pela diária.,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,10,contratante,decisao,fatores_contratacao_novo,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",,2026-03-27 15:58:33.219,pesquisa_primaria
+102,10,contratante,decisao,fatores_contratacao_novo,Avaliações e recomendações de outros clientes.,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-27 17:29:04.885,pesquisa_primaria
+104,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-27 21:15:29.831,pesquisa_primaria
+105,10,contratante,decisao,fatores_contratacao_novo,Verificação de antecedentes criminais/identidade.,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,10,contratante,decisao,fatores_contratacao_novo,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",,2026-03-30 13:16:11.572,pesquisa_primaria
+1,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-23 16:36:16.600,pesquisa_primaria
+2,11,contratante,decisao,varinha_magica_aberta,,,2026-03-23 16:52:14.776,pesquisa_primaria
+3,11,contratante,decisao,varinha_magica_aberta,Teria um robô que programasse a limpeza. ,,2026-03-23 22:22:57.824,pesquisa_primaria
+4,11,contratante,decisao,varinha_magica_aberta,Alguem com treinamento em limpeza ,,2026-03-24 07:06:47.496,pesquisa_primaria
+5,11,contratante,decisao,varinha_magica_aberta,"Um comentário extra -Tenho uma pessoa que está comigo há mais de 20 anos. Mas assim como eu está envelhecendo e a limpeza já nao tem a mesma qualidade, mas não tenho como demiti-la. Ja está nos 60s e não seria fácil ser contratada novamente. Portanto, o envelhecimento é um problema sério , embora eu  a tenha ajudado a aposentar, ela continua precisando de um pouco mais porque a família depende dela. 
+
+Varinha mágica: Uma Agência especializada, de confiança, sem preços extorsivos, com funcionários experientes e eficientes. com número de horas limitadas, como é feito lá fora onde é pago por hora. ",20.0,2026-03-24 14:12:11.902,pesquisa_primaria
+6,11,contratante,decisao,varinha_magica_aberta,Não ter que ficar falando o que fazer,,2026-03-24 14:51:16.640,pesquisa_primaria
+7,11,contratante,decisao,varinha_magica_aberta,Alguém que limpasse minuciosamente ,,2026-03-24 16:08:02.275,pesquisa_primaria
+8,11,contratante,decisao,varinha_magica_aberta,Limpeza de excelência ,,2026-03-24 18:02:41.390,pesquisa_primaria
+9,11,contratante,decisao,varinha_magica_aberta,Uma pessoa de confiança e honesta ,,2026-03-24 18:03:19.611,pesquisa_primaria
+10,11,contratante,decisao,varinha_magica_aberta,Nao precisar ,,2026-03-24 18:03:56.180,pesquisa_primaria
+11,11,contratante,decisao,varinha_magica_aberta,Eficiência ,,2026-03-24 18:05:29.471,pesquisa_primaria
+12,11,contratante,decisao,varinha_magica_aberta,Profissional dedicada,,2026-03-24 18:06:17.115,pesquisa_primaria
+13,11,contratante,decisao,varinha_magica_aberta,Alguém que fosse realmente bom na limpeza.,,2026-03-24 18:06:53.372,pesquisa_primaria
+14,11,contratante,decisao,varinha_magica_aberta,Comprometimento profissional ,,2026-03-24 18:19:46.080,pesquisa_primaria
+15,11,contratante,decisao,varinha_magica_aberta,"Profissional pontal, limpeza e confiança ",,2026-03-24 18:20:34.264,pesquisa_primaria
+16,11,contratante,decisao,varinha_magica_aberta,,,2026-03-24 18:21:39.067,pesquisa_primaria
+17,11,contratante,decisao,varinha_magica_aberta,"a qualidade da execução dos servicos, eficiência, a segurança de confiabilidade e boa relação de tratamento (educação). ",,2026-03-24 18:27:27.517,pesquisa_primaria
+18,11,contratante,decisao,varinha_magica_aberta,Qualidade da limpeza ,,2026-03-24 18:43:07.909,pesquisa_primaria
+19,11,contratante,decisao,varinha_magica_aberta,Qualidade na limpeza ,,2026-03-24 18:52:43.021,pesquisa_primaria
+20,11,contratante,decisao,varinha_magica_aberta,Serviço bem feito ,,2026-03-24 19:10:38.159,pesquisa_primaria
+21,11,contratante,decisao,varinha_magica_aberta,Uma pessoa de confiança ,,2026-03-24 19:15:06.376,pesquisa_primaria
+22,11,contratante,decisao,varinha_magica_aberta,"Transparência da empresa com o funcionário que veste a camisa, assim os funcionários trabalharão com dedicação e leveza. ",,2026-03-24 19:19:15.991,pesquisa_primaria
+23,11,contratante,decisao,varinha_magica_aberta,Confiança… ,,2026-03-24 19:24:55.289,pesquisa_primaria
+24,11,contratante,decisao,varinha_magica_aberta,Higiene impecável,,2026-03-24 19:37:26.345,pesquisa_primaria
+25,11,contratante,decisao,varinha_magica_aberta,Custo benefício ,,2026-03-24 19:39:36.488,pesquisa_primaria
+26,11,contratante,decisao,varinha_magica_aberta,Os profissionais depende de exclusivamente do transporte público dificultando para eles os horários e para o contratante ,,2026-03-24 19:40:24.807,pesquisa_primaria
+27,11,contratante,decisao,varinha_magica_aberta,,,2026-03-24 19:42:12.918,pesquisa_primaria
+28,11,contratante,decisao,varinha_magica_aberta,Serviço de confiança ,,2026-03-24 19:44:37.119,pesquisa_primaria
+29,11,contratante,decisao,varinha_magica_aberta,Achar alguém que trabalhe bem,,2026-03-24 19:44:38.104,pesquisa_primaria
+30,11,contratante,decisao,varinha_magica_aberta,Melhorar a qualidade do serviço ,,2026-03-24 19:44:49.352,pesquisa_primaria
+31,11,contratante,decisao,varinha_magica_aberta,Qualidade. ,,2026-03-24 19:54:25.663,pesquisa_primaria
+32,11,contratante,decisao,varinha_magica_aberta,Indicação de gente de confiança ,,2026-03-24 19:55:31.781,pesquisa_primaria
+33,11,contratante,decisao,varinha_magica_aberta,Qualidade e honestidade ,,2026-03-24 20:04:40.320,pesquisa_primaria
+34,11,contratante,decisao,varinha_magica_aberta,Pessoa com responsabilidade ,,2026-03-24 20:07:36.926,pesquisa_primaria
+35,11,contratante,decisao,varinha_magica_aberta,Poder confiar,,2026-03-24 20:11:31.036,pesquisa_primaria
+36,11,contratante,decisao,varinha_magica_aberta,Um bom profissional ,,2026-03-24 20:15:48.225,pesquisa_primaria
+37,11,contratante,decisao,varinha_magica_aberta,Teria um robô igual dos Jetsons,,2026-03-24 20:21:42.700,pesquisa_primaria
+38,11,contratante,decisao,varinha_magica_aberta,Excelência no que é proposto ,,2026-03-24 20:31:54.097,pesquisa_primaria
+39,11,contratante,decisao,varinha_magica_aberta,,,2026-03-24 20:36:21.798,pesquisa_primaria
+40,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-24 20:39:51.722,pesquisa_primaria
+41,11,contratante,decisao,varinha_magica_aberta,A assiduidade das funcionárias ,,2026-03-24 20:39:52.888,pesquisa_primaria
+42,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-24 20:56:23.429,pesquisa_primaria
+43,11,contratante,decisao,varinha_magica_aberta,Certeza q a pessoa nn iria me roubar,,2026-03-24 20:58:17.125,pesquisa_primaria
+44,11,contratante,decisao,varinha_magica_aberta,"Teria um banco de cadastro de prestadores(as) de serviços, com indicação do
+nível de qualidade atribuído por meio da avaliação dos contratantes ",,2026-03-24 21:10:23.739,pesquisa_primaria
+45,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-24 21:50:44.954,pesquisa_primaria
+46,11,contratante,decisao,varinha_magica_aberta,Ter um aplicativo com os perfis detalhados.,,2026-03-24 22:34:36.412,pesquisa_primaria
+47,11,contratante,decisao,varinha_magica_aberta,"Profissionais honestos, já fomos roubados ",,2026-03-25 07:04:23.770,pesquisa_primaria
+48,11,contratante,decisao,varinha_magica_aberta,A pessoa conseguisse deixar a casa realmente limpa ,,2026-03-25 07:32:02.170,pesquisa_primaria
+49,11,contratante,decisao,varinha_magica_aberta,Construiria um robô que fizesse tudo o quer deveria fazer em uma casa. ,,2026-03-25 10:07:51.270,pesquisa_primaria
+50,11,contratante,decisao,varinha_magica_aberta,Que elas entregassem um serviço de acordo com o que peço e com o preço pago. Ou seja coerência entre o preço pago e o trabalho executado.,,2026-03-25 11:12:21.040,pesquisa_primaria
+51,11,contratante,decisao,varinha_magica_aberta,,,2026-03-25 11:16:16.533,pesquisa_primaria
+52,11,contratante,decisao,varinha_magica_aberta,Agilidade e confiança.,,2026-03-25 12:00:25.404,pesquisa_primaria
+53,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-25 12:02:52.345,pesquisa_primaria
+54,11,contratante,decisao,varinha_magica_aberta,Eficiência no serviço de limpeza,,2026-03-25 12:02:58.257,pesquisa_primaria
+55,11,contratante,decisao,varinha_magica_aberta,compromisso do profissional ,,2026-03-25 12:05:48.745,pesquisa_primaria
+56,11,contratante,decisao,varinha_magica_aberta,Comprometimento com serviço e horário.,,2026-03-25 12:07:22.699,pesquisa_primaria
+57,11,contratante,decisao,varinha_magica_aberta,"Quando o profissional ganha confiança, às vezes acaba relaxando no padrão do serviço. O problema que eu resolveria seria manter o mesmo zelo, capricho e qualidade do início do contrato durante todo o período do trabalho.",,2026-03-25 12:09:36.234,pesquisa_primaria
+58,11,contratante,decisao,varinha_magica_aberta,Uma ótima indicação ,,2026-03-25 14:28:02.528,pesquisa_primaria
+59,11,contratante,decisao,varinha_magica_aberta,Limpeza de banheiro ,,2026-03-25 14:29:55.644,pesquisa_primaria
+60,11,contratante,decisao,varinha_magica_aberta,A pessoa ser confiável ,,2026-03-25 14:30:02.648,pesquisa_primaria
+61,11,contratante,decisao,varinha_magica_aberta,"Que elas seguissem um protocolo de limpeza que contemplasse não só a faxina “grossa” mas, principalmente os detalhes.",,2026-03-25 14:31:27.290,pesquisa_primaria
+62,11,contratante,decisao,varinha_magica_aberta,Um serviço bem feito,,2026-03-25 14:32:02.864,pesquisa_primaria
+63,11,contratante,decisao,varinha_magica_aberta,"Conseguir uma faxineira boa de serviço, que limpeza bem e que faço por um bom preço a diária.",,2026-03-25 14:33:02.846,pesquisa_primaria
+64,11,contratante,decisao,varinha_magica_aberta,"disponibilidade 
+",,2026-03-25 14:35:50.118,pesquisa_primaria
+65,11,contratante,decisao,varinha_magica_aberta,Segurança ,,2026-03-25 14:37:25.286,pesquisa_primaria
+66,11,contratante,decisao,varinha_magica_aberta,Acertar na escolha de uma pessoa,,2026-03-25 14:39:04.595,pesquisa_primaria
+67,11,contratante,decisao,varinha_magica_aberta,Confiança,,2026-03-25 14:56:47.032,pesquisa_primaria
+68,11,contratante,decisao,varinha_magica_aberta,,,2026-03-25 15:03:59.150,pesquisa_primaria
+69,11,contratante,decisao,varinha_magica_aberta,Compromisso e profissionalismo.,,2026-03-25 15:07:37.987,pesquisa_primaria
+70,11,contratante,decisao,varinha_magica_aberta,Não precisar mandar,,2026-03-25 15:14:08.945,pesquisa_primaria
+71,11,contratante,decisao,varinha_magica_aberta,ser confiável e saber executar o serviço,,2026-03-25 15:27:57.886,pesquisa_primaria
+72,11,contratante,decisao,varinha_magica_aberta,Pontualidade e eficiência.,,2026-03-25 15:30:24.891,pesquisa_primaria
+73,11,contratante,decisao,varinha_magica_aberta,,,2026-03-25 16:26:56.616,pesquisa_primaria
+74,11,contratante,decisao,varinha_magica_aberta,,,2026-03-25 16:31:10.726,pesquisa_primaria
+75,11,contratante,decisao,varinha_magica_aberta,Profissional confiável ,,2026-03-25 17:11:01.770,pesquisa_primaria
+76,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-25 20:13:04.614,pesquisa_primaria
+77,11,contratante,decisao,varinha_magica_aberta,Confiança e agilidade ,,2026-03-25 21:04:08.540,pesquisa_primaria
+78,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-25 21:48:56.259,pesquisa_primaria
+79,11,contratante,decisao,varinha_magica_aberta,,,2026-03-25 22:38:28.375,pesquisa_primaria
+80,11,contratante,decisao,varinha_magica_aberta,Agilidade e Confiança ,,2026-03-25 23:07:09.681,pesquisa_primaria
+81,11,contratante,decisao,varinha_magica_aberta,Profissionalismo,,2026-03-26 00:35:02.800,pesquisa_primaria
+82,11,contratante,decisao,varinha_magica_aberta,Honestidade,,2026-03-26 07:14:02.312,pesquisa_primaria
+83,11,contratante,decisao,varinha_magica_aberta,Grau de confiabilidade,,2026-03-26 07:23:32.605,pesquisa_primaria
+84,11,contratante,decisao,varinha_magica_aberta,Confiança ,,2026-03-26 08:27:09.513,pesquisa_primaria
+85,11,contratante,decisao,varinha_magica_aberta,Ter uma forte relação de confiança entre as partes.,,2026-03-26 09:05:18.008,pesquisa_primaria
+86,11,contratante,decisao,varinha_magica_aberta,,,2026-03-26 09:17:41.568,pesquisa_primaria
+87,11,contratante,decisao,varinha_magica_aberta,Não faltar no dia de trabalho contratado ,,2026-03-26 09:59:48.158,pesquisa_primaria
+88,11,contratante,decisao,varinha_magica_aberta,Serviço ser bem feito! ,,2026-03-26 10:06:46.324,pesquisa_primaria
+89,11,contratante,decisao,varinha_magica_aberta,Usaria a varinha 😂,,2026-03-26 11:45:11.218,pesquisa_primaria
+90,11,contratante,decisao,varinha_magica_aberta,"Achar alguém dedicada ao trabalho  soubesse trabalhar, sem ter de gastar um monte de produtos, cobrasse preço  justo.",,2026-03-26 11:55:05.102,pesquisa_primaria
+91,11,contratante,decisao,varinha_magica_aberta,"Ter um profissional completa que limpa,  passa e cozinha. ",,2026-03-26 12:11:19.281,pesquisa_primaria
+92,11,contratante,decisao,varinha_magica_aberta,,,2026-03-26 12:38:34.758,pesquisa_primaria
+93,11,contratante,decisao,varinha_magica_aberta,Saber se poderia confiar!,,2026-03-26 12:54:53.135,pesquisa_primaria
+94,11,contratante,decisao,varinha_magica_aberta,"Uma funcionária boa, limpa, efetiva e que fizesse seu serviço sem má vontade ",,2026-03-26 13:06:54.424,pesquisa_primaria
+95,11,contratante,decisao,varinha_magica_aberta,A qualidade do serviço prestado ,,2026-03-26 13:53:06.043,pesquisa_primaria
+96,11,contratante,decisao,varinha_magica_aberta,Competência e confiança ,,2026-03-27 07:26:35.537,pesquisa_primaria
+97,11,contratante,decisao,varinha_magica_aberta,Honestidade ,,2026-03-27 07:33:30.311,pesquisa_primaria
+98,11,contratante,decisao,varinha_magica_aberta,Fazer as coisas com mais comprometomento,,2026-03-27 08:33:34.182,pesquisa_primaria
+99,11,contratante,decisao,varinha_magica_aberta,Horário ,,2026-03-27 13:12:56.690,pesquisa_primaria
+100,11,contratante,decisao,varinha_magica_aberta,olá! respondi de forma aleatória porque não utilizou o serviço. continue estudando sempre um abraço.... ,,2026-03-27 15:50:37.724,pesquisa_primaria
+101,11,contratante,decisao,varinha_magica_aberta,Eficiência ,,2026-03-27 15:58:33.219,pesquisa_primaria
+102,11,contratante,decisao,varinha_magica_aberta,Encontrar pessoas que realmente queiram trabalhar ,,2026-03-27 16:23:54.250,pesquisa_primaria
+103,11,contratante,decisao,varinha_magica_aberta,Confiança e respeito,,2026-03-27 17:29:04.885,pesquisa_primaria
+104,11,contratante,decisao,varinha_magica_aberta,,,2026-03-27 21:15:29.831,pesquisa_primaria
+105,11,contratante,decisao,varinha_magica_aberta,Confiança e excelente serviço. ,,2026-03-29 18:47:48.660,pesquisa_primaria
+106,11,contratante,decisao,varinha_magica_aberta,qualidade do serviço ,,2026-03-30 13:16:11.572,pesquisa_primaria
+107,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:27:38.431,pesquisa_primaria
+108,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-24 19:41:03.979,pesquisa_primaria
+109,12,diarista,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-24 20:04:07.461,pesquisa_primaria
+110,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 13:38:54.909,pesquisa_primaria
+111,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 14:16:00.306,pesquisa_primaria
+112,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-25 14:18:16.907,pesquisa_primaria
+113,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-25 20:59:45.105,pesquisa_primaria
+114,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 09:12:33.191,pesquisa_primaria
+115,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-26 11:58:05.444,pesquisa_primaria
+116,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-27 20:16:44.565,pesquisa_primaria
+117,12,diarista,perfil,faixa_etaria,25 a 34 anos,25.0,2026-03-27 20:26:05.482,pesquisa_primaria
+118,12,diarista,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-27 20:30:39.852,pesquisa_primaria
+119,12,diarista,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-27 20:35:14.582,pesquisa_primaria
+120,12,diarista,perfil,faixa_etaria,45 a 54 anos,45.0,2026-03-27 21:02:36.821,pesquisa_primaria
+121,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-27 21:05:43.627,pesquisa_primaria
+122,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-27 21:06:01.331,pesquisa_primaria
+123,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-28 03:41:36.114,pesquisa_primaria
+124,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-30 17:19:07.065,pesquisa_primaria
+125,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-03-31 08:01:44.623,pesquisa_primaria
+126,12,diarista,perfil,faixa_etaria,55 anos ou mais,55.0,2026-03-31 08:33:07.801,pesquisa_primaria
+127,12,diarista,perfil,faixa_etaria,35 a 44 anos,35.0,2026-04-06 14:23:25.651,pesquisa_primaria
+107,13,diarista,perfil,tempo_experiencia,De 4 a 10 anos,4.0,2026-03-24 19:27:38.431,pesquisa_primaria
+108,13,diarista,perfil,tempo_experiencia,De 1 a 3 anos,1.0,2026-03-24 19:41:03.979,pesquisa_primaria
+109,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-24 20:04:07.461,pesquisa_primaria
+110,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-25 13:38:54.909,pesquisa_primaria
+111,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-25 14:16:00.306,pesquisa_primaria
+112,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-25 14:18:16.907,pesquisa_primaria
+113,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-25 20:59:45.105,pesquisa_primaria
+114,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-26 09:12:33.191,pesquisa_primaria
+115,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-26 11:58:05.444,pesquisa_primaria
+116,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-27 20:16:44.565,pesquisa_primaria
+117,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-27 20:26:05.482,pesquisa_primaria
+118,13,diarista,perfil,tempo_experiencia,De 1 a 3 anos,1.0,2026-03-27 20:30:39.852,pesquisa_primaria
+119,13,diarista,perfil,tempo_experiencia,De 4 a 10 anos,4.0,2026-03-27 20:35:14.582,pesquisa_primaria
+120,13,diarista,perfil,tempo_experiencia,De 4 a 10 anos,4.0,2026-03-27 21:02:36.821,pesquisa_primaria
+121,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-27 21:05:43.627,pesquisa_primaria
+122,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-27 21:06:01.331,pesquisa_primaria
+123,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-28 03:41:36.114,pesquisa_primaria
+124,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-30 17:19:07.065,pesquisa_primaria
+125,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-31 08:01:44.623,pesquisa_primaria
+126,13,diarista,perfil,tempo_experiencia,Mais de 10 anos,10.0,2026-03-31 08:33:07.801,pesquisa_primaria
+127,13,diarista,perfil,tempo_experiencia,De 1 a 3 anos,1.0,2026-04-06 14:23:25.651,pesquisa_primaria
+107,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-24 19:27:38.431,pesquisa_primaria
+108,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-24 19:41:03.979,pesquisa_primaria
+109,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-24 20:04:07.461,pesquisa_primaria
+110,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-25 13:38:54.909,pesquisa_primaria
+111,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-25 14:16:00.306,pesquisa_primaria
+112,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-25 14:18:16.907,pesquisa_primaria
+113,14,diarista,perfil,unica_fonte_renda,"Não, faço outros bicos além da faxina.",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-26 09:12:33.191,pesquisa_primaria
+115,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,14,diarista,perfil,unica_fonte_renda,"Não, tenho outro emprego com carteira assinada.",,2026-03-27 20:16:44.565,pesquisa_primaria
+117,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-27 20:30:39.852,pesquisa_primaria
+119,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-27 20:35:14.582,pesquisa_primaria
+120,14,diarista,perfil,unica_fonte_renda,"Não, faço outros bicos além da faxina.",,2026-03-27 21:02:36.821,pesquisa_primaria
+121,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,14,diarista,perfil,unica_fonte_renda,"Não, faço outros bicos além da faxina.",,2026-03-27 21:06:01.331,pesquisa_primaria
+123,14,diarista,perfil,unica_fonte_renda,"Não, faço outros bicos além da faxina.",,2026-03-28 03:41:36.114,pesquisa_primaria
+124,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,14,diarista,perfil,unica_fonte_renda,"Sim, sustento minha casa apenas com as faxinas.",,2026-04-06 14:23:25.651,pesquisa_primaria
+107,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,15,diarista,realidade_trabalho,canal_consegue_diarias,Grupos de Facebook ou WhatsApp.,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-25 20:59:45.105,pesquisa_primaria
+114,15,diarista,realidade_trabalho,canal_consegue_diarias,"Aplicativos de celular (ex: GetNinjas, Parafuzo, etc).",,2026-03-26 09:12:33.191,pesquisa_primaria
+115,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-26 11:58:05.444,pesquisa_primaria
+116,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,15,diarista,realidade_trabalho,canal_consegue_diarias,Agências de limpeza.,,2026-03-27 20:26:05.482,pesquisa_primaria
+118,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 21:05:43.627,pesquisa_primaria
+122,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-28 03:41:36.114,pesquisa_primaria
+124,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-30 17:19:07.065,pesquisa_primaria
+125,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-31 08:01:44.623,pesquisa_primaria
+126,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-03-31 08:33:07.801,pesquisa_primaria
+127,15,diarista,realidade_trabalho,canal_consegue_diarias,Indicação de patroas / clientes atuais.,,2026-04-06 14:23:25.651,pesquisa_primaria
+107,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-24 19:27:38.431,pesquisa_primaria
+108,16,diarista,realidade_trabalho,dias_faxina_semana,Todos os dias (sem folga),,2026-03-24 19:41:03.979,pesquisa_primaria
+109,16,diarista,realidade_trabalho,dias_faxina_semana,Todos os dias (sem folga),,2026-03-24 20:04:07.461,pesquisa_primaria
+110,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-25 13:38:54.909,pesquisa_primaria
+111,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-25 14:16:00.306,pesquisa_primaria
+112,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-25 14:18:16.907,pesquisa_primaria
+113,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-25 20:59:45.105,pesquisa_primaria
+114,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-26 09:12:33.191,pesquisa_primaria
+115,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-26 11:58:05.444,pesquisa_primaria
+116,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-27 20:16:44.565,pesquisa_primaria
+117,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-27 20:26:05.482,pesquisa_primaria
+118,16,diarista,realidade_trabalho,dias_faxina_semana,3 a 4 dias por semana,3.0,2026-03-27 20:30:39.852,pesquisa_primaria
+119,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-27 20:35:14.582,pesquisa_primaria
+120,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-27 21:02:36.821,pesquisa_primaria
+121,16,diarista,realidade_trabalho,dias_faxina_semana,3 a 4 dias por semana,3.0,2026-03-27 21:05:43.627,pesquisa_primaria
+122,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-03-27 21:06:01.331,pesquisa_primaria
+123,16,diarista,realidade_trabalho,dias_faxina_semana,3 a 4 dias por semana,3.0,2026-03-28 03:41:36.114,pesquisa_primaria
+124,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-30 17:19:07.065,pesquisa_primaria
+125,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-31 08:01:44.623,pesquisa_primaria
+126,16,diarista,realidade_trabalho,dias_faxina_semana,5 a 6 dias por semana,5.0,2026-03-31 08:33:07.801,pesquisa_primaria
+127,16,diarista,realidade_trabalho,dias_faxina_semana,1 a 2 dias por semana,1.0,2026-04-06 14:23:25.651,pesquisa_primaria
+107,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-24 19:27:38.431,pesquisa_primaria
+108,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-24 19:41:03.979,pesquisa_primaria
+109,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-24 20:04:07.461,pesquisa_primaria
+110,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-25 13:38:54.909,pesquisa_primaria
+111,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-25 14:16:00.306,pesquisa_primaria
+112,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-25 14:18:16.907,pesquisa_primaria
+113,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-26 09:12:33.191,pesquisa_primaria
+115,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-27 20:16:44.565,pesquisa_primaria
+117,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-27 20:30:39.852,pesquisa_primaria
+119,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-27 20:35:14.582,pesquisa_primaria
+120,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-27 21:02:36.821,pesquisa_primaria
+121,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-27 21:06:01.331,pesquisa_primaria
+123,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-28 03:41:36.114,pesquisa_primaria
+124,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Sim, de vez em quando falta cliente.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,17,diarista,realidade_trabalho,dias_livres_sem_cliente,"Não, graças a Deus minha agenda está sempre cheia.",,2026-04-06 14:23:25.651,pesquisa_primaria
+107,18,diarista,dores,dificuldade_cliente_novo_aberta,"Não conhece a pessoa 
+",,2026-03-24 19:27:38.431,pesquisa_primaria
+108,18,diarista,dores,dificuldade_cliente_novo_aberta,Não tenho dificuldade ,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,18,diarista,dores,dificuldade_cliente_novo_aberta,Valor,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,18,diarista,dores,dificuldade_cliente_novo_aberta,Valores nem sempre querem pagar o valor,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,18,diarista,dores,dificuldade_cliente_novo_aberta,Preço ,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,18,diarista,dores,dificuldade_cliente_novo_aberta,O valor geralmente sempre reclamam ,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,18,diarista,dores,dificuldade_cliente_novo_aberta,"Valor
+",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,18,diarista,dores,dificuldade_cliente_novo_aberta,Preguiça ,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,18,diarista,dores,dificuldade_cliente_novo_aberta,A confiança e o valor ,,2026-03-26 11:58:05.444,pesquisa_primaria
+116,18,diarista,dores,dificuldade_cliente_novo_aberta,Dificuldade em saber onde guardar os produtos ,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,18,diarista,dores,dificuldade_cliente_novo_aberta,"A questão da confiança pesa muito, ainda mais eu sendo negra.ainda tem muito preconceito em relação a isso.",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,18,diarista,dores,dificuldade_cliente_novo_aberta,Não tenho dificuldade ,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,18,diarista,dores,dificuldade_cliente_novo_aberta,Não  tenho nenhuma dificuldade ,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,18,diarista,dores,dificuldade_cliente_novo_aberta,Sem dificuldade ,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,18,diarista,dores,dificuldade_cliente_novo_aberta,"O local de trabalho pra mim tem que ser de fácil assessor com ônibus 
+E também valores ",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,18,diarista,dores,dificuldade_cliente_novo_aberta,Acerta o valor.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,18,diarista,dores,dificuldade_cliente_novo_aberta,Conhecer os hábitos do novo cliente,,2026-03-28 03:41:36.114,pesquisa_primaria
+124,18,diarista,dores,dificuldade_cliente_novo_aberta,"Quando combina um serviço,e quando chega ao local o serviço e outro...",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,18,diarista,dores,dificuldade_cliente_novo_aberta,Nei todos quer pagar o valor da diária.,,2026-03-31 08:01:44.623,pesquisa_primaria
+126,18,diarista,dores,dificuldade_cliente_novo_aberta,Geralmente o preço da faxina sempre acham muito caro.,,2026-03-31 08:33:07.801,pesquisa_primaria
+127,18,diarista,dores,dificuldade_cliente_novo_aberta,"Dificuldade de ter q pegar 2 ônibus p poder chegar na casa do cliente 
+",2.0,2026-04-06 14:23:25.651,pesquisa_primaria
+107,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-25 20:59:45.105,pesquisa_primaria
+114,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-26 11:58:05.444,pesquisa_primaria
+116,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,19,diarista,dores,frequencia_desmarque_cliente,Frequentemente (atrapalha muito minha renda).,,2026-03-27 20:26:05.482,pesquisa_primaria
+118,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 21:05:43.627,pesquisa_primaria
+122,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,19,diarista,dores,frequencia_desmarque_cliente,Às vezes (umas 1 ou 2 vezes no mês).,1.0,2026-03-28 03:41:36.114,pesquisa_primaria
+124,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-30 17:19:07.065,pesquisa_primaria
+125,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-31 08:01:44.623,pesquisa_primaria
+126,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-03-31 08:33:07.801,pesquisa_primaria
+127,19,diarista,dores,frequencia_desmarque_cliente,Quase nunca acontece.,,2026-04-06 14:23:25.651,pesquisa_primaria
+107,20,diarista,dores,consequencia_desmarque,Geralmente consigo arrumar outra faxina rápida no lugar.,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,20,diarista,dores,consequencia_desmarque,Geralmente consigo arrumar outra faxina rápida no lugar.,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,20,diarista,dores,consequencia_desmarque,O cliente me paga uma taxa ou metade do valor combinado.,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-25 13:38:54.909,pesquisa_primaria
+111,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-25 14:16:00.306,pesquisa_primaria
+112,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-25 14:18:16.907,pesquisa_primaria
+113,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-26 09:12:33.191,pesquisa_primaria
+115,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 20:16:44.565,pesquisa_primaria
+117,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 20:30:39.852,pesquisa_primaria
+119,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 20:35:14.582,pesquisa_primaria
+120,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 21:02:36.821,pesquisa_primaria
+121,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-27 21:06:01.331,pesquisa_primaria
+123,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-28 03:41:36.114,pesquisa_primaria
+124,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,20,diarista,dores,consequencia_desmarque,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",,2026-04-06 14:23:25.651,pesquisa_primaria
+107,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-24 19:27:38.431,pesquisa_primaria
+108,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-24 19:41:03.979,pesquisa_primaria
+109,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-24 20:04:07.461,pesquisa_primaria
+110,21,diarista,dores,como_define_preco,Cobro pelo tamanho da casa (quantidade de cômodos).,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,21,diarista,dores,como_define_preco,Cobro pelo tamanho da casa (quantidade de cômodos).,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,21,diarista,dores,como_define_preco,Cobro pelo tamanho da casa (quantidade de cômodos).,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,21,diarista,dores,como_define_preco,"Cobro de acordo com as tarefas (se tem que passar roupa, limpar janela, etc).",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,21,diarista,dores,como_define_preco,Geralmente é o cliente que diz quanto pode pagar e eu aceito.,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-27 20:16:44.565,pesquisa_primaria
+117,21,diarista,dores,como_define_preco,"Cobro de acordo com as tarefas (se tem que passar roupa, limpar janela, etc).",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,21,diarista,dores,como_define_preco,Cobro pelo tamanho da casa (quantidade de cômodos).,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-27 20:35:14.582,pesquisa_primaria
+120,21,diarista,dores,como_define_preco,"Cobro de acordo com as tarefas (se tem que passar roupa, limpar janela, etc).",,2026-03-27 21:02:36.821,pesquisa_primaria
+121,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,21,diarista,dores,como_define_preco,Geralmente é o cliente que diz quanto pode pagar e eu aceito.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-28 03:41:36.114,pesquisa_primaria
+124,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,21,diarista,dores,como_define_preco,"Tenho um valor fixo da minha diária, independente da casa.",,2026-04-06 14:23:25.651,pesquisa_primaria
+107,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,22,diarista,tecnologia,maior_medo_app,Ter que pagar uma taxa alta para o aplicativo e não sobrar nada pra mim.,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,22,diarista,tecnologia,maior_medo_app,Ter que pagar uma taxa alta para o aplicativo e não sobrar nada pra mim.,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,22,diarista,tecnologia,maior_medo_app,Ter uma segunda do app,,2026-03-25 20:59:45.105,pesquisa_primaria
+114,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,22,diarista,tecnologia,maior_medo_app,Ter que pagar uma taxa alta para o aplicativo e não sobrar nada pra mim.,,2026-03-26 11:58:05.444,pesquisa_primaria
+116,22,diarista,tecnologia,maior_medo_app,O cliente do aplicativo não pagar direito ou dar calote.,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,22,diarista,tecnologia,maior_medo_app,O cliente do aplicativo não pagar direito ou dar calote.,,2026-03-27 20:26:05.482,pesquisa_primaria
+118,22,diarista,tecnologia,maior_medo_app,O cliente do aplicativo não pagar direito ou dar calote.,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-27 21:05:43.627,pesquisa_primaria
+122,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-28 03:41:36.114,pesquisa_primaria
+124,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-03-30 17:19:07.065,pesquisa_primaria
+125,22,diarista,tecnologia,maior_medo_app,O cliente do aplicativo não pagar direito ou dar calote.,,2026-03-31 08:01:44.623,pesquisa_primaria
+126,22,diarista,tecnologia,maior_medo_app,O cliente do aplicativo não pagar direito ou dar calote.,,2026-03-31 08:33:07.801,pesquisa_primaria
+127,22,diarista,tecnologia,maior_medo_app,Medo de ir na casa de gente estranha ou perigosa.,,2026-04-06 14:23:25.651,pesquisa_primaria
+107,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Da pessoa ser ruim,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Não sei ,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Que o aplicativo podesse nos dar seguranca,,2026-03-24 20:04:07.461,pesquisa_primaria
+110,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,O de se sabe entrar e sair de qualquer lugar não se tem medo,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,"Precisão do trabalho 
+",,2026-03-25 14:16:00.306,pesquisa_primaria
+112,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Eu sei entrar e sair em qualquer lugar com respeito então não tenho dificuldade com isso ,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,"Uma  inversão do app para passar segurança 
+",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,No aplicativo ,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Fico sem jeito ,,2026-03-26 11:58:05.444,pesquisa_primaria
+116,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,A necessidade de trabalhar ,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Acho que quando se trata de uma família é bem mais confiante ,,2026-03-27 20:26:05.482,pesquisa_primaria
+118,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Depende ,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Tenho medo de ir pra casa de pessoas desconhecida ,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Não iria,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Indicação de amigos ou patrão ,,2026-03-27 21:05:43.627,pesquisa_primaria
+122,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Ele ser indicado por uma outra cliente.,,2026-03-27 21:06:01.331,pesquisa_primaria
+123,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Avaliações sobre a casa e sobre as pessoas que moram lá.,,2026-03-28 03:41:36.114,pesquisa_primaria
+124,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Só pela indicação de alguém conhecido.,,2026-03-30 17:19:07.065,pesquisa_primaria
+125,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Eu fazer algumas perguntas pra vê se a pessoa tem caráter ou não.,,2026-03-31 08:01:44.623,pesquisa_primaria
+126,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Ter segurança com o aplicativo ,,2026-03-31 08:33:07.801,pesquisa_primaria
+127,23,diarista,tecnologia,confianca_cliente_desconhecido_aberta,Na fé ,,2026-04-06 14:23:25.651,pesquisa_primaria
+107,24,diarista,formalizacao,mei_ativo,"Não, eu até já abri um MEI, mas parei de pagar o boleto.",,2026-03-24 19:27:38.431,pesquisa_primaria
+108,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-24 19:41:03.979,pesquisa_primaria
+109,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-24 20:04:07.461,pesquisa_primaria
+110,24,diarista,formalizacao,mei_ativo,"Não, eu até já abri um MEI, mas parei de pagar o boleto.",,2026-03-25 13:38:54.909,pesquisa_primaria
+111,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-25 14:16:00.306,pesquisa_primaria
+112,24,diarista,formalizacao,mei_ativo,"Não, eu até já abri um MEI, mas parei de pagar o boleto.",,2026-03-25 14:18:16.907,pesquisa_primaria
+113,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-26 09:12:33.191,pesquisa_primaria
+115,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-27 20:16:44.565,pesquisa_primaria
+117,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-27 20:26:05.482,pesquisa_primaria
+118,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-27 20:30:39.852,pesquisa_primaria
+119,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-27 20:35:14.582,pesquisa_primaria
+120,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-27 21:02:36.821,pesquisa_primaria
+121,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-27 21:06:01.331,pesquisa_primaria
+123,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-03-28 03:41:36.114,pesquisa_primaria
+124,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,24,diarista,formalizacao,mei_ativo,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,24,diarista,formalizacao,mei_ativo,"Não, nunca abri um MEI.",,2026-04-06 14:23:25.651,pesquisa_primaria
+107,25,diarista,formalizacao,motivo_nao_mei,Acho o processo muito complicado ou não sei como fazer.,,2026-03-24 19:27:38.431,pesquisa_primaria
+108,25,diarista,formalizacao,motivo_nao_mei,,,2026-03-24 19:41:03.979,pesquisa_primaria
+109,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-24 20:04:07.461,pesquisa_primaria
+110,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-25 13:38:54.909,pesquisa_primaria
+111,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-25 14:16:00.306,pesquisa_primaria
+112,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-25 14:18:16.907,pesquisa_primaria
+113,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-25 20:59:45.105,pesquisa_primaria
+114,25,diarista,formalizacao,motivo_nao_mei,Não vejo vantagem em pagar o INSS/MEI.,,2026-03-26 09:12:33.191,pesquisa_primaria
+115,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-26 11:58:05.444,pesquisa_primaria
+116,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-27 20:16:44.565,pesquisa_primaria
+117,25,diarista,formalizacao,motivo_nao_mei,Acho o processo muito complicado ou não sei como fazer.,,2026-03-27 20:26:05.482,pesquisa_primaria
+118,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-27 20:30:39.852,pesquisa_primaria
+119,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-03-27 20:35:14.582,pesquisa_primaria
+120,25,diarista,formalizacao,motivo_nao_mei,Não vejo vantagem em pagar o INSS/MEI.,,2026-03-27 21:02:36.821,pesquisa_primaria
+121,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-27 21:05:43.627,pesquisa_primaria
+122,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-27 21:06:01.331,pesquisa_primaria
+123,25,diarista,formalizacao,motivo_nao_mei,Acho o processo muito complicado ou não sei como fazer.,,2026-03-28 03:41:36.114,pesquisa_primaria
+124,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-30 17:19:07.065,pesquisa_primaria
+125,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-31 08:01:44.623,pesquisa_primaria
+126,25,diarista,formalizacao,motivo_nao_mei,"Eu já respondi ""Sim"" na pergunta anterior.",,2026-03-31 08:33:07.801,pesquisa_primaria
+127,25,diarista,formalizacao,motivo_nao_mei,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,,2026-04-06 14:23:25.651,pesquisa_primaria

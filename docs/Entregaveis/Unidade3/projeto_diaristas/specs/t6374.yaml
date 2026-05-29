@@ -1,0 +1,44 @@
+tabela: 6374
+nome: Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas
+  na semana de referência, no trabalho principal, das pessoas de 14 anos ou mais de
+  idade, por posição na ocupação
+fonte: https://apisidra.ibge.gov.br/DescritoresTabela/t/6374
+variaveis:
+- id: '8186'
+  nome: Média de horas habitualmente trabalhadas por semana no trabalho principal
+    das pessoas de 14 anos ou mais de idade
+  unidade: ''
+  prioridade: true
+- id: '8187'
+  nome: Coeficiente de variação - Média de horas habitualmente trabalhadas por semana
+    no trabalho principal das pessoas de 14 anos ou mais de idade
+  unidade: ''
+  prioridade: true
+- id: '8188'
+  nome: Média de horas efetivamente trabalhadas na semana de referência no trabalho
+    principal das pessoas de 14 anos ou mais de idade
+  unidade: ''
+  prioridade: true
+- id: '8189'
+  nome: Coeficiente de variação - Média de horas efetivamente trabalhadas na semana
+    de referência no trabalho principal das pessoas de 14 anos ou mais de idade
+  unidade: ''
+  prioridade: true
+classificacoes:
+- id: '2399'
+  nome: Posição na ocupação
+  categorias_prioritarias:
+  - id: '35423'
+    nome: Empregado
+  - id: '98272'
+    nome: Conta própria
+  total_categorias: 5
+exemplo_query:
+  tabela: 6374
+  nivel: BR
+  periodos: last 8
+  variaveis: 8186,8188
+  classificacoes:
+    c2399: 35423,98272
+observacoes:
+- Sem heurísticas específicas — revisar manualmente.

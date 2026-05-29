@@ -1,0 +1,46 @@
+tabela: 8529
+nome: Taxa de informalidade das pessoas de 14 anos ou mais de idade, ocupadas na semana
+  de referência - Total, coeficiente de variação, variações em relação ao trimestre
+  anterior e ao mesmo trimestre do ano anterior
+fonte: https://apisidra.ibge.gov.br/DescritoresTabela/t/8529
+variaveis:
+- id: '12466'
+  nome: Taxa de informalidade das pessoas de 14 anos ou mais de idade ocupadas na
+    semana de referência
+  unidade: ''
+  prioridade: true
+- id: '12467'
+  nome: Coeficiente de variação - Taxa de informalidade das pessoas de 14 anos ou
+    mais de idade ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+- id: '12517'
+  nome: Variação em relação ao trimestre anterior - Taxa de informalidade das pessoas
+    de 14 anos ou mais de idade, ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+- id: '12518'
+  nome: Situação da Variação em relação ao trimestre anterior - Taxa de informalidade
+    das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+- id: '12519'
+  nome: Variação em relação ao mesmo trimestre do ano anterior - Taxa de informalidade
+    das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência
+  unidade: ''
+  prioridade: true
+- id: '12520'
+  nome: Situação da Variação em relação ao mesmo trimestre do ano anterior - Taxa
+    de informalidade das pessoas de 14 anos ou mais de idade, ocupadas na semana de
+    referência
+  unidade: ''
+  prioridade: true
+classificacoes: []
+exemplo_query:
+  tabela: 8529
+  nivel: BR
+  periodos: last 8
+  variaveis: 12466,12467,12517,12518,12519,12520
+  classificacoes: {}
+observacoes:
+- Contém variáveis de taxa — usar diretamente como indicador.

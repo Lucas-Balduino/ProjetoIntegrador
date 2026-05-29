@@ -1,0 +1,31 @@
+tabela: 5440
+nome: Rendimento médio mensal real no trabalho principal, por posição na ocupação
+  e categoria do emprego no trabalho principal
+fonte: https://apisidra.ibge.gov.br/DescritoresTabela/t/5440
+variaveis:
+- id: '5934'
+  nome: Rendimento médio mensal real no trabalho principal
+  unidade: Reais
+  prioridade: true
+- id: '5935'
+  nome: Coeficiente de variação - Rendimento médio mensal real no trabalho principal
+  unidade: ''
+  prioridade: false
+classificacoes:
+- id: '11913'
+  nome: Posição na ocupação e categoria do emprego no trabalho principal
+  categorias_prioritarias:
+  - id: '31725'
+    nome: Trabalhador doméstico - com carteira de trabalho assinada
+  - id: '31726'
+    nome: Trabalhador doméstico - sem carteira de trabalho assinada
+  total_categorias: 14
+exemplo_query:
+  tabela: 5440
+  nivel: BR
+  periodos: last 8
+  variaveis: 5934
+  classificacoes:
+    c11913: 31725,31726
+observacoes:
+- Compara rendimento formal vs informal no trabalho doméstico.

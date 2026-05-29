@@ -1,0 +1,364 @@
+publico,bloco,pergunta_slug,pergunta_num,valor_texto,contagem,percentual,fonte
+contratante,perfil,faixa_etaria,1,45 a 54 anos,34,32.08,pesquisa_primaria
+contratante,perfil,faixa_etaria,1,55 anos ou mais,31,29.25,pesquisa_primaria
+contratante,perfil,faixa_etaria,1,35 a 44 anos,29,27.36,pesquisa_primaria
+contratante,perfil,faixa_etaria,1,25 a 34 anos,7,6.6,pesquisa_primaria
+contratante,perfil,faixa_etaria,1,18 a 24 anos,5,4.72,pesquisa_primaria
+contratante,perfil,arranjo_moradia,2,Moro com família/filhos.,88,83.02,pesquisa_primaria
+contratante,perfil,arranjo_moradia,2,Moro com o(a) parceiro(a) (sem filhos).,13,12.26,pesquisa_primaria
+contratante,perfil,arranjo_moradia,2,Moro sozinho(a).,5,4.72,pesquisa_primaria
+contratante,perfil,tamanho_residencia,3,51 a 90m² (Apartamento/Casa média),38,35.85,pesquisa_primaria
+contratante,perfil,tamanho_residencia,3,Mais de 150m²,37,34.91,pesquisa_primaria
+contratante,perfil,tamanho_residencia,3,91 a 150m² (Apartamento/Casa grande),27,25.47,pesquisa_primaria
+contratante,perfil,tamanho_residencia,3,Até 50m² (Apartamento pequeno/Estúdio),3,2.83,pesquisa_primaria
+contratante,perfil,tamanho_residencia,3,,1,0.94,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Semanalmente.,34,32.08,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Apenas em ocasiões muito esporádicas.,26,24.53,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Mais de uma vez por semana.,18,16.98,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Quinzenalmente.,14,13.21,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Nunca contratei,8,7.55,pesquisa_primaria
+contratante,habitos,frequencia_contratacao,4,Mensalmente.,6,5.66,pesquisa_primaria
+contratante,habitos,canal_contratacao,5,Exclusivamente por indicação de amigos/família.,64,60.38,pesquisa_primaria
+contratante,habitos,canal_contratacao,5,A pessoa já trabalha comigo há muito tempo.,22,20.75,pesquisa_primaria
+contratante,habitos,canal_contratacao,5,Grupos de bairro no Facebook/WhatsApp.,11,10.38,pesquisa_primaria
+contratante,habitos,canal_contratacao,5,Outro.,5,4.72,pesquisa_primaria
+contratante,habitos,canal_contratacao,5,Agências especializadas de limpeza.,4,3.77,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,200,19,17.92,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250,17,16.04,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,220,9,8.49,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,150,7,6.6,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,180,4,3.77,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,100,3,2.83,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 220,00",3,2.83,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,120,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,210,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,225,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,230,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,240,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$200,00",2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,,2,1.89,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,1400 reais ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,150 reais,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"180,00 a 230,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"200 + 14,68 da condução",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,200 a 230,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,200 a 250,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,200 reais,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"200,00 a 250,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,230 reais ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,230.09,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250 a 300,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250 a 350 reais ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250 dólares,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250 reais ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,250.00,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,260,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,De 350 a 400 reais,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,Na época que contratava 150 reais ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 150,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 160,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 170,00 + A passagem de ônibus - R$ 25,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 200,00 a R$ 250,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,R$ 220 + 20 de passagem ,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 230,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$ 250,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,R$200.00,1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$220,00(diária + passagens)",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$230,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,"R$250,00",1,0.94,pesquisa_primaria
+contratante,habitos,valor_diaria_pago,6,ola! sou de baixar Renda quem faz a limpeza e eu minha esposa ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiança ,11,10.38,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,,5,4.72,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Serviço mal feito ,2,1.89,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,confiança,2,1.89,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"A maior preocupação é saber se é
+Honesto, pois estará dentro da minha casa. ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,A má qualidade na entrega do trabalho.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,A profissional nao atender aos requisitos solicitados,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Achar pessoas qualificadas .,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Achar profissional de confiança e que cumpre com o combinado.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Agilidade e confiança ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Algumas profissionais impõem inúmeras  exigências, às  vezes determinam até  as marcas dos produtos que utilizaram na limpeza. Muitas utilizam os produtos  sem nenhum critério,  chegam a desperdiçar  mesmo. Muitas vezes é  necessário  ficar o tempo inteiro ""fiscalizando"" e orientando a profissional.  ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Alguém q não roube minhas coisas,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Alguém que atenda a todas as minhas exigências de limpeza e/ou culinária ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Alguém que realmente faça um bom serviço,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Atualmente, não consigo encontrar alguém que trabalhe bem e tenha disponibilidade para vir de 15 em 15 dias.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Comprometimento,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Comprometimento e proatividade por parte da profissional,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Compromisso,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Compromisso e serviço bem feito ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiabilidade ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiany,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiança,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiança e bom serviço,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiança e qualidade do serviço. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiança é excelente serviço. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Confiar na pessoa que irá à minha casa.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Diligência na execução do trabalho,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Disponibilidade ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,E um paliativo. Nem sempre fica 100%,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Eficiência ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Encontrar alguém de confiança e que seja ágil e caprichoso.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Encontrar alguém que faça o trabalho com presteza ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Encontrar pessoa de confiança, que tenha assiduidade, que faça o serviço sem que eu tenha que ficar pedindo, e que cobre preço justo.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Encontrar uma faxineira boa de serviço ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Entrevista ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Extravios,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Falta de Confiança, falta de compromisso com o horário, uso excessivo de celular durante o horário de trabalho.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de comprometimento e não sabem fazer o serviço. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de compromisso. Não limpam direito.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de confiança ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de especialização ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de experiência na função ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de noções de higiene ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de qualidade nos serviços ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Falta de zelo nos detalhes da limpeza,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Ficar poucas horas, fazer o serviço de qualquer forma, deixar panos utilizados sujos e também aspirador sem limpar, ficar no celular enquanto trabalha, sem ter muito conhecimento em limpeza achar que terei de comprar diversos produtos caros e as vezes que prejudicam a mobília.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Fidelidade da colaboradora. Qualquer outra oferta maior ou alguma possível dificuldade, o abandono é imediato, sem aviso prévio. ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Honestidade e descrição ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Ineficácia, despreparo ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Já estou com a mesma diarista há anos e não tenho problemas, foi por indicação no início.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Localizar um qualificado e de confiança. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Minha maior dificuldade é encontrar profissionais que mantenham constância na qualidade do serviço e que realmente executem a limpeza com capricho e responsabilidade.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Muito difícil ter o dia que queremos na agenda.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Nunca tive problemas com as que eu contratei,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não comprometimento com o horário ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não confiar em estranhos na minha casa!,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não fazer serviços dentro de armários. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não limpa direito e confiável ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não limparem direito,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não passar roupas,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Não tenho dificuldade.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,O tempo de permanência no trabalho ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Pontualidade e eficiência no serviço ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Preço; não dão conta do serviço; fornecer alimentação,  ficar de olho na pessoa",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Profissionalismo ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Qualidade da limpeza.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Que execute o serviço direito,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Que realmente saiba limpar bem,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Roubar, não limpar a casa direito e faltar o serviço ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Saberem fazer o serviço ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Se a pessoa é de confiança, é habilitada para o serviço. ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Segurança ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"Sempre que vão fazer a limpeza eu peço pra não mudar as coisas de lugar e mudam. Destroem muito os móveis! Pessoas que façam tudo: limpeza, comida e passa roupa. Pessoas que entendam a diária como o dia de serviço prestado e não como trabalho específico, tipo só faço limpeza, só passo… não faz as tarefas de direito e querem ser bem remunerada na diária.",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Ser alguém de confiança ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Ser de confiança ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Ser de confiança e disponibilidade para cumprir horário zelando pela limpeza completa do local,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Serviços mal prestados e descumprimento de jornada de trabalho ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,São despreparadas e vi em no celular ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Ter referências de alguém conhecido ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Uma pessoa que saiba limpar,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Valor ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,Ver o tamanho da casa e quer aumentar o valor. Sendo que diária é como o nome diz. Inicia cedo até o final do dia.,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,a falta de profissionalismo,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,compromisso e dedicação com a limpeza. ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,confiança e serviço bem feito,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,nao sei responder quem faz limpeza nos mesmo,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,não cumprir o combinado,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,profissional competente ,1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,"responsabilidade, qualidade do serviço e confiança ",1,0.94,pesquisa_primaria
+contratante,dores,maior_frustracao_aberta,7,É ele fazer exatamente o que se manda,1,0.94,pesquisa_primaria
+contratante,dores,dificuldade_ultima_hora_1a5,8,5,63,59.43,pesquisa_primaria
+contratante,dores,dificuldade_ultima_hora_1a5,8,4,27,25.47,pesquisa_primaria
+contratante,dores,dificuldade_ultima_hora_1a5,8,3,12,11.32,pesquisa_primaria
+contratante,dores,dificuldade_ultima_hora_1a5,8,2,4,3.77,pesquisa_primaria
+contratante,dores,profissional_desmarcou,9,"Sim, já aconteceu algumas vezes.",66,62.26,pesquisa_primaria
+contratante,dores,profissional_desmarcou,9,"Não, os profissionais que contrato são muito pontuais.",23,21.7,pesquisa_primaria
+contratante,dores,profissional_desmarcou,9,"Sim, acontece frequentemente.",16,15.09,pesquisa_primaria
+contratante,dores,profissional_desmarcou,9,,1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes.",32,30.19,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,Avaliações e recomendações de outros clientes.,19,17.92,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Avaliações e recomendações de outros clientes., Experiência prévia com o tipo de limpeza que eu preciso.",16,15.09,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",13,12.26,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Verificação de antecedentes criminais/identidade.",6,5.66,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,Preço cobrado pela diária.,4,3.77,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Experiência prévia com o tipo de limpeza que eu preciso.",4,3.77,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,Experiência prévia com o tipo de limpeza que eu preciso.,3,2.83,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Experiência prévia com o tipo de limpeza que eu preciso.",2,1.89,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Avaliações e recomendações de outros clientes., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte., Experiência prévia com o tipo de limpeza que eu preciso.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Experiência prévia com o tipo de limpeza que eu preciso.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Avaliações e recomendações de outros clientes., Verificação de antecedentes criminais/identidade., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte., Experiência prévia com o tipo de limpeza que eu preciso.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,"Preço cobrado pela diária., Rapidez e agilidade para conseguir alguém para o próprio dia ou dia seguinte.",1,0.94,pesquisa_primaria
+contratante,decisao,fatores_contratacao_novo,10,Verificação de antecedentes criminais/identidade.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,,12,11.32,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança ,8,7.55,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Eficiência ,2,1.89,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,A assiduidade das funcionárias ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,A pessoa conseguisse deixar a casa realmente limpa ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,A pessoa ser confiável ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,A qualidade do serviço prestado ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Acertar na escolha de uma pessoa,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Achar alguém dedicada ao trabalho  soubesse trabalhar, sem ter de gastar um monte de produtos, cobrasse preço  justo.",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Achar alguém que trabalhe bem,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Agilidade e Confiança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Agilidade e confiança.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Alguem com treinamento em limpeza ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Alguém que fosse realmente bom na limpeza.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Alguém que limpasse minuciosamente ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Certeza q a pessoa nn iria me roubar,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Competência e confiança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Comprometimento com serviço e horário.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Comprometimento profissional ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Compromisso e profissionalismo.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança e agilidade ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança e excelente serviço. ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança e respeito,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Confiança… ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Conseguir uma faxineira boa de serviço, que limpeza bem e que faço por um bom preço a diária.",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Construiria um robô que fizesse tudo o quer deveria fazer em uma casa. ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Custo benefício ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Eficiência no serviço de limpeza,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Encontrar pessoas que realmente queiram trabalhar ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Excelência no que é proposto ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Fazer as coisas com mais comprometomento,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Grau de confiabilidade,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Higiene impecável,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Honestidade,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Honestidade ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Horário ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Indicação de gente de confiança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Limpeza de banheiro ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Limpeza de excelência ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Melhorar a qualidade do serviço ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Nao precisar ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Não faltar no dia de trabalho contratado ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Não precisar mandar,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Não ter que ficar falando o que fazer,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Os profissionais depende de exclusivamente do transporte público dificultando para eles os horários e para o contratante ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Pessoa com responsabilidade ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Poder confiar,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Pontualidade e eficiência.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Profissionais honestos, já fomos roubados ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Profissional confiável ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Profissional dedicada,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Profissional pontal, limpeza e confiança ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Profissionalismo,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Qualidade da limpeza ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Qualidade e honestidade ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Qualidade na limpeza ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Qualidade. ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Quando o profissional ganha confiança, às vezes acaba relaxando no padrão do serviço. O problema que eu resolveria seria manter o mesmo zelo, capricho e qualidade do início do contrato durante todo o período do trabalho.",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Que elas entregassem um serviço de acordo com o que peço e com o preço pago. Ou seja coerência entre o preço pago e o trabalho executado.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Que elas seguissem um protocolo de limpeza que contemplasse não só a faxina “grossa” mas, principalmente os detalhes.",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Saber se poderia confiar!,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Segurança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Serviço bem feito ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Serviço de confiança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Serviço ser bem feito! ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Ter um aplicativo com os perfis detalhados.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Ter um profissional completa que limpa,  passa e cozinha. ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Ter uma forte relação de confiança entre as partes.,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Teria um banco de cadastro de prestadores(as) de serviços, com indicação do
+nível de qualidade atribuído por meio da avaliação dos contratantes ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Teria um robô igual dos Jetsons,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Teria um robô que programasse a limpeza. ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Transparência da empresa com o funcionário que veste a camisa, assim os funcionários trabalharão com dedicação e leveza. ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Um bom profissional ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Um comentário extra -Tenho uma pessoa que está comigo há mais de 20 anos. Mas assim como eu está envelhecendo e a limpeza já nao tem a mesma qualidade, mas não tenho como demiti-la. Ja está nos 60s e não seria fácil ser contratada novamente. Portanto, o envelhecimento é um problema sério , embora eu  a tenha ajudado a aposentar, ela continua precisando de um pouco mais porque a família depende dela. 
+
+Varinha mágica: Uma Agência especializada, de confiança, sem preços extorsivos, com funcionários experientes e eficientes. com número de horas limitadas, como é feito lá fora onde é pago por hora. ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Um serviço bem feito,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"Uma funcionária boa, limpa, efetiva e que fizesse seu serviço sem má vontade ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Uma pessoa de confiança ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Uma pessoa de confiança e honesta ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Uma ótima indicação ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,Usaria a varinha 😂,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"a qualidade da execução dos servicos, eficiência, a segurança de confiabilidade e boa relação de tratamento (educação). ",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,compromisso do profissional ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,"disponibilidade 
+",1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,olá! respondi de forma aleatória porque não utilizou o serviço. continue estudando sempre um abraço.... ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,qualidade do serviço ,1,0.94,pesquisa_primaria
+contratante,decisao,varinha_magica_aberta,11,ser confiável e saber executar o serviço,1,0.94,pesquisa_primaria
+diarista,perfil,faixa_etaria,1,35 a 44 anos,9,42.86,pesquisa_primaria
+diarista,perfil,faixa_etaria,1,55 anos ou mais,7,33.33,pesquisa_primaria
+diarista,perfil,faixa_etaria,1,45 a 54 anos,4,19.05,pesquisa_primaria
+diarista,perfil,faixa_etaria,1,25 a 34 anos,1,4.76,pesquisa_primaria
+diarista,perfil,tempo_experiencia,2,Mais de 10 anos,15,71.43,pesquisa_primaria
+diarista,perfil,tempo_experiencia,2,De 1 a 3 anos,3,14.29,pesquisa_primaria
+diarista,perfil,tempo_experiencia,2,De 4 a 10 anos,3,14.29,pesquisa_primaria
+diarista,perfil,unica_fonte_renda,3,"Sim, sustento minha casa apenas com as faxinas.",11,52.38,pesquisa_primaria
+diarista,perfil,unica_fonte_renda,3,"Não, tenho outro emprego com carteira assinada.",6,28.57,pesquisa_primaria
+diarista,perfil,unica_fonte_renda,3,"Não, faço outros bicos além da faxina.",4,19.05,pesquisa_primaria
+diarista,realidade_trabalho,canal_consegue_diarias,4,Indicação de patroas / clientes atuais.,18,85.71,pesquisa_primaria
+diarista,realidade_trabalho,canal_consegue_diarias,4,Agências de limpeza.,1,4.76,pesquisa_primaria
+diarista,realidade_trabalho,canal_consegue_diarias,4,"Aplicativos de celular (ex: GetNinjas, Parafuzo, etc).",1,4.76,pesquisa_primaria
+diarista,realidade_trabalho,canal_consegue_diarias,4,Grupos de Facebook ou WhatsApp.,1,4.76,pesquisa_primaria
+diarista,realidade_trabalho,dias_faxina_semana,5,5 a 6 dias por semana,9,42.86,pesquisa_primaria
+diarista,realidade_trabalho,dias_faxina_semana,5,1 a 2 dias por semana,7,33.33,pesquisa_primaria
+diarista,realidade_trabalho,dias_faxina_semana,5,3 a 4 dias por semana,3,14.29,pesquisa_primaria
+diarista,realidade_trabalho,dias_faxina_semana,5,Todos os dias (sem folga),2,9.52,pesquisa_primaria
+diarista,realidade_trabalho,dias_livres_sem_cliente,6,"Não, graças a Deus minha agenda está sempre cheia.",15,71.43,pesquisa_primaria
+diarista,realidade_trabalho,dias_livres_sem_cliente,6,"Sim, de vez em quando falta cliente.",6,28.57,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Não tenho dificuldade ,2,9.52,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,A confiança e o valor ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"A questão da confiança pesa muito, ainda mais eu sendo negra.ainda tem muito preconceito em relação a isso.",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Acerta o valor.,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Conhecer os hábitos do novo cliente,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"Dificuldade de ter q pegar 2 ônibus p poder chegar na casa do cliente 
+",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Dificuldade em saber onde guardar os produtos ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Geralmente o preço da faxina sempre acham muito caro.,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Nei todos quer pagar o valor da diária.,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Não  tenho nenhuma dificuldade ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"Não conhece a pessoa 
+",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"O local de trabalho pra mim tem que ser de fácil assessor com ônibus 
+E também valores ",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,O valor geralmente sempre reclamam ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Preguiça ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Preço ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"Quando combina um serviço,e quando chega ao local o serviço e outro...",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Sem dificuldade ,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Valor,1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,"Valor
+",1,4.76,pesquisa_primaria
+diarista,dores,dificuldade_cliente_novo_aberta,7,Valores nem sempre querem pagar o valor,1,4.76,pesquisa_primaria
+diarista,dores,frequencia_desmarque_cliente,8,Quase nunca acontece.,19,90.48,pesquisa_primaria
+diarista,dores,frequencia_desmarque_cliente,8,Frequentemente (atrapalha muito minha renda).,1,4.76,pesquisa_primaria
+diarista,dores,frequencia_desmarque_cliente,8,Às vezes (umas 1 ou 2 vezes no mês).,1,4.76,pesquisa_primaria
+diarista,dores,consequencia_desmarque,9,"Remarcamos para outro dia, mas eu fico no prejuízo e sem receber naquele dia.",18,85.71,pesquisa_primaria
+diarista,dores,consequencia_desmarque,9,Geralmente consigo arrumar outra faxina rápida no lugar.,2,9.52,pesquisa_primaria
+diarista,dores,consequencia_desmarque,9,O cliente me paga uma taxa ou metade do valor combinado.,1,4.76,pesquisa_primaria
+diarista,dores,como_define_preco,10,"Tenho um valor fixo da minha diária, independente da casa.",12,57.14,pesquisa_primaria
+diarista,dores,como_define_preco,10,Cobro pelo tamanho da casa (quantidade de cômodos).,4,19.05,pesquisa_primaria
+diarista,dores,como_define_preco,10,"Cobro de acordo com as tarefas (se tem que passar roupa, limpar janela, etc).",3,14.29,pesquisa_primaria
+diarista,dores,como_define_preco,10,Geralmente é o cliente que diz quanto pode pagar e eu aceito.,2,9.52,pesquisa_primaria
+diarista,tecnologia,maior_medo_app,11,Medo de ir na casa de gente estranha ou perigosa.,12,57.14,pesquisa_primaria
+diarista,tecnologia,maior_medo_app,11,O cliente do aplicativo não pagar direito ou dar calote.,5,23.81,pesquisa_primaria
+diarista,tecnologia,maior_medo_app,11,Ter que pagar uma taxa alta para o aplicativo e não sobrar nada pra mim.,3,14.29,pesquisa_primaria
+diarista,tecnologia,maior_medo_app,11,Ter uma segunda do app,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,A necessidade de trabalhar ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Acho que quando se trata de uma família é bem mais confiante ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Avaliações sobre a casa e sobre as pessoas que moram lá.,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Da pessoa ser ruim,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Depende ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Ele ser indicado por uma outra cliente.,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Eu fazer algumas perguntas pra vê se a pessoa tem caráter ou não.,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Eu sei entrar e sair em qualquer lugar com respeito então não tenho dificuldade com isso ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Fico sem jeito ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Indicação de amigos ou patrão ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Na fé ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,No aplicativo ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Não iria,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Não sei ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,O de se sabe entrar e sair de qualquer lugar não se tem medo,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,"Precisão do trabalho 
+",1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Que o aplicativo podesse nos dar seguranca,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Só pela indicação de alguém conhecido.,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Tenho medo de ir pra casa de pessoas desconhecida ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,Ter segurança com o aplicativo ,1,4.76,pesquisa_primaria
+diarista,tecnologia,confianca_cliente_desconhecido_aberta,12,"Uma  inversão do app para passar segurança 
+",1,4.76,pesquisa_primaria
+diarista,formalizacao,mei_ativo,13,"Não, nunca abri um MEI.",9,42.86,pesquisa_primaria
+diarista,formalizacao,mei_ativo,13,"Sim, tenho MEI, pago em dia e tenho os benefícios do INSS.",9,42.86,pesquisa_primaria
+diarista,formalizacao,mei_ativo,13,"Não, eu até já abri um MEI, mas parei de pagar o boleto.",3,14.29,pesquisa_primaria
+diarista,formalizacao,motivo_nao_mei,14,"Eu já respondi ""Sim"" na pergunta anterior.",8,38.1,pesquisa_primaria
+diarista,formalizacao,motivo_nao_mei,14,O dinheiro da faxina não sobra no fim do mês para pagar o boleto.,7,33.33,pesquisa_primaria
+diarista,formalizacao,motivo_nao_mei,14,Acho o processo muito complicado ou não sei como fazer.,3,14.29,pesquisa_primaria
+diarista,formalizacao,motivo_nao_mei,14,Não vejo vantagem em pagar o INSS/MEI.,2,9.52,pesquisa_primaria
+diarista,formalizacao,motivo_nao_mei,14,,1,4.76,pesquisa_primaria

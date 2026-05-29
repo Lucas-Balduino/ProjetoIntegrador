@@ -1,0 +1,16 @@
+sk_recorte,eixo,valor_id,valor_nome
+1,total,,Total
+2,posicao_na_ocupacao_e_categoria_do_empre,"Empregado no setor privado, exclusive trabalhador doméstico","Empregado no setor privado, exclusive trabalhador doméstico"
+3,posicao_na_ocupacao_e_categoria_do_empre,"Empregado no setor privado, exclusive trabalhador doméstico - com carteira de trabalho assinada","Empregado no setor privado, exclusive trabalhador doméstico - com carteira de trabalho assinada"
+4,posicao_na_ocupacao_e_categoria_do_empre,"Empregado no setor privado, exclusive trabalhador doméstico - sem carteira de trabalho assinada","Empregado no setor privado, exclusive trabalhador doméstico - sem carteira de trabalho assinada"
+5,posicao_na_ocupacao_e_categoria_do_empre,Trabalhador doméstico,Trabalhador doméstico
+6,posicao_na_ocupacao_e_categoria_do_empre,Trabalhador doméstico - com carteira de trabalho assinada,Trabalhador doméstico - com carteira de trabalho assinada
+7,posicao_na_ocupacao_e_categoria_do_empre,Trabalhador doméstico - sem carteira de trabalho assinada,Trabalhador doméstico - sem carteira de trabalho assinada
+8,posicao_na_ocupacao_e_categoria_do_empre,"Empregado no setor público, exclusive militar e funcionário público estatutário - com carteira de trabalho assinada","Empregado no setor público, exclusive militar e funcionário público estatutário - com carteira de trabalho assinada"
+9,posicao_na_ocupacao_e_categoria_do_empre,"Empregado no setor público, exclusive militar e funcionário público estatutário - sem carteira de trabalho assinada","Empregado no setor público, exclusive militar e funcionário público estatutário - sem carteira de trabalho assinada"
+10,posicao_na_ocupacao_e_categoria_do_empre,Conta própria,Conta própria
+11,posicao_na_ocupacao,Empregado,Empregado
+12,posicao_na_ocupacao,Conta própria,Conta própria
+13,numero_de_domicilios_em_que_trabalhavam,Total,Total
+14,numero_de_domicilios_em_que_trabalhavam,Em um único domicílio,Em um único domicílio
+15,numero_de_domicilios_em_que_trabalhavam,Em mais de um domicílio,Em mais de um domicílio

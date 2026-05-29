@@ -217,7 +217,8 @@ def _to_float(val: Any) -> float | None:
     s = str(val).strip()
     if s in {"", "-", "..", "...", "X"}:
         return None
-    s = s.replace(".", "").replace(",", ".")
+    if "," in s:
+        s = s.replace(".", "").replace(",", ".")
     try:
         return float(s)
     except ValueError:
