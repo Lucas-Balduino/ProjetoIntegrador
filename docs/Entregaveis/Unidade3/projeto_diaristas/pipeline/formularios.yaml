@@ -1,0 +1,24 @@
+# Metadados da pesquisa primária (Google Forms → Excel)
+# Caminhos relativos à raiz do repositório ProjetoIntegrador
+
+repo_root: ../../../..
+fontes:
+  contratante:
+    arquivo: PesquisaFormularios/pesquisa-contratante.xlsx
+    publico: contratante
+    respondentes: 106
+    blocos:
+      perfil: [1, 2, 3]
+      habitos: [4, 5, 6]
+      dores: [7, 8, 9]
+      decisao: [10, 11]
+  diaristas:
+    arquivo: PesquisaFormularios/pesquisa-diaristas.xlsx
+    publico: diarista
+    respondentes: 21
+    blocos:
+      perfil: [1, 2, 3]
+      realidade_trabalho: [4, 5, 6]
+      dores: [7, 8, 9, 10]
+      tecnologia: [11, 12]
+      formalizacao: [13, 14]

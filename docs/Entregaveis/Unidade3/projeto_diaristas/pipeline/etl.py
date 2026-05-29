@@ -22,12 +22,18 @@ from typing import Any, Iterable
 import pandas as pd
 import yaml
 
+from pipeline.parquet_io import save_dataframe
 from pipeline.utils_sidra import (
     NIVEIS,
     SidraQuery,
     fetch_values,
     polite_sleep,
 )
+
+try:
+    from pipeline.etl_formularios import run as run_formularios
+except ImportError:  # pragma: no cover
+    run_formularios = None
 
 
 LOGGER = logging.getLogger(__name__)
@@ -259,13 +265,8 @@ def save_staging(df: pd.DataFrame, tabela: int) -> tuple[Path, Path]:
     STAGING_DIR.mkdir(parents=True, exist_ok=True)
     pq_path = STAGING_DIR / f"t{tabela}.parquet"
     csv_path = STAGING_DIR / f"t{tabela}.csv"
-    try:
-        df.to_parquet(pq_path, index=False)
-    except Exception as exc:  # pragma: no cover - pyarrow missing
-        LOGGER.warning("Parquet falhou (%s); apenas CSV gravado", exc)
-        pq_path = pq_path.with_suffix(".SKIPPED")
-    df.to_csv(csv_path, index=False, encoding="utf-8")
-    return pq_path, csv_path
+    _, pq_out = save_dataframe(df, csv_path, pq_path, stem=f"t{tabela}")
+    return pq_out or pq_path.with_suffix(".SKIPPED"), csv_path
 
 
 def _iter_target_tables(
@@ -340,19 +341,42 @@ def main() -> None:
         help="Períodos SIDRA (ex.: 'last 8', '202101-202104'). Default: do spec ou 'all'",
     )
     parser.add_argument("--no-cache", action="store_true")
+    parser.add_argument(
+        "--formularios",
+        action="store_true",
+        help="Processa pesquisa-contratante.xlsx e pesquisa-diaristas.xlsx",
+    )
+    parser.add_argument(
+        "--somente-formularios",
+        action="store_true",
+        help="Roda apenas o ETL dos formulários (sem SIDRA)",
+    )
     args = parser.parse_args()
 
-    if not args.target and not args.all:
-        parser.error("Informe --target <N> (uma ou mais vezes) ou --all")
+    if not args.somente_formularios and not args.target and not args.all:
+        if not args.formularios:
+            parser.error(
+                "Informe --target <N>, --all, --formularios ou --somente-formularios"
+            )
 
-    written = run(
-        targets=args.target,
-        nivel=args.nivel,
-        periodos=args.periodos,
-        only_priority=args.prioridade if args.all else None,
-        use_cache=not args.no_cache,
-    )
-    LOGGER.info("ETL finalizado. %d arquivo(s) gravado(s) em data/staging", len(written))
+    written: list[Path] = []
+    if not args.somente_formularios and (args.target or args.all):
+        written = run(
+            targets=args.target,
+            nivel=args.nivel,
+            periodos=args.periodos,
+            only_priority=args.prioridade if args.all else None,
+            use_cache=not args.no_cache,
+        )
+        LOGGER.info("SIDRA: %d arquivo(s) em data/staging", len(written))
+
+    if args.formularios or args.somente_formularios:
+        if run_formularios is None:
+            raise ImportError("pipeline.etl_formularios não disponível")
+        run_formularios()
+        LOGGER.info("Formulários gravados em data/staging (pesquisa_*)")
+
+    LOGGER.info("ETL finalizado.")
 
 
 if __name__ == "__main__":

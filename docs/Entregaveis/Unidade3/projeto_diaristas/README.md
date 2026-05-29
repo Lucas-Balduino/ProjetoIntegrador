@@ -20,14 +20,16 @@ projeto_diaristas/
     descoberta.py     # scraping HTML das listagens PNADC/T e PNADC/M
     catalogo.yaml     # tabelas-alvo com palavras-chave e bloco temático
     ai_mapper.py      # consome /DescritoresTabela/t/{T} e gera spec ETL
-    etl.py            # orquestrador: descoberta + mapping + extração
+    etl.py            # orquestrador SIDRA (+ --formularios)
+    etl_formularios.py # ETL pesquisa-contratante / pesquisa-diaristas (Excel)
+    formularios.yaml  # caminhos e metadados da pesquisa primária
     modelo.py         # constrói star schema (dim_*, fato_*)
     utils_sidra.py    # cliente HTTP com cache + retry
   specs/              # specs YAML por tabela (gerados pelo ai_mapper)
   data/
     raw/              # JSON SIDRA bruto cacheado
-    staging/          # parquet long-format por tabela
-    marts/            # star schema final (parquet + csv)
+    staging/          # parquet SIDRA (t*) + pesquisa_* (formulários)
+    marts/            # star schema SIDRA + fato_pesquisa_* (primária)
   docs/
     metodologia.md    # ENTREGÁVEL principal
     referencias.md    # fichamento das fontes de validação
@@ -53,6 +55,13 @@ python -m pipeline.etl --all
 
 # 4) construir o modelo dimensional (star schema PED-like)
 python -m pipeline.modelo
+
+# Pesquisa primária (Excel local em ProjetoIntegrador/PesquisaFormularios/)
+python -m pipeline.etl --formularios
+python -m pipeline.modelo
+
+# SIDRA + formulários de uma vez
+python -m pipeline.etl --all --prioridade alta --formularios
 ```
 
 ## Entregáveis

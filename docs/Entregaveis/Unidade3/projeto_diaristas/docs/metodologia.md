@@ -126,7 +126,32 @@ O catálogo curado fica em [`pipeline/catalogo.yaml`](../pipeline/catalogo.yaml)
 - Descritor (JSON): `https://apisidra.ibge.gov.br/DescritoresTabela/t/{T}`
 - Exemplo: `https://apisidra.ibge.gov.br/values/t/4097/n1/all/v/all/p/last/c11913/allxt/f/u`
 
-## 7. Como rodar
+## 7. Pesquisa primária (formulários locais)
+
+Arquivos de entrada (repositório `ProjetoIntegrador`):
+
+- `PesquisaFormularios/pesquisa-contratante.xlsx` — 106 respostas
+- `PesquisaFormularios/pesquisa-diaristas.xlsx` — 21 respostas
+
+O módulo [`pipeline/etl_formularios.py`](../pipeline/etl_formularios.py) normaliza as respostas e grava:
+
+| Staging | Conteúdo |
+| --- | --- |
+| `pesquisa_*_wide` | Uma linha por respondente (colunas `q01`…`q14`) |
+| `pesquisa_primaria_long` | Formato longo: `publico`, `bloco`, `pergunta_slug`, `valor_texto` |
+| `pesquisa_primaria_agregada` | Contagem e % por opção de resposta (gráficos do dashboard) |
+
+Marts gerados por `pipeline.modelo`:
+
+- `dim_pergunta`, `dim_respondente`
+- `fato_pesquisa_primaria`, `fato_pesquisa_agregada`
+
+```powershell
+python -m pipeline.etl --formularios
+python -m pipeline.modelo
+```
+
+## 8. Como rodar
 
 ```powershell
 # 0) instalar dependências
@@ -147,7 +172,7 @@ python -m pipeline.etl --all --prioridade alta --nivel BR --periodos "last 4"
 python -m pipeline.modelo
 ```
 
-## 8. Limitações conhecidas
+## 9. Limitações conhecidas
 
 - **PNAD-C não decompõe desemprego oculto** como a PED. Usamos `6813` (desalentados) + `4100` (subutilização) como proxies — fica registrado em `dim_indicador.categoria_ped`.
 - **Diarista não é categoria oficial no SIDRA**: derivamos por cruzamento `posição na ocupação = Trabalhador doméstico` + `nº de domicílios > 1` (tabela 6383).
@@ -155,7 +180,7 @@ python -m pipeline.modelo
 - **Limite da API SIDRA** (~100k células por consulta): para níveis MU/RM com `all` períodos é necessário paginar — o pipeline já tem suporte via `iter_paged_periodos`, mas ainda não acionado por padrão (o default é `nivel=BR`, que cabe em 1 chamada).
 - **Fontes primárias** (Forms, WhatsApp) e **secundárias legais** (MPT, OIT, FENATRAD) são qualitativas — entram apenas como citação em [`referencias.md`](referencias.md).
 
-## 9. Smoke test — resultado da execução
+## 10. Smoke test — resultado da execução
 
 Pipeline rodado end-to-end nas duas tabelas centrais do projeto, no nível Brasil, último trimestre disponível (1T 2026).
 
@@ -184,7 +209,7 @@ Artefatos gerados:
 | marts | `data/marts/fato_mercado_trabalho.csv` | 48 |
 | marts | `data/marts/fato_diaristas.csv` | 48 |
 
-### 9.1. Achados quantitativos (Brasil, 1º trimestre 2026)
+### 10.1. Achados quantitativos (SIDRA) (Brasil, 1º trimestre 2026)
 
 **Informalidade no trabalho doméstico (tabela 4097, em mil pessoas):**
 
@@ -206,10 +231,10 @@ Artefatos gerados:
 
 > Conclusão: o Brasil tem aproximadamente **1,82 milhão de diaristas** no 1º trimestre de 2026. Esse é o público-alvo direto da plataforma a ser desenhada no PI 2.
 
-### 9.2. Cruzamento (insight)
+### 10.2. Cruzamento (insight)
 
 Combinando os dois recortes: dos 5,4 milhões de trabalhadores domésticos, 76% estão sem carteira **e** 33,5% trabalham em mais de um domicílio. A interseção (diarista + sem carteira) é o público com maior precariedade — e o foco de oportunidade da plataforma sob a lente do **ODS 8**.
 
-### 9.3. Reprodutibilidade
+### 10.3. Reprodutibilidade
 
 Todos os JSONs baixados ficam cacheados em `data/raw/` (chave = hash da URL), o que permite recomputar marts sem nova ida à API. Para refazer com dados novos, basta rodar com `--no-cache` em `pipeline.etl`.

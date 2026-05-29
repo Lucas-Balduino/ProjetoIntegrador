@@ -25,6 +25,8 @@ from pathlib import Path
 import pandas as pd
 import yaml
 
+from pipeline.parquet_io import save_dataframe
+
 
 LOGGER = logging.getLogger(__name__)
 
@@ -54,25 +56,53 @@ class Catalogo:
         return cls(tabelas=tabs, categorias_ped=cats)
 
 
-def _read_staging() -> pd.DataFrame:
-    parts: list[pd.DataFrame] = []
+def _read_staging_sidra() -> pd.DataFrame:
+    """Apenas tabelas SIDRA (t4097.parquet, etc.) — exclui pesquisa_*.
+
+    Um arquivo por stem (t4097): prefere .parquet; evita duplicar com .csv.
+    """
     if not STAGING_DIR.exists():
         return pd.DataFrame()
-    for pq in STAGING_DIR.glob("t*.parquet"):
+
+    by_stem: dict[str, Path] = {}
+    for path in sorted(STAGING_DIR.iterdir()):
+        if path.suffix not in (".parquet", ".csv"):
+            continue
+        stem = path.stem
+        if not stem.startswith("t") or stem.startswith("pesquisa"):
+            continue
+        prev = by_stem.get(stem)
+        if prev is None:
+            by_stem[stem] = path
+        elif path.suffix == ".parquet":
+            by_stem[stem] = path
+
+    parts: list[pd.DataFrame] = []
+    for stem, path in sorted(by_stem.items()):
         try:
-            parts.append(pd.read_parquet(pq))
+            if path.suffix == ".parquet":
+                parts.append(pd.read_parquet(path))
+            else:
+                parts.append(pd.read_csv(path))
         except Exception as exc:  # pragma: no cover
-            LOGGER.warning("Falha lendo %s: %s", pq, exc)
-    if not parts:
-        for csv in STAGING_DIR.glob("t*.csv"):
-            try:
-                parts.append(pd.read_csv(csv))
-            except Exception as exc:
-                LOGGER.warning("Falha lendo %s: %s", csv, exc)
+            LOGGER.warning("Falha lendo %s: %s", path, exc)
     if not parts:
         return pd.DataFrame()
-    df = pd.concat(parts, ignore_index=True)
-    return df
+    return pd.concat(parts, ignore_index=True)
+
+
+def _read_staging_file(stem: str) -> pd.DataFrame:
+    """Lê um artefato de staging por nome base (sem extensão)."""
+    pq = STAGING_DIR / f"{stem}.parquet"
+    csv = STAGING_DIR / f"{stem}.csv"
+    if pq.exists() and "SKIPPED" not in pq.name:
+        try:
+            return pd.read_parquet(pq)
+        except Exception:
+            pass
+    if csv.exists():
+        return pd.read_csv(csv)
+    return pd.DataFrame()
 
 
 def _build_dim_tempo(df: pd.DataFrame) -> pd.DataFrame:
@@ -193,10 +223,26 @@ def _build_dim_recorte(df: pd.DataFrame) -> pd.DataFrame:
             b = b.rename(columns={nome_col: "valor_nome"})
             b["valor_id"] = b["valor_nome"]
         b["eixo"] = eixo
-        blocks.append(b[["eixo", "valor_id", "valor_nome"]])
+        slice_df = b[["eixo", "valor_id", "valor_nome"]]
+        if not slice_df.empty:
+            blocks.append(slice_df)
 
-    out = pd.concat(blocks, ignore_index=True).drop_duplicates()
-    total = pd.DataFrame([{"eixo": "total", "valor_id": None, "valor_nome": "Total"}])
+    if not blocks:
+        out = pd.DataFrame(columns=["eixo", "valor_id", "valor_nome"])
+    else:
+        out = pd.concat(blocks, ignore_index=True).drop_duplicates()
+
+    for col in ("valor_id", "valor_nome", "eixo"):
+        if col in out.columns:
+            out[col] = out[col].astype("string")
+
+    total = pd.DataFrame(
+        {
+            "eixo": pd.Series(["total"], dtype="string"),
+            "valor_id": pd.Series([pd.NA], dtype="string"),
+            "valor_nome": pd.Series(["Total"], dtype="string"),
+        }
+    )
     out = pd.concat([total, out], ignore_index=True).drop_duplicates(
         subset=["eixo", "valor_id"], keep="first"
     )
@@ -308,37 +354,124 @@ def _save(df: pd.DataFrame, name: str) -> tuple[Path, Path]:
     MARTS_DIR.mkdir(parents=True, exist_ok=True)
     pq = MARTS_DIR / f"{name}.parquet"
     csv = MARTS_DIR / f"{name}.csv"
-    try:
-        df.to_parquet(pq, index=False)
-    except Exception as exc:  # pragma: no cover
-        LOGGER.warning("Parquet falhou para %s (%s); só CSV", name, exc)
-        pq = pq.with_suffix(".SKIPPED")
-    df.to_csv(csv, index=False, encoding="utf-8")
-    return pq, csv
+    _, pq_out = save_dataframe(df, csv, pq, stem=name)
+    return pq_out or pq.with_suffix(".SKIPPED"), csv
+
+
+def _build_dim_pergunta(long: pd.DataFrame) -> pd.DataFrame:
+    if long.empty:
+        return pd.DataFrame(columns=["sk_pergunta", "publico", "bloco", "pergunta_num", "pergunta_slug"])
+    base = long[["publico", "bloco", "pergunta_num", "pergunta_slug"]].drop_duplicates()
+    base = base.sort_values(["publico", "pergunta_num"])
+    base["sk_pergunta"] = range(1, len(base) + 1)
+    return base[["sk_pergunta", "publico", "bloco", "pergunta_num", "pergunta_slug"]]
+
+
+def _build_dim_respondente(wide_c: pd.DataFrame, wide_d: pd.DataFrame) -> pd.DataFrame:
+    parts = []
+    for df in (wide_c, wide_d):
+        if df.empty:
+            continue
+        cols = [c for c in ["respondente_id", "publico", "carimbo", "fonte_arquivo"] if c in df.columns]
+        parts.append(df[cols].drop_duplicates())
+    if not parts:
+        return pd.DataFrame(columns=["sk_respondente", "respondente_id", "publico", "carimbo"])
+    out = pd.concat(parts, ignore_index=True).drop_duplicates()
+    out["sk_respondente"] = range(1, len(out) + 1)
+    return out[["sk_respondente", "respondente_id", "publico", "carimbo", "fonte_arquivo"]]
+
+
+def _build_fato_pesquisa_primaria(
+    long: pd.DataFrame, dim_pergunta: pd.DataFrame, dim_respondente: pd.DataFrame
+) -> pd.DataFrame:
+    if long.empty:
+        return pd.DataFrame()
+    df = long.merge(
+        dim_pergunta,
+        on=["publico", "bloco", "pergunta_num", "pergunta_slug"],
+        how="left",
+    )
+    resp_cols = ["sk_respondente", "respondente_id", "publico"]
+    resp_cols = [c for c in resp_cols if c in dim_respondente.columns or c in df.columns]
+    if "respondente_id" in df.columns and "sk_respondente" in dim_respondente.columns:
+        df = df.merge(
+            dim_respondente[["sk_respondente", "respondente_id", "publico"]],
+            on=["respondente_id", "publico"],
+            how="left",
+        )
+    cols = [
+        c
+        for c in [
+            "sk_respondente",
+            "sk_pergunta",
+            "publico",
+            "bloco",
+            "pergunta_slug",
+            "valor_texto",
+            "valor_numerico",
+            "carimbo",
+            "fonte",
+        ]
+        if c in df.columns
+    ]
+    return df[cols].copy()
+
+
+def _build_pesquisa_marts() -> dict[str, pd.DataFrame]:
+    long = _read_staging_file("pesquisa_primaria_long")
+    agregada = _read_staging_file("pesquisa_primaria_agregada")
+    wide_c = _read_staging_file("pesquisa_contratante_wide")
+    wide_d = _read_staging_file("pesquisa_diaristas_wide")
+    if long.empty and agregada.empty:
+        return {}
+
+    dim_pergunta = _build_dim_pergunta(long)
+    dim_respondente = _build_dim_respondente(wide_c, wide_d)
+    fato_primaria = _build_fato_pesquisa_primaria(long, dim_pergunta, dim_respondente)
+
+    return {
+        "dim_pergunta": dim_pergunta,
+        "dim_respondente": dim_respondente,
+        "fato_pesquisa_primaria": fato_primaria,
+        "fato_pesquisa_agregada": agregada,
+    }
 
 
 def build() -> dict[str, pd.DataFrame]:
     catalogo = Catalogo.load()
-    staging = _read_staging()
-    if staging.empty:
-        LOGGER.error("data/staging está vazio — rode pipeline.etl antes")
+    staging = _read_staging_sidra()
+    artifacts: dict[str, pd.DataFrame] = {}
+
+    if not staging.empty:
+        dim_tempo = _build_dim_tempo(staging)
+        dim_territorio = _build_dim_territorio(staging)
+        dim_indicador = _build_dim_indicador(staging, catalogo)
+        dim_recorte = _build_dim_recorte(staging)
+        fato = _build_fato(staging, dim_tempo, dim_territorio, dim_indicador, dim_recorte)
+        fato_diaristas = _build_fato_diaristas(staging, fato, catalogo)
+        artifacts.update({
+            "dim_tempo": dim_tempo,
+            "dim_territorio": dim_territorio,
+            "dim_indicador": dim_indicador,
+            "dim_recorte": dim_recorte,
+            "fato_mercado_trabalho": fato,
+            "fato_diaristas": fato_diaristas,
+        })
+    else:
+        LOGGER.warning("Staging SIDRA vazio — marts macro não gerados")
+
+    pesquisa = _build_pesquisa_marts()
+    if pesquisa:
+        artifacts.update(pesquisa)
+    else:
+        LOGGER.warning(
+            "Staging de formulários vazio — rode: python -m pipeline.etl --formularios"
+        )
+
+    if not artifacts:
+        LOGGER.error("Nenhum dado em data/staging — rode pipeline.etl")
         return {}
 
-    dim_tempo = _build_dim_tempo(staging)
-    dim_territorio = _build_dim_territorio(staging)
-    dim_indicador = _build_dim_indicador(staging, catalogo)
-    dim_recorte = _build_dim_recorte(staging)
-    fato = _build_fato(staging, dim_tempo, dim_territorio, dim_indicador, dim_recorte)
-    fato_diaristas = _build_fato_diaristas(staging, fato, catalogo)
-
-    artifacts = {
-        "dim_tempo": dim_tempo,
-        "dim_territorio": dim_territorio,
-        "dim_indicador": dim_indicador,
-        "dim_recorte": dim_recorte,
-        "fato_mercado_trabalho": fato,
-        "fato_diaristas": fato_diaristas,
-    }
     for name, frame in artifacts.items():
         pq, csv = _save(frame, name)
         LOGGER.info("Mart %s: %d linhas (%s)", name, len(frame), csv.name)
