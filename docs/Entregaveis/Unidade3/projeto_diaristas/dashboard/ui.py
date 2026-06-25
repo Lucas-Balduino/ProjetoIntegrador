@@ -34,6 +34,17 @@ def kpi_row(items: list[tuple[str, str, str]]) -> None:
     for col, (value, label, hint) in zip(cols, items):
         with col:
             with st.container(border=True):
+                # O CSS injetado procura pelo .kpi-label para colorir o top-border do container
+                st.markdown(
+                    """
+                    <style>
+                    div[data-testid="stVerticalBlockBorderWrapper"]:has(.kpi-label) {
+                        border-top: 3px solid #1a5fa8 !important;
+                    }
+                    </style>
+                    """,
+                    unsafe_allow_html=True
+                )
                 st.markdown(f'<p class="kpi-label">{label}</p>', unsafe_allow_html=True)
                 st.markdown(f'<p class="kpi-value">{value}</p>', unsafe_allow_html=True)
                 st.markdown(f'<p class="kpi-delta flat">{hint}</p>', unsafe_allow_html=True)
@@ -89,8 +100,8 @@ def tag_card(eyebrow: str, title: str, tags: list[tuple[str, str]], note: str = 
     with st.container(border=True):
         st.markdown(f'<p class="card-eyebrow">{eyebrow}</p>', unsafe_allow_html=True)
         st.markdown(f'<p class="card-title">{title}</p>', unsafe_allow_html=True)
-        chips = "".join(f'<span class="tag {size}">{label}</span>' for label, size in tags)
-        st.markdown(f'<div style="margin-top:.4rem">{chips}</div>', unsafe_allow_html=True)
+        chips = "".join(f'<li class="concern {size}">{label}</li>' for label, size in tags)
+        st.markdown(f'<ul class="concerns-list">{chips}</ul>', unsafe_allow_html=True)
         if note:
             st.markdown(f'<p class="card-note">{note}</p>', unsafe_allow_html=True)
 
@@ -103,17 +114,10 @@ def empty_card(message: str) -> None:
 # --------------------------------------------------------------------------- #
 # Sidebar
 # --------------------------------------------------------------------------- #
-TEAM = [
-    ("Lucas Gonçalves", "Product Owner"),
-    ("João Victor Rios", "Full-stack"),
-    ("Alexsander Motta", "BI"),
-    ("Beatriz Vasconcellos", "UX"),
-    ("Vinicius Inoue", "QA"),
-]
 
 
-def render_sidebar() -> dict[str, bool]:
-    """Renderiza branding, navegação e filtros; retorna perfis ativos."""
+def render_sidebar() -> None:
+    """Renderiza branding e navegação."""
     st.sidebar.markdown(
         '<div class="brand">'
         '<div class="brand-logo">PI</div>'
@@ -126,22 +130,12 @@ def render_sidebar() -> dict[str, bool]:
         ("app.py", "Visão geral"),
         ("pages/2_Sobre.py", "Sobre"),
         ("pages/3_Fontes.py", "Fontes"),
+        ("pages/4_Equipe.py", "Equipe"),
     ]:
         try:
             st.sidebar.page_link(target, label=label)
         except Exception:
             pass
-
-    st.sidebar.markdown('<div class="side-section">Filtros de dados</div>', unsafe_allow_html=True)
-    st.sidebar.caption("Selecione os perfis incluídos nos gráficos de pesquisa local.")
-    diaristas = st.sidebar.checkbox("Diaristas", value=True, key="f_diaristas")
-    contratantes = st.sidebar.checkbox("Contratantes", value=True, key="f_contratantes")
-
-    st.sidebar.markdown('<div class="side-section">Equipe</div>', unsafe_allow_html=True)
-    team_html = "".join(f'{n} — {r}<br>' for n, r in TEAM)
-    st.sidebar.markdown(f'<div class="side-author">{team_html}</div>', unsafe_allow_html=True)
-
-    return {"diarista": diaristas, "contratante": contratantes}
 
 
 def footer(source: str) -> None:
@@ -152,8 +146,9 @@ def footer(source: str) -> None:
         '<div class="footer-note">'
         "<strong>Projeto Integrador I — UniCEUB.</strong> Análise da problemática do "
         "trabalho doméstico informal (ODS 8), cruzando PNAD Contínua (IBGE SIDRA) com "
-        f"pesquisa de campo em Brasília, 2026. Fonte de dados: {label}. "
-        '<a href="https://sidra.ibge.gov.br/pesquisa/pnadct/tabelas" target="_blank">IBGE SIDRA</a>'
+        f"pesquisa de campo em Brasília, 2026. Fonte de dados: {label}.<br>"
+        '<a href="https://sidra.ibge.gov.br/pesquisa/pnadct/tabelas" target="_blank">IBGE SIDRA</a> &middot; '
+        '<a href="https://github.com/Lucas-Balduino/ProjetoIntegrador" target="_blank">Repositório do Projeto</a>'
         "</div>",
         unsafe_allow_html=True,
     )
