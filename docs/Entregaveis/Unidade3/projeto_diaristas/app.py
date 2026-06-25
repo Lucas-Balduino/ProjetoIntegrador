@@ -109,14 +109,23 @@ def render_contratantes(payload: dict[str, Any]) -> None:
     _survey_grid(payload, "contratante", "PESQUISA · CONTRATANTES")
 
 
-def render_pesquisa(payload: dict[str, Any], active: dict[str, bool]) -> None:
+def render_pesquisa(payload: dict[str, Any]) -> None:
     ui.tag_card(
         "ANÁLISE QUALITATIVA",
         "Mapa de preocupações da pesquisa de campo",
         queries.preocupacoes(payload),
         note="Tamanho do termo proporcional à frequência nas respostas abertas.",
     )
-    publicos = [p for p, on in active.items() if on] or ["diarista", "contratante"]
+    
+    st.markdown("<br>", unsafe_allow_html=True)
+    view = st.pills("Filtrar gráficos de pesquisa:", ["Ambos", "Diaristas", "Contratantes"], default="Ambos")
+    if view == "Ambos":
+        publicos = ["diarista", "contratante"]
+    elif view == "Diaristas":
+        publicos = ["diarista"]
+    else:
+        publicos = ["contratante"]
+        
     for publico in publicos:
         st.markdown(f'<p class="card-eyebrow" style="margin-top:1rem">PERFIL · {publico.upper()}</p>', unsafe_allow_html=True)
         _survey_grid(payload, publico, f"PESQUISA · {publico.upper()}")
@@ -133,7 +142,7 @@ def main() -> None:
         initial_sidebar_state="expanded",
     )
     theme.inject_theme()
-    active = ui.render_sidebar()
+    ui.render_sidebar()
 
     payload = data_loader.load_marts()
     if not data_loader.marts_available(payload):
@@ -157,7 +166,7 @@ def main() -> None:
     with tab_contratantes:
         render_contratantes(payload)
     with tab_pesquisa:
-        render_pesquisa(payload, active)
+        render_pesquisa(payload)
 
     ui.footer(payload.get("source", ""))
 
