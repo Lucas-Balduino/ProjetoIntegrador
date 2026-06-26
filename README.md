@@ -9,6 +9,9 @@
 
 O objetivo deste semestre **não é construir o aplicativo ou a solução final**. Nosso foco total é mergulhar no "Espaço do Problema". O mercado está cheio de aplicativos de serviço que falham porque não entendem as reais dores das pessoas. Nossa missão no PI 1 é entregar um **Dashboard de Análise da Problemática**, provando para a banca que existe um problema real, validado por dados, e que vale a pena ser resolvido nos próximos semestres.
 
+**Parceria Estratégica: SEBRAE**
+Temos o orgulho de contar com a parceria do **SEBRAE** no desenvolvimento desta pesquisa. Esta parceria enriquece nossa análise do mercado de trabalho autônomo e do empreendedorismo, nos apoiando com conhecimento estratégico e dados essenciais para construir uma base sólida para o projeto.
+
 ### 2. Metodologia: Design Thinking
 
 Estamos utilizando o Design Thinking, uma abordagem centrada no ser humano. Para este semestre, focaremos nas duas primeiras etapas:
@@ -43,6 +46,8 @@ Para construir nosso Dashboard, cruzaremos dados oficiais de mercado (Macro) com
 
 Ao final do semestre, apresentaremos um painel visual que vai cruzar as informações coletadas. Mostraremos a ineficiência do modelo atual (ex: oferta ociosa das diaristas *versus* demanda reprimida dos clientes) e as fricções de segurança. Esse será o nosso "passe livre" para, no PI 2, começarmos a desenhar as telas e as regras de negócio da plataforma.
 
+**Acesse o Dashboard da Aplicação:** 🔗 [Dashboard - Projeto Integrador](https://pi-trabalho-domestico.streamlit.app)
+
 ---
 
 ### 7. Fonte de Pesquisa
@@ -71,16 +76,32 @@ Manual do Empregador Domestico
 
 ### 8. Estrutura do Repositório
 
+- 📂 **`docs/`** *(Pasta Principal)*: Centraliza todas as documentações essenciais, registros e acompanhamento do projeto.
+  - **`Entregaveis/`**: Arquivos gerados ao longo das cinco unidades da disciplina.
+    - *Unidades 1 e 2*: Mapas de Empatia, Relatórios de Imersão, Backlogs e Documento de Escopo.
+    - *Unidade 3*: Modelagem de Dados, Modelo ERD e Relatório ETL.
+    - *Unidade 4*: Análise Estatística e Visões do Dashboard.
+    - *Unidade 5*: Avaliação da Comunidade Participante (ACE).
+  - **`Gerencia de Projeto/`**: Documentos voltados para a gestão, organização do time e oficialização (ex: Termo de Abertura).
+  - **`Slides/`**: Apresentações de acompanhamento, pitch e visão geral do projeto para bancas e reuniões.
+
+- 📂 **`Data/`**: Concentra os dados, formulários e planilhas que embasam a pesquisa de campo e alimentam o Dashboard.
+  - **`DataIPEA-IBGE/`**: Bases de dados secundárias (planilhas .xlsx) com fontes oficiais do IPEA e IBGE sobre população, rendimento médio e previdência no trabalho doméstico.
+  - **`PesquisaFormularios/`**: Documentos (.md) contendo os roteiros de perguntas para as entrevistas de pesquisa primária (focadas em Clientes e Prestadoras de Serviço).
+
 ```text
 ProjetoIntegrador/
 ├── Data/
-│   └── DataIPEA-IBGE/
-│       ├── DataPopulacaoEmTD(S,R,L).xlsx
-│       ├── DataTDR-RendimentoMedio.xlsx
-│       ├── DataTDR-ResidenciasTrabalhadas.xlsx
-│       ├── DataTDRcomCLT.xlsx
-│       ├── DataTDRcomPrevi.xlsx
-│       └── Descricao.md
+│   ├── DataIPEA-IBGE/
+│   │   ├── DataPopulacaoEmTD(S,R,L).xlsx
+│   │   ├── DataTDR-RendimentoMedio.xlsx
+│   │   ├── DataTDR-ResidenciasTrabalhadas.xlsx
+│   │   ├── DataTDRcomCLT.xlsx
+│   │   ├── DataTDRcomPrevi.xlsx
+│   │   └── Descricao.md
+│   └── PesquisaFormularios/
+│       ├── PesquisaCliente.md
+│       └── PesquisaPrestadoresDeServico.md
 ├── docs/
 │   ├── Entregaveis/
 │   │   ├── Unidade1/
@@ -90,15 +111,25 @@ ProjetoIntegrador/
 │   │   │   │   └── MapaDaEmpatiaDiarista.png
 │   │   │   ├── Registro de ideias (brainstorming).jpg
 │   │   │   └── Relatorio de Imersao - Projeto Integrador I.pdf
-│   │   └── Unidade2/
-│   │       ├── Backlog - Projeto Integrador I.pdf
-│   │       ├── Documento de Escopo - Projeto Integrador I.pdf
-│   │       └── Prototipos/
-│   ├── TERMO DE ABERTURA DO PROJETO - Projeto Integrador I.pdf
-│   ├── VISÃO GERAL DO PROJETO - Projeto Integrador I.pdf
-│   └── VisaoGeralETAP-ProjetoIntegrador(Slide).pdf
-├── PesquisaFormularios/
-│   ├── PesquisaCliente.md
-│   └── PesquisaPrestadoresDeServico.md
+│   │   ├── Unidade2/
+│   │   │   ├── Backlog - Projeto Integrador I.pdf
+│   │   │   ├── Documento de Escopo - Projeto Integrador I.pdf
+│   │   │   └── Prototipos/
+│   │   ├── Unidade3/
+│   │   │   ├── Documento de Modelagem dos Dados.pdf
+│   │   │   ├── EventosDinamicos.JSON
+│   │   │   ├── Modelo ERD.png
+│   │   │   ├── Relatorio_ETL_PI.pdf
+│   │   │   └── projeto_diaristas/
+│   │   ├── Unidade4/
+│   │   │   ├── DASHBOARD_COMPLETO.jpeg
+│   │   │   ├── DOCUMENTO_MESTRE_ANALISE_ESTATISTICA_E_INSIGHTS_ATUALIZADO.pdf
+│   │   │   ├── TABELA_5440_6374.png
+│   │   │   └── TABELA_8529.png
+│   │   └── Unidade5/
+│   │       └── ACE - 2026.1 -  AVALIAÇÃO COMUNIDADE PARTICIPANTE .pdf
+│   ├── Gerencia de Projeto/
+│   ├── Slides/
+│   └── VISÃO GERAL DO PROJETO - Projeto Integrador I.pdf
 └── README.md
 ```
