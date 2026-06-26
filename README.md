@@ -9,6 +9,9 @@
 
 O objetivo deste semestre **não é construir o aplicativo ou a solução final**. Nosso foco total é mergulhar no "Espaço do Problema". O mercado está cheio de aplicativos de serviço que falham porque não entendem as reais dores das pessoas. Nossa missão no PI 1 é entregar um **Dashboard de Análise da Problemática**, provando para a banca que existe um problema real, validado por dados, e que vale a pena ser resolvido nos próximos semestres.
 
+**Parceria Estratégica: SEBRAE**
+Temos o orgulho de contar com a parceria do **SEBRAE** no desenvolvimento desta pesquisa. Esta parceria enriquece nossa análise do mercado de trabalho autônomo e do empreendedorismo, nos apoiando com conhecimento estratégico e dados essenciais para construir uma base sólida para o projeto.
+
 ### 2. Metodologia: Design Thinking
 
 Estamos utilizando o Design Thinking, uma abordagem centrada no ser humano. Para este semestre, focaremos nas duas primeiras etapas:
@@ -43,6 +46,8 @@ Para construir nosso Dashboard, cruzaremos dados oficiais de mercado (Macro) com
 
 Ao final do semestre, apresentaremos um painel visual que vai cruzar as informações coletadas. Mostraremos a ineficiência do modelo atual (ex: oferta ociosa das diaristas *versus* demanda reprimida dos clientes) e as fricções de segurança. Esse será o nosso "passe livre" para, no PI 2, começarmos a desenhar as telas e as regras de negócio da plataforma.
 
+**Acesse o Dashboard da Aplicação:** 🔗 [Dashboard - Projeto Integrador](https://pi-trabalho-domestico.streamlit.app)
+
 ---
 
 ### 7. Fonte de Pesquisa
@@ -70,6 +75,8 @@ Manual do Empregador Domestico
 ---
 
 ### 8. Estrutura do Repositório
+
+> **Atenção:** A pasta **`docs/`** é a principal pasta do projeto e possui diversas documentações fundamentais sobre a pesquisa, como relatórios de imersão, mapas de empatia, documentos de escopo, backlogs e apresentações.
 
 ```text
 ProjetoIntegrador/
